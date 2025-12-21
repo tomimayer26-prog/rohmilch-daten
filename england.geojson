@@ -1,0 +1,726 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-12-21T15:25:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4931298518",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4782586,
+          53.1650513
+        ]
+      },
+      "id": "node/4931298518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6746441934",
+        "amenity": "vending_machine",
+        "name": "Little Dairy Shop",
+        "vending": "Raw milk and raw milk products"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9450516,
+          52.9205343
+        ]
+      },
+      "id": "node/6746441934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8095086212",
+        "amenity": "vending_machine",
+        "description": "Small building with vending machines selling fresh milk and cheese",
+        "name": "Mount Boon Milk Co",
+        "opening_hours": "24/7",
+        "payment:contactless": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6193066,
+          50.7028418
+        ]
+      },
+      "id": "node/8095086212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8706682327",
+        "amenity": "vending_machine",
+        "name": "Yew Tree Farm",
+        "vending": "milk;milkshakes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8661767,
+          51.3938385
+        ]
+      },
+      "id": "node/8706682327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8901250051",
+        "amenity": "vending_machine",
+        "check_date": "2023-10-08",
+        "covered": "no",
+        "name": "Welshpool Road Milk Vending Machine",
+        "payment:credit_cards": "yes",
+        "vending": "milk;milkshakes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8059035,
+          52.7147529
+        ]
+      },
+      "id": "node/8901250051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8916872640",
+        "amenity": "vending_machine",
+        "name": "Greyleys Jersey Milk",
+        "vending": "milk;eggs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9541101,
+          53.9255763
+        ]
+      },
+      "id": "node/8916872640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9104223956",
+        "addr:postcode": "CA7 8EL",
+        "amenity": "vending_machine",
+        "name": "Midtown Milkhouse",
+        "opening_hours": "24/7",
+        "operator": "Midtown Farm",
+        "payment:coins": "yes",
+        "payment:contactless": "yes",
+        "source:postcode": "website",
+        "vending": "milk;cheese;eggs;sausages;bacon",
+        "website": "https://midtownmilkhouse.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0515445,
+          54.7481891
+        ]
+      },
+      "id": "node/9104223956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9361702837",
+        "amenity": "vending_machine",
+        "fhrs:id": "1365988",
+        "name": "Tytherington Milk Station",
+        "vending": "milk",
+        "website": "https://tytheringtonmilkstation.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3676807,
+          51.3813295
+        ]
+      },
+      "id": "node/9361702837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9646445855",
+        "amenity": "vending_machine",
+        "facebook": "https://www.facebook.com/moovalleymilk/",
+        "fhrs:id": "1451001",
+        "name": "Moo Valley Milk",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5485243,
+          51.3319703
+        ]
+      },
+      "id": "node/9646445855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10049750921",
+        "amenity": "vending_machine",
+        "currency:GBP": "yes",
+        "description": "Milk Vending Machine selling pasteurised whole milk straight from the farm, Udderly Fantastic. With its cream layer and extra creamy taste.  Milkshakes also available, chocolate, salted caramel, banana, strawberry, raspberry, white chocolate and raspberry",
+        "operator": "Cumboots Dairy Farm",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "vending": "milk;milkshakes;eggs",
+        "website": "https://www.cumbootsdairyfarm.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4741733,
+          54.3130678
+        ]
+      },
+      "id": "node/10049750921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10116428124",
+        "amenity": "vending_machine",
+        "covered": "yes",
+        "currency:GBP": "yes",
+        "email": "info@milkfromthehills.co.uk",
+        "name": "Milk from the Hills",
+        "opening_hours": "06:30-21:00",
+        "operator": "Kidfield Farm",
+        "payment:contactless": "yes",
+        "phone": "+44 7929 376483",
+        "refill": "yes",
+        "source": "survey",
+        "vending": "milk;milkshakes;ice_cream",
+        "website": "https://milkfromthehills.co.uk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6184349,
+          53.5450671
+        ]
+      },
+      "id": "node/10116428124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10143105664",
+        "amenity": "vending_machine",
+        "facebook": "https://www.facebook.com/moovalleymilk/",
+        "fhrs:id": "1622801",
+        "fixme": "rough location",
+        "name": "Moo Valley Milk Limited",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6308874,
+          51.355283
+        ]
+      },
+      "id": "node/10143105664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10302818089",
+        "amenity": "vending_machine",
+        "operator": "Nunton Dairy",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7576275,
+          50.9919353
+        ]
+      },
+      "id": "node/10302818089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723407516",
+        "amenity": "vending_machine",
+        "covered": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.19135,
+          51.1799996
+        ]
+      },
+      "id": "node/10723407516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10745123317",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.303592,
+          50.6596119
+        ]
+      },
+      "id": "node/10745123317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10984593898",
+        "amenity": "vending_machine",
+        "operator": "Sweet's Dairy",
+        "payment:contactless": "yes",
+        "vending": "milk;coffee;milkshakes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0501507,
+          50.363192
+        ]
+      },
+      "id": "node/10984593898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11008108705",
+        "amenity": "vending_machine",
+        "check_date": "2024-10-11",
+        "description": "Small and large bottles are available to buy if you don't bring your own. You can also buy milkshakes and coffee. Only immediate payment method is tapping a card however you might be able to pay in the farm shop",
+        "fhrs:id": "1417801",
+        "internet_access": "no",
+        "name": "Readers milk station",
+        "opening_hours": "24/7",
+        "payment:cash": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "vending": "milk",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.094628,
+          51.0396522
+        ]
+      },
+      "id": "node/11008108705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11211814551",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3066377,
+          50.7285086
+        ]
+      },
+      "id": "node/11211814551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11249144276",
+        "amenity": "vending_machine",
+        "check_date": "2025-08-15",
+        "image": "https://www.geograph.org.uk/photo/5076643",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7662815,
+          54.2820378
+        ]
+      },
+      "id": "node/11249144276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11356444289",
+        "amenity": "vending_machine",
+        "payment:contactless": "yes",
+        "vending": "milk;milkshake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.962874,
+          53.7536336
+        ]
+      },
+      "id": "node/11356444289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11361020508",
+        "addr:postcode": "BS39 5TA",
+        "addr:street": "Upper Bristol Road",
+        "amenity": "vending_machine",
+        "fhrs:id": "1622800",
+        "name": "Moo Valley Milk",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5480977,
+          51.3327972
+        ]
+      },
+      "id": "node/11361020508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11657390077",
+        "amenity": "vending_machine",
+        "description": "Woodley Village Hall (car park) - Milk (empty glass bottles available for purchase), Eggs & Cheese",
+        "operator": "Michelmersh Dairy",
+        "payment:credit_cards": "yes",
+        "vending": "food;milk;eggs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4711835,
+          50.999838
+        ]
+      },
+      "id": "node/11657390077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11826615736",
+        "amenity": "vending_machine",
+        "description": "Nutton Farm Dairy Vending Machine",
+        "drink:raw_milk": "no",
+        "operator": "Nutton Farm Dairy",
+        "payment:contactless": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7987414,
+          51.0865881
+        ]
+      },
+      "id": "node/11826615736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11914573429",
+        "amenity": "vending_machine",
+        "operator": "Nutton Farm Dairy",
+        "payment:contactless": "yes",
+        "vending": "food;eggs;honey;cheese;milk_bottles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7987495,
+          51.0866005
+        ]
+      },
+      "id": "node/11914573429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11933703716",
+        "amenity": "vending_machine",
+        "charge": "1.75 GBP for 2 pints",
+        "indoor": "yes",
+        "name": "Raw milk in the fridge",
+        "opening_hours": "24/7",
+        "payment:cash": "only",
+        "payment:coins": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "vending": "raw_milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2726527,
+          51.3178074
+        ]
+      },
+      "id": "node/11933703716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11934858116",
+        "amenity": "vending_machine",
+        "check_date": "2025-06-17",
+        "indoor": "yes",
+        "operator": "Midtown Milkhouse",
+        "vending": "milk;milkshake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1419939,
+          54.6019594
+        ]
+      },
+      "id": "node/11934858116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11934885689",
+        "amenity": "vending_machine",
+        "name": "The Milk Hut",
+        "operator": "High Roosebeck Farm",
+        "vending": "milk;milkshake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1314019,
+          54.1036094
+        ]
+      },
+      "id": "node/11934885689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11993525597",
+        "amenity": "vending_machine",
+        "indoor": "yes",
+        "name": "The Vending Shed",
+        "operator": "The Vending Shed",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8497412,
+          50.8059863
+        ]
+      },
+      "id": "node/11993525597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12046312871",
+        "amenity": "vending_machine",
+        "vending": "drinks;milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0596938,
+          51.1468861
+        ]
+      },
+      "id": "node/12046312871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12070452364",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0335302,
+          50.8118957
+        ]
+      },
+      "id": "node/12070452364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12137330186",
+        "amenity": "vending_machine",
+        "operator": "Cotswold Organic Dairy",
+        "organic": "yes",
+        "vending": "milk;cheese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.749913,
+          51.8864972
+        ]
+      },
+      "id": "node/12137330186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12858130737",
+        "amenity": "vending_machine",
+        "currency:GBP": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5417045,
+          51.9163066
+        ]
+      },
+      "id": "node/12858130737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12918118135",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4808275,
+          54.879966
+        ]
+      },
+      "id": "node/12918118135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12979570517",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2713067,
+          51.0244039
+        ]
+      },
+      "id": "node/12979570517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12998723988",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.775841,
+          51.0342385
+        ]
+      },
+      "id": "node/12998723988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13140993454",
+        "amenity": "vending_machine",
+        "covered": "yes",
+        "indoor": "no",
+        "level": "0",
+        "name": "The Vending Shed",
+        "opening_hours": "24/7",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0043091,
+          50.7788455
+        ]
+      },
+      "id": "node/13140993454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13171841223",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2851884,
+          51.1487256
+        ]
+      },
+      "id": "node/13171841223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13265920211",
+        "addr:city": "Stonehouse",
+        "addr:housename": "Horsemarling Farm",
+        "addr:place": "Standish",
+        "addr:postcode": "GL10 3BT",
+        "amenity": "vending_machine",
+        "name": "Stonehouse Milk",
+        "operator": "Stonehouse Milk",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "farm",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2807862,
+          51.7568925
+        ]
+      },
+      "id": "node/13265920211"
+    }
+  ]
+}

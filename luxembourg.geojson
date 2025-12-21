@@ -1,0 +1,169 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-12-21T15:18:58Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5622141210",
+        "amenity": "vending_machine",
+        "name": "Beetebuerger Mëllechtankstell",
+        "opening_hours": "24/7",
+        "operator": "Biver",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0941029,
+          49.5183078
+        ]
+      },
+      "id": "node/5622141210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5622211811",
+        "amenity": "vending_machine",
+        "contact:email": "marc.elsen@hogemat.lu",
+        "contact:facebook": "https://www.facebook.com/pages/Hogemat-SC/292723254231199?",
+        "contact:mobile": "+352 691838358",
+        "contact:website": "http://www.hogemat.lu/",
+        "image": "http://www.hogemat.lu/uploads/5/7/0/2/57024011/4572714.jpg",
+        "name": "Mëllechtankstell",
+        "opening_hours": "24/7",
+        "operator": "Hogemav Sc",
+        "payment:cash": "yes",
+        "payment:digicash": "yes",
+        "vending": "milk;meat;eggs;diaries;honey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.194082,
+          49.7028263
+        ]
+      },
+      "id": "node/5622211811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5622254874",
+        "amenity": "vending_machine",
+        "contact:facebook": "https://www.facebook.com/Mellechtankstell.Roullingen",
+        "name": "Mëllechtankstell Roullingen",
+        "opening_hours": "24/7",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9235956,
+          49.9545947
+        ]
+      },
+      "id": "node/5622254874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5624088302",
+        "amenity": "vending_machine",
+        "name": "Mëllech Tankstell",
+        "opening_hours": "24/7",
+        "operator": "Sangers-Majerus",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9106858,
+          49.754858
+        ]
+      },
+      "id": "node/5624088302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10302728487",
+        "amenity": "vending_machine",
+        "operator": "Kass Haff Automat",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes",
+        "vending": "drinks;food;milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1253403,
+          49.7309668
+        ]
+      },
+      "id": "node/10302728487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11068562688",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "operator": "Regio-Box Elvange/Schengen / Liewensmëttel vun der Froumillen",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:google_pay": "yes",
+        "vending": "food;eggs;meat;cheese;milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3160457,
+          49.5065425
+        ]
+      },
+      "id": "node/11068562688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12063835584",
+        "amenity": "vending_machine",
+        "name": "Keispelter Shop",
+        "vending": "food;milk;eggs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0569283,
+          49.6840062
+        ]
+      },
+      "id": "node/12063835584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12070208727",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "name": "Haff um Reedchen",
+        "payment:cash": "yes",
+        "payment:digicash": "yes",
+        "vending": "food;milk;eggs;ice_cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0687095,
+          49.6975663
+        ]
+      },
+      "id": "node/12070208727"
+    }
+  ]
+}

@@ -1,0 +1,1601 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-12-21T15:13:00Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/357657512",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1568112,
+          47.6394472
+        ]
+      },
+      "id": "node/357657512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/558902520",
+        "amenity": "vending_machine",
+        "check_date": "2021-09-06",
+        "name": "Milchautomat",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7330128,
+          47.563751
+        ]
+      },
+      "id": "node/558902520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1435893232",
+        "amenity": "vending_machine",
+        "cost": "1 CHF",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2635714,
+          46.6415335
+        ]
+      },
+      "id": "node/1435893232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1844309476",
+        "addr:housenumber": "93a",
+        "addr:postcode": "8052",
+        "addr:street": "Heuweg",
+        "amenity": "vending_machine",
+        "check_date": "2025-08-29",
+        "covered": "yes",
+        "description": "Enthält auch Honig und Fleisch von lokalen Erzeugern.",
+        "drink:raw_milk": "yes",
+        "indoor": "yes",
+        "level": "0",
+        "name": "Milchautomat 24h",
+        "name:it": "Milchautomat 24h",
+        "opening_hours": "24/7",
+        "payment:apple_pay": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:samsung_pay": "yes",
+        "vending": "milk;eggs;honey;jam",
+        "website": "https://www.biowaidhof.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5257269,
+          47.4230015
+        ]
+      },
+      "id": "node/1844309476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2321655472",
+        "amenity": "vending_machine",
+        "check_date": "2024-01-12",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7242606,
+          47.6113311
+        ]
+      },
+      "id": "node/2321655472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2390417734",
+        "amenity": "vending_machine",
+        "operator": "Jubin",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:maestro": "yes",
+        "vending": "fuel;cigarettes;drinks;sweets;food;coffee;milk;water;bread;chewing_gums"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8191004,
+          46.5710916
+        ]
+      },
+      "id": "node/2390417734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2573237917",
+        "amenity": "vending_machine",
+        "name": "Milchautomat",
+        "payment:coins": "yes",
+        "payment:notes": "no",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0063413,
+          47.4491881
+        ]
+      },
+      "id": "node/2573237917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2627112121",
+        "amenity": "vending_machine",
+        "vending": "milk;food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2374929,
+          46.6193961
+        ]
+      },
+      "id": "node/2627112121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3526736355",
+        "amenity": "vending_machine",
+        "check_date": "2024-08-20",
+        "drink:raw_milk": "yes",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5065757,
+          47.4374334
+        ]
+      },
+      "id": "node/3526736355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3599389112",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2025666,
+          47.441632
+        ]
+      },
+      "id": "node/3599389112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3720692546",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.857982,
+          47.4347639
+        ]
+      },
+      "id": "node/3720692546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4813559889",
+        "amenity": "vending_machine",
+        "check_date": "2025-07-02",
+        "description": "4.00 chf/Liter, Münzeinwurf, eigene Flasche mitbringen, kein Rückgeld",
+        "indoor": "no",
+        "opening_hours": "24/7",
+        "payment:coins": "only",
+        "vending": "raw_milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5286001,
+          47.4319906
+        ]
+      },
+      "id": "node/4813559889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4878674529",
+        "amenity": "vending_machine",
+        "description": "Milch frisch ab Hof, CHF 1.50/l",
+        "name": "Milch",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5506242,
+          47.5439587
+        ]
+      },
+      "id": "node/4878674529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5501158313",
+        "amenity": "vending_machine",
+        "milk": "raw_milk",
+        "name": "Lehmann",
+        "opening_hours": "Mo-Su 07:00-19:00",
+        "organic": "only",
+        "payment:cash": "yes",
+        "payment:twint": "yes",
+        "produce": "milk;egg;flour",
+        "self_service": "yes",
+        "shop": "farm",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3804084,
+          46.9683358
+        ]
+      },
+      "id": "node/5501158313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5747781465",
+        "amenity": "vending_machine",
+        "check_date": "2025-02-27",
+        "currency:CHF": "yes",
+        "description": "Milch frisch ab Hof. 1,70chf/Liter, Verkauf literweise. Zahlung mit Münzen, Scheinen oder Twint, gibt Rückgeld. Eigene Behälter mitbringen oder PET-Flasche 1.5L für 30 Rp. vor Ort kaufen.",
+        "name": "Milch ab Hof",
+        "opening_hours": "24/7",
+        "operator": "Bio Waidhof",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "payment:twint": "yes",
+        "shop": "farm",
+        "vending": "milk",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5081153,
+          47.4026441
+        ]
+      },
+      "id": "node/5747781465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5749811696",
+        "amenity": "vending_machine",
+        "description": "Milchautomat, Eier, Apfel, Birne, Käser, Kartoffeln, Fleisch, Sirup, Konfiture",
+        "milk": "raw_milk",
+        "name": "Eggimann",
+        "opening_hours": "24/7",
+        "operator": "eggiman",
+        "payment:cash": "yes",
+        "shop": "farm",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.411732,
+          46.9067024
+        ]
+      },
+      "id": "node/5749811696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5842493485",
+        "addr:postcode": "5033",
+        "addr:street": "Lenzburgerstrasse",
+        "agrarian": "milk;lait;milch",
+        "amenity": "vending_machine",
+        "check_date": "2024-04-02",
+        "indoor": "no",
+        "name": "Milchautomat",
+        "name:de": "Milchautomat",
+        "name:en": "Fresh milk dispenser",
+        "name:fr": "Distributeur automatique de lait frais",
+        "opening_hours": "24/7",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "shop": "farm",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0859636,
+          47.3902631
+        ]
+      },
+      "id": "node/5842493485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5882736689",
+        "amenity": "vending_machine",
+        "currency:CHF": "yes",
+        "payment:coins": "yes",
+        "vending": "milk",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.022966,
+          47.4582354
+        ]
+      },
+      "id": "node/5882736689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6401920238",
+        "amenity": "vending_machine",
+        "currency:CHF": "yes",
+        "description": "Milchautomat",
+        "payment:coins": "yes",
+        "vending": "fresh_milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4925943,
+          47.1795445
+        ]
+      },
+      "id": "node/6401920238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6418837923",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4178244,
+          46.9773936
+        ]
+      },
+      "id": "node/6418837923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6424250535",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3162829,
+          47.1875041
+        ]
+      },
+      "id": "node/6424250535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6654983933",
+        "amenity": "vending_machine",
+        "check_date": "2023-09-03",
+        "opening_hours": "Apr-Oct: 06:00-20:00; Nov-Mar: 06:00-19:00",
+        "operator": "Geiser",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7919816,
+          47.2087638
+        ]
+      },
+      "id": "node/6654983933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6789294480",
+        "amenity": "vending_machine",
+        "contact:website": "http://stmargarethengut.cyon.site/milchautomat.html",
+        "opening_hours": "24/7",
+        "operator": "St. Margarethengut",
+        "organic": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5801816,
+          47.5424718
+        ]
+      },
+      "id": "node/6789294480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6868248409",
+        "amenity": "vending_machine",
+        "indoor": "no",
+        "integrated_farming": "only",
+        "opening_hours": "24/7",
+        "operator": "Hof Frei, Illiswil",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4473799,
+          46.9988644
+        ]
+      },
+      "id": "node/6868248409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7235687135",
+        "amenity": "vending_machine",
+        "operator": "Käserei Bürki",
+        "payment:credit_cards": "yes",
+        "payment:twint": "yes",
+        "vending": "milk;food;eggs",
+        "website": "https://kaesereibuerki.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5500167,
+          47.4228155
+        ]
+      },
+      "id": "node/7235687135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7343273440",
+        "amenity": "vending_machine",
+        "operator": "Rüedis Hofladen",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9297892,
+          47.5750747
+        ]
+      },
+      "id": "node/7343273440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7367583491",
+        "amenity": "vending_machine",
+        "check_date": "2025-07-13",
+        "drink:raw_milk": "yes",
+        "indoor": "no",
+        "payment:coins": "yes",
+        "payment:credit_cards": "no",
+        "payment:notes": "no",
+        "regional": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4643406,
+          47.392615
+        ]
+      },
+      "id": "node/7367583491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7392782267",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8617229,
+          47.5494453
+        ]
+      },
+      "id": "node/7392782267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7465928704",
+        "amenity": "vending_machine",
+        "check_date": "2023-07-04",
+        "covered": "no",
+        "currency:CHF": "yes",
+        "description": "Milchautomat, der Rohmilch verkauft.\nPreis: 1.50 CHF/l\nOeffnungszeiten: täglich 6:30 - 18:30 Uhr",
+        "ele": "574",
+        "height": "2",
+        "opening_hours": "Mo-Su 06:30-18:30",
+        "operator": "Leimbihof",
+        "payment:coins": "yes",
+        "source": "local knowledge",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.505711,
+          47.3239975
+        ]
+      },
+      "id": "node/7465928704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7481727344",
+        "amenity": "vending_machine",
+        "milk": "raw_milk",
+        "opening_hours": "24/7",
+        "payment:cash": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4061296,
+          46.9100562
+        ]
+      },
+      "id": "node/7481727344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7481753798",
+        "amenity": "vending_machine",
+        "milk": "raw_milk",
+        "name": "Könizer Milch",
+        "operating_hours": "24/7",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3938322,
+          46.9211267
+        ]
+      },
+      "id": "node/7481753798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7484739484",
+        "amenity": "vending_machine",
+        "check_date": "2023-02-12",
+        "currency:CHF": "yes",
+        "milk": "raw_milk",
+        "opening_hours": "24/7",
+        "operator": "Hofladen Chutze",
+        "payment:cash": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4354547,
+          46.9782736
+        ]
+      },
+      "id": "node/7484739484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7501493679",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9212086,
+          47.559545
+        ]
+      },
+      "id": "node/7501493679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7504396940",
+        "amenity": "vending_machine",
+        "check_date": "2023-07-05",
+        "operator": "Betriebsgemeinschaft Nussbaum & Roth, Dübendorf",
+        "organic": "only",
+        "origin": "regional",
+        "payment:coins": "only",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5958465,
+          47.3938027
+        ]
+      },
+      "id": "node/7504396940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7658729365",
+        "amenity": "vending_machine",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2926923,
+          47.34237
+        ]
+      },
+      "id": "node/7658729365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8120433884",
+        "amenity": "vending_machine",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "no",
+        "payment:cryptocurrencies": "no",
+        "payment:debit_cards": "no",
+        "payment:electronic_purses": "no",
+        "vending": "eggs;milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8268382,
+          47.1139497
+        ]
+      },
+      "id": "node/8120433884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8398206703",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5090939,
+          47.6052518
+        ]
+      },
+      "id": "node/8398206703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8463691283",
+        "amenity": "vending_machine",
+        "operator": "Hof Schlafhus",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:visa": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6310093,
+          46.7727349
+        ]
+      },
+      "id": "node/8463691283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8779228811",
+        "amenity": "vending_machine",
+        "vending": "food;milk;eggs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7145884,
+          46.7178549
+        ]
+      },
+      "id": "node/8779228811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8808412874",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.83185,
+          47.1040414
+        ]
+      },
+      "id": "node/8808412874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9035605971",
+        "amenity": "vending_machine",
+        "check_date": "2025-02-23",
+        "indoor": "yes",
+        "opening_hours": "24/7",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.511107,
+          47.148466
+        ]
+      },
+      "id": "node/9035605971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9081725816",
+        "amenity": "vending_machine",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1365683,
+          46.8043163
+        ]
+      },
+      "id": "node/9081725816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9160974698",
+        "amenity": "vending_machine",
+        "indoor": "yes",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "vending": "milk;eggs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6370878,
+          46.8698429
+        ]
+      },
+      "id": "node/9160974698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9552499914",
+        "amenity": "vending_machine",
+        "check_date": "2024-06-25",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7668211,
+          47.6631818
+        ]
+      },
+      "id": "node/9552499914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9573013430",
+        "amenity": "vending_machine",
+        "check_date": "2025-10-16",
+        "indoor": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.810798,
+          47.3238615
+        ]
+      },
+      "id": "node/9573013430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9634134267",
+        "amenity": "vending_machine",
+        "operator": "Nef Naturbuur",
+        "payment:coins": "yes",
+        "payment:maestro": "yes",
+        "payment:notes": "yes",
+        "payment:twint": "yes",
+        "vending": "drinks;food;milk;fruits;yoghurt",
+        "website": "https://www.nef-naturbuur.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7278419,
+          47.2698913
+        ]
+      },
+      "id": "node/9634134267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9663531100",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "payment:coins": "yes",
+        "payment:notes": "no",
+        "reusable_packaging:accept": "yes",
+        "reusable_packaging:offer": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.613419,
+          47.2476762
+        ]
+      },
+      "id": "node/9663531100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9808627252",
+        "amenity": "vending_machine",
+        "check_date": "2024-08-05",
+        "operator": "Stählihof",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3938216,
+          46.9966077
+        ]
+      },
+      "id": "node/9808627252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10049115239",
+        "amenity": "vending_machine",
+        "operator": "Rochushostatt",
+        "payment:coins": "yes",
+        "payment:credit_cards": "no",
+        "payment:cryptocurrencies": "no",
+        "payment:debit_cards": "no",
+        "payment:electronic_purses": "no",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3811678,
+          46.9502031
+        ]
+      },
+      "id": "node/10049115239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10110083578",
+        "addr:city": "Niederglatt SG",
+        "addr:housenumber": "742",
+        "addr:place": "Watt",
+        "addr:postcode": "9240",
+        "amenity": "vending_machine",
+        "name": "Ochsenweid Hofladen",
+        "operator": "Familie Dudli",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "phone": "+41719514594",
+        "shop": "farm",
+        "vending": "milk",
+        "website": "http://www.dudli-ochsenweid.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1591456,
+          47.4311917
+        ]
+      },
+      "id": "node/10110083578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10110610591",
+        "amenity": "vending_machine",
+        "organic": "only",
+        "reusable_packaging:accept": "yes",
+        "reusable_packaging:offer": "yes",
+        "url": "https://www.xn--hohbeler-95a.ch/hoflaedeli/",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8757964,
+          47.4943621
+        ]
+      },
+      "id": "node/10110610591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10126062711",
+        "amenity": "vending_machine",
+        "check_date": "2022-11-20",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:contactless": "yes",
+        "vending": "milk;cheese;meat;drinks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4295037,
+          47.2891925
+        ]
+      },
+      "id": "node/10126062711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10143755949",
+        "amenity": "vending_machine",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0260343,
+          47.5155221
+        ]
+      },
+      "id": "node/10143755949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10144420691",
+        "amenity": "vending_machine",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "vending": "raw_milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.241008,
+          47.3557367
+        ]
+      },
+      "id": "node/10144420691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10210686945",
+        "amenity": "vending_machine",
+        "currency:CHF": "yes",
+        "operator": "Fridolin & Sabrina Pfeiffer",
+        "payment:cash": "yes",
+        "payment:twint": "yes",
+        "vending": "food;milk;eggs;pasta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7895024,
+          47.3039556
+        ]
+      },
+      "id": "node/10210686945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10210739354",
+        "amenity": "vending_machine",
+        "currency:CHF": "yes",
+        "opening_hours": "24/7",
+        "payment:cash": "yes",
+        "payment:twint": "yes",
+        "vending": "food;milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8435982,
+          47.2484038
+        ]
+      },
+      "id": "node/10210739354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10234799385",
+        "addr:city": "Kaltbrunn",
+        "addr:housenumber": "1595",
+        "addr:postcode": "8722",
+        "addr:street": "Langwiesstrasse",
+        "amenity": "vending_machine",
+        "name": "Hofladen Hof Langwies",
+        "vending": "food;milk",
+        "website": "https://www.hof-langwies.ch/hofladen/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0190097,
+          47.2090349
+        ]
+      },
+      "id": "node/10234799385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10767899481",
+        "amenity": "vending_machine",
+        "check_date": "2025-08-08",
+        "covered": "yes",
+        "currency:CHF": "yes",
+        "name": "Milchautomat",
+        "operator": "Fam. Ulrich",
+        "payment:cash": "yes",
+        "source": "local knowledge",
+        "vending": "drinks;milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7190807,
+          47.7072107
+        ]
+      },
+      "id": "node/10767899481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10771428935",
+        "amenity": "vending_machine",
+        "opening_hours": "24/7",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7812898,
+          47.2739454
+        ]
+      },
+      "id": "node/10771428935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10857563151",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.513392,
+          47.5479615
+        ]
+      },
+      "id": "node/10857563151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10942324317",
+        "amenity": "vending_machine",
+        "currency:CHF": "yes",
+        "currency:EUR": "no",
+        "opening_hours": "24/7",
+        "payment:cash": "no",
+        "payment:coins": "yes",
+        "payment:contactless": "no",
+        "payment:prepaid_card": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6313032,
+          46.8793541
+        ]
+      },
+      "id": "node/10942324317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10944554543",
+        "amenity": "vending_machine",
+        "vending": "milk;eggs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1743045,
+          47.5599833
+        ]
+      },
+      "id": "node/10944554543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10958166683",
+        "amenity": "vending_machine",
+        "currency:CHF": "yes",
+        "currency:EUR": "no",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6488884,
+          46.8614452
+        ]
+      },
+      "id": "node/10958166683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10998462717",
+        "amenity": "vending_machine",
+        "indoor": "yes",
+        "opening_hours": "24/7",
+        "operator": "Frischpunkt",
+        "vending": "drinks;food;milk;sweets;water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9914134,
+          47.1206306
+        ]
+      },
+      "id": "node/10998462717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11181241860",
+        "amenity": "vending_machine",
+        "covered": "yes",
+        "indoor": "no",
+        "name": "Appenzellers Hofprodukte",
+        "vending": "eggs;milk;food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7841622,
+          47.3672416
+        ]
+      },
+      "id": "node/11181241860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11532131869",
+        "amenity": "vending_machine",
+        "payment:coins": "yes",
+        "payment:notes": "no",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4391879,
+          47.4372656
+        ]
+      },
+      "id": "node/11532131869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11607759314",
+        "amenity": "vending_machine",
+        "check_date": "2024-02-10",
+        "indoor": "no",
+        "operator": "ChäsParadies",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "vending": "cheese;milk_products"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2071049,
+          47.3247192
+        ]
+      },
+      "id": "node/11607759314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11683955305",
+        "amenity": "vending_machine",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "payment:twint": "yes",
+        "vending": "cheese;eggs;jam;milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5937027,
+          46.6339201
+        ]
+      },
+      "id": "node/11683955305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11795947590",
+        "amenity": "vending_machine",
+        "name": "Alpkäserei Bleiki",
+        "opening_hours": "24/7",
+        "operator": "Alpkäserei Bleiki",
+        "payment:cash": "yes",
+        "payment:twint": "yes",
+        "vending": "food;drinks;milk'cheese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4311395,
+          46.9332662
+        ]
+      },
+      "id": "node/11795947590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11932330045",
+        "amenity": "vending_machine",
+        "currency:CHF": "yes",
+        "name": "Milchlädeli Gams",
+        "opening_hours": "24/7",
+        "payment:cash": "yes",
+        "vending": "raw_milk",
+        "website": "https://poulet-ab-hof.ch/milchlaedeli-gams/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4440271,
+          47.2041515
+        ]
+      },
+      "id": "node/11932330045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12068598892",
+        "amenity": "vending_machine",
+        "currency:CHF": "yes",
+        "payment:cash": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4513905,
+          47.4958609
+        ]
+      },
+      "id": "node/12068598892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12225181671",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6911246,
+          47.4095416
+        ]
+      },
+      "id": "node/12225181671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12250025658",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8662586,
+          46.6670475
+        ]
+      },
+      "id": "node/12250025658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12259459126",
+        "amenity": "vending_machine",
+        "integrated_farming": "only",
+        "operator": "Familie Jost",
+        "payment:cards": "no",
+        "payment:coins": "yes",
+        "payment:notes": "no",
+        "payment:twint": "no",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3477856,
+          46.9660206
+        ]
+      },
+      "id": "node/12259459126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12386811899",
+        "alt_name": "Automate lait ferme Marly FR",
+        "amenity": "vending_machine",
+        "name": "Lait - vente directe",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.144345,
+          46.7799721
+        ]
+      },
+      "id": "node/12386811899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12455697695",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2422405,
+          47.2105004
+        ]
+      },
+      "id": "node/12455697695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12512379644",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2983105,
+          47.0765492
+        ]
+      },
+      "id": "node/12512379644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12647194616",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "draught",
+        "name": "Milchautomat",
+        "opening_hours": "24/7",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5408862,
+          46.952586
+        ]
+      },
+      "id": "node/12647194616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13183522712",
+        "amenity": "vending_machine",
+        "opening_hours": "24/7",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4219917,
+          47.0407649
+        ]
+      },
+      "id": "node/13183522712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13228313604",
+        "amenity": "vending_machine",
+        "currency:CHF": "yes",
+        "opening_hours": "24/7",
+        "payment:cash": "yes",
+        "payment:cashless": "no",
+        "vending": "produce;milk;cheese;eggs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5014609,
+          47.180509
+        ]
+      },
+      "id": "node/13228313604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324644367",
+        "amenity": "vending_machine",
+        "vending": "food;drinks;milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5461333,
+          47.4165036
+        ]
+      },
+      "id": "node/13324644367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13329850681",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5244563,
+          46.9153265
+        ]
+      },
+      "id": "node/13329850681"
+    }
+  ]
+}

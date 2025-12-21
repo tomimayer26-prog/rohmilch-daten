@@ -1,0 +1,746 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-12-21T15:06:54Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1695888637",
+        "amenity": "vending_machine",
+        "name": "Melktap",
+        "payment:coins": "yes",
+        "payment:others": "no",
+        "vending": "milk",
+        "vending:en": "Organic milk",
+        "vending:nl": "Biologische melk",
+        "vending:wikidata": "Q4169972"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.972434,
+          52.4132685
+        ]
+      },
+      "id": "node/1695888637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2466407902",
+        "amenity": "vending_machine",
+        "opening_hours": "Mo-Su 07:00-19:00",
+        "vending": "milk,cheese,eggs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5262059,
+          52.1220453
+        ]
+      },
+      "id": "node/2466407902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2961108076",
+        "addr:city": "Ter Aar",
+        "addr:housenumber": "14A",
+        "addr:postcode": "2461BZ",
+        "addr:street": "Ringdijk",
+        "amenity": "vending_machine",
+        "email": "maud_van_velzen@hotmail.com",
+        "facebook": "https://www.facebook.com/Mauds-Boerenzuivel-102987724796202/",
+        "name": "Zuivelboerderij Kelder",
+        "source": "BAG",
+        "source:date": "2014-07-13",
+        "vending": "milk;yoghurt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6979923,
+          52.1662834
+        ]
+      },
+      "id": "node/2961108076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4714256675",
+        "amenity": "vending_machine",
+        "check_date": "2022-07-17",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3089278,
+          52.0037841
+        ]
+      },
+      "id": "node/4714256675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4743992705",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5261162,
+          52.2625617
+        ]
+      },
+      "id": "node/4743992705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4758549447",
+        "amenity": "vending_machine",
+        "check_date": "2025-07-28",
+        "indoor": "yes",
+        "name": "Vlister Hoeve",
+        "opening_hours": "Mo-Sa 00:00-24:00; PH off",
+        "payment:cash": "yes",
+        "vending": "milk;eggs,drinks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8446074,
+          51.9615415
+        ]
+      },
+      "id": "node/4758549447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4988248635",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6900784,
+          51.9250236
+        ]
+      },
+      "id": "node/4988248635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5067384166",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7378695,
+          52.1866596
+        ]
+      },
+      "id": "node/5067384166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6019221251",
+        "addr:city": "Ede",
+        "addr:housenumber": "24a",
+        "addr:postcode": "6718PH",
+        "addr:street": "Zuiderkade",
+        "amenity": "vending_machine",
+        "name": "Melktap Groene Grens",
+        "payment:coins": "yes",
+        "vending": "milk;dairy;cheese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5958679,
+          52.0222916
+        ]
+      },
+      "id": "node/6019221251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6033701663",
+        "amenity": "vending_machine",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "payment:cash": "yes",
+        "payment:debit_cards": "no",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6074294,
+          52.345379
+        ]
+      },
+      "id": "node/6033701663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6366947204",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "operator": "Melkhuisje",
+        "payment:coins": "yes",
+        "vending": "milk;dairy;eggs;soup;cheese;butter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.958299,
+          51.4508764
+        ]
+      },
+      "id": "node/6366947204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7373598431",
+        "amenity": "vending_machine",
+        "payment:cash": "no",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9812604,
+          52.3849778
+        ]
+      },
+      "id": "node/7373598431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8042225518",
+        "amenity": "vending_machine",
+        "name": "Melktap",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5850027,
+          52.1648694
+        ]
+      },
+      "id": "node/8042225518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8117860805",
+        "amenity": "vending_machine",
+        "vending": "milk;ice_cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6041939,
+          52.1673399
+        ]
+      },
+      "id": "node/8117860805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8124765449",
+        "amenity": "vending_machine",
+        "vending": "eggs;milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6970165,
+          52.1642242
+        ]
+      },
+      "id": "node/8124765449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8455216858",
+        "amenity": "vending_machine",
+        "vending": "milk;cheese;eggs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8246065,
+          52.1937138
+        ]
+      },
+      "id": "node/8455216858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8518475511",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9261003,
+          52.3034507
+        ]
+      },
+      "id": "node/8518475511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8780697171",
+        "amenity": "vending_machine",
+        "contact:facebook": "https://www.facebook.com/Melktap-Juul-375844666504203/",
+        "description:nl": "melktap met verse geitenmelk en automaat met geitenkazen, geitenmelkproducten",
+        "drink:milk": "yes",
+        "name": "Melktap Juul",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "vending": "milk; dairy; farm_products"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3139894,
+          51.3846105
+        ]
+      },
+      "id": "node/8780697171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8945922207",
+        "amenity": "vending_machine",
+        "check_date": "2025-02-14",
+        "milk": "raw_milk",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6731503,
+          51.5853417
+        ]
+      },
+      "id": "node/8945922207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9169087598",
+        "amenity": "vending_machine",
+        "payment:debit_cards": "yes",
+        "shop": "farm",
+        "vending": "eggs,cheese,milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2536981,
+          51.9463
+        ]
+      },
+      "id": "node/9169087598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9386421845",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9814055,
+          52.0879651
+        ]
+      },
+      "id": "node/9386421845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9803446741",
+        "amenity": "vending_machine",
+        "name": "T Hof Noord Ambacht",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5893002,
+          51.4942756
+        ]
+      },
+      "id": "node/9803446741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10250160486",
+        "amenity": "vending_machine",
+        "name": "Melktap Franssen",
+        "opening_hours": "08:00-22:00",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9230524,
+          50.7953234
+        ]
+      },
+      "id": "node/10250160486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10277486583",
+        "addr:city": "Amersfoort",
+        "addr:housenumber": "2",
+        "addr:postcode": "3826JG",
+        "addr:street": "Venlolaan",
+        "amenity": "vending_machine",
+        "description": "Lokaal & vers uit de Vallei! Eten rechtstreeks van de boer. \nOnbemande winkel (automatiek) in Vathorst (Amersfoort)\n\nEieren | Zuivel | Vlees | Kaas | Maaltijden | Fruitsappen | IJs | cadeaupakketten",
+        "image": "https://www.instagram.com/valleivers/p/DRwLJyLDMDi/",
+        "indoor": "yes",
+        "instagram": "https://www.instagram.com/valleivers/",
+        "name": "Vallei Vers",
+        "opening_hours": "Mo-Sa 07:00-22:00",
+        "operator": "Vallei Vers",
+        "payment:cards": "yes",
+        "payment:contactless": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "convenience",
+        "source": "BAG",
+        "source:date": "2022-12-21",
+        "start_date": "2025-12-06",
+        "vending": "food;eggs;milk;ice_cream;meat;dairy;cheese;fruit_juice;meals;gift_baskets",
+        "vending_machine": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4107861,
+          52.2056749
+        ]
+      },
+      "id": "node/10277486583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10870398413",
+        "amenity": "vending_machine",
+        "name": "De Willemshoeve",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4961875,
+          52.2330716
+        ]
+      },
+      "id": "node/10870398413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10874108347",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1542751,
+          51.7053897
+        ]
+      },
+      "id": "node/10874108347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10980055555",
+        "amenity": "vending_machine",
+        "name": "'t Zuivelhuysje",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3006767,
+          51.9812401
+        ]
+      },
+      "id": "node/10980055555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11071339279",
+        "amenity": "vending_machine",
+        "opening_hours": "24/7",
+        "vending": "milk",
+        "website": "https://www.rawmilkcompany.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0056047,
+          52.3217683
+        ]
+      },
+      "id": "node/11071339279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11115917052",
+        "amenity": "vending_machine",
+        "name": "Melktap",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5825524,
+          51.5760629
+        ]
+      },
+      "id": "node/11115917052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11125548763",
+        "amenity": "vending_machine",
+        "drink:milk": "yes",
+        "drink:raw_milk": "yes",
+        "indoor": "yes",
+        "name": "Melktap",
+        "opening_hours": "Mo-Sa 07:00-22:00",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.95049,
+          51.8897606
+        ]
+      },
+      "id": "node/11125548763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11862766701",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4853014,
+          51.8859984
+        ]
+      },
+      "id": "node/11862766701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12094748876",
+        "amenity": "vending_machine",
+        "vending": "food;milk;eggs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.965537,
+          51.270585
+        ]
+      },
+      "id": "node/12094748876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12102696851",
+        "amenity": "vending_machine",
+        "blind": "limited",
+        "currency:EUR": "yes",
+        "name": "Melkautomaat",
+        "note": "Melkautomaat alleen contant betalen",
+        "operator": "Bio stee 14",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "vending": "drinks;milk;eggs;pancake_flour",
+        "website": "https://boerenbeef.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6418565,
+          52.8633711
+        ]
+      },
+      "id": "node/12102696851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12662586672",
+        "addr:city": "Bunnik",
+        "addr:housenumber": "15",
+        "addr:postcode": "3981HD",
+        "addr:street": "Koningslaan",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "name": "Melk en Ko",
+        "opening_hours": "Mo-Su 08:00-20:00; Dec-Feb Mo-Su 08:00-18:00",
+        "vending": "milk;eggs;fruit_juice",
+        "website": "https://www.boerderijdezonnewijzer.nl/onze-winkel/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1721375,
+          52.0683166
+        ]
+      },
+      "id": "node/12662586672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12680483401",
+        "amenity": "vending_machine",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:qr_pay": "yes",
+        "vending": "milk;meat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6229826,
+          53.1581713
+        ]
+      },
+      "id": "node/12680483401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12848569244",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "name": "Melktap Hof Espelo",
+        "vending": "milk",
+        "website": "https://www.melktaphofespeloenschede.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8666519,
+          52.2550542
+        ]
+      },
+      "id": "node/12848569244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12914109282",
+        "amenity": "vending_machine",
+        "check_date": "2025-06-14",
+        "name": "Melktap",
+        "opening_hours": "08:00-20:00",
+        "operator": "Boer N Buffel",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1204622,
+          52.285462
+        ]
+      },
+      "id": "node/12914109282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13059581040",
+        "amenity": "vending_machine",
+        "opening_hours": "10:00-20:00",
+        "payment:coins": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:notes": "no",
+        "payment:qr_code": "no",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0751141,
+          52.1276224
+        ]
+      },
+      "id": "node/13059581040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13112934835",
+        "amenity": "vending_machine",
+        "description": "Rauwe melk, Rauwmelkse kaas, Boerensoftijs, Verse groenten, Zelfgemaakte Jam en Zelfgemaakte Chutney allemaal rechtstreeks van onze boerderij.",
+        "name": "Melk- en IJs tap",
+        "operator": "Oogst van eigen erf",
+        "payment:contactless": "yes",
+        "vending": "milk;ice_cream;food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4480274,
+          52.1542528
+        ]
+      },
+      "id": "node/13112934835"
+    }
+  ]
+}

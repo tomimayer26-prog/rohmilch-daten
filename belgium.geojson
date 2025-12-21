@@ -1,0 +1,786 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-12-21T15:16:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1246779954",
+        "amenity": "vending_machine",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4962714,
+          51.3915699
+        ]
+      },
+      "id": "node/1246779954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1330177929",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5266414,
+          51.1386751
+        ]
+      },
+      "id": "node/1330177929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1691732988",
+        "amenity": "vending_machine",
+        "name": "Milch- und Eierautomat",
+        "operator": "Coqito Hoflädchen",
+        "vending": "milk;eggs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.047512,
+          50.6484094
+        ]
+      },
+      "id": "node/1691732988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2191408164",
+        "amenity": "vending_machine",
+        "covered": "no",
+        "currency:EUR": "yes",
+        "payment:coins": "yes",
+        "vending": "milk",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6944813,
+          51.159352
+        ]
+      },
+      "id": "node/2191408164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2466932669",
+        "addr:housenumber": "1",
+        "addr:postcode": "1421",
+        "addr:street": "Rue du Bois Planté",
+        "amenity": "vending_machine",
+        "name": "Lait Entier Cru de la Ferme",
+        "opening_hours": "24/7",
+        "phone": "+32 67 21 27 19",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3266354,
+          50.6427236
+        ]
+      },
+      "id": "node/2466932669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3300219899",
+        "amenity": "vending_machine",
+        "covered": "yes",
+        "vending": "milk",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7020928,
+          51.3085465
+        ]
+      },
+      "id": "node/3300219899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3398902276",
+        "amenity": "vending_machine",
+        "opening_hours": "24/7",
+        "payment:coins": "yes",
+        "shop": "farm",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.835796,
+          50.262238
+        ]
+      },
+      "id": "node/3398902276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3546339437",
+        "amenity": "vending_machine",
+        "operator": "Mosterhoeve",
+        "vending": "food;butter;milk;cheese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8729983,
+          50.7507736
+        ]
+      },
+      "id": "node/3546339437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4379825679",
+        "amenity": "vending_machine",
+        "covered": "yes",
+        "opening_hours": "24/7",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9474883,
+          50.6652067
+        ]
+      },
+      "id": "node/4379825679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6780787106",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "operator": "La Ferme Dugailliez",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8656373,
+          50.354247
+        ]
+      },
+      "id": "node/6780787106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7391406778",
+        "amenity": "vending_machine",
+        "indoor": "yes",
+        "opening_hours": "PH,Mo-Su 08:00-20:00",
+        "payment:coins": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "payment:notes": "no",
+        "payment:qr_code": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9605169,
+          51.1550702
+        ]
+      },
+      "id": "node/7391406778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7537309906",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "drink:raw_milk": "yes",
+        "indoor": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6990098,
+          50.8565871
+        ]
+      },
+      "id": "node/7537309906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7779155647",
+        "amenity": "vending_machine",
+        "check_date": "2023-02-25",
+        "opening_hours": "24/7",
+        "operator": "O-tomat",
+        "vending": "bread;cheese;drinks;eggs;food;milk;sweets;water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3170049,
+          50.9977959
+        ]
+      },
+      "id": "node/7779155647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7824354202",
+        "amenity": "vending_machine",
+        "operator": "Hoeve De Kroon",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7418608,
+          51.1498472
+        ]
+      },
+      "id": "node/7824354202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7905077463",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "note": "needs a recent survey, correct placement? Probably correct",
+        "operator": "La Ferme Dugailliez",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8697665,
+          50.3522065
+        ]
+      },
+      "id": "node/7905077463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7905428426",
+        "amenity": "vending_machine",
+        "image": "File:20151103 nandrin12.jpg",
+        "name": "Le Chat Lait",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "Ferme du Halleux",
+        "payment:coins": "yes",
+        "phone": "+32 4 371 40 30",
+        "vending": "milk;butter",
+        "website": "https://www.liegetourisme.be/ferme-du-halleux.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4393563,
+          50.5215537
+        ]
+      },
+      "id": "node/7905428426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7905525240",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "opening_hours": "24/7",
+        "operator": "La Ferme des Monts",
+        "payment:coins": "yes",
+        "phone": "+32 498 70 34 72",
+        "vending": "milk;butter",
+        "website": "https://www.lafermedesmonts.be/distributeur/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4564718,
+          50.3260642
+        ]
+      },
+      "id": "node/7905525240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7905572239",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "opening_hours": "24/7",
+        "operator": "Ferme Branquart",
+        "payment:coins": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+32 473 66 38 98",
+        "vending": "milk;cheese;vegetables;eggs;bread",
+        "website": "http://www.auxsaveursdenoscampagnes.be/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1491987,
+          50.5758934
+        ]
+      },
+      "id": "node/7905572239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7905597339",
+        "amenity": "vending_machine",
+        "check_date": "2025-02-28",
+        "operator": "La Ferme de la Distillerie",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6647011,
+          50.6079369
+        ]
+      },
+      "id": "node/7905597339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7906670048",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.506334,
+          50.7356921
+        ]
+      },
+      "id": "node/7906670048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7909903764",
+        "amenity": "vending_machine",
+        "designation": "Melkautomaat Loenhout",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6311256,
+          51.3946101
+        ]
+      },
+      "id": "node/7909903764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8006732445",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.501,
+          51.4300019
+        ]
+      },
+      "id": "node/8006732445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8190560910",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4998757,
+          51.1382161
+        ]
+      },
+      "id": "node/8190560910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8540202065",
+        "addr:housenumber": "1",
+        "addr:street": "Kraaienbroekdreef",
+        "amenity": "vending_machine",
+        "contact:facebook": "https://www.facebook.com/melkautomaatruiselede",
+        "currency:EUR": "yes",
+        "description": "Bij ons kan je verse weidemelk kopen uit de automaat.",
+        "email": "goethals.leen@telenet.be",
+        "indoor": "yes",
+        "name": "Melkautomaat Ruiselede",
+        "opening_hours": "24/7",
+        "operator": "Leen Goethals",
+        "panoramax": "72248bdc-71ce-42ae-bb9c-7b2c2f101ab9",
+        "panoramax:0": "7db7f37b-54cf-4f29-bc1a-06758710c1e8",
+        "panoramax:1": "85597838-d07c-4aab-af57-63235ba86bc3",
+        "panoramax:2": "dcecbad7-edfe-4277-a204-938d49edae9e",
+        "panoramax:3": "fa253b61-b3b8-4b5c-ab2d-55f9d2d95f50",
+        "payment:coins": "yes",
+        "payment:coins:denominations": "0.10 EUR;0.20 EUR;0.50 EUR;1 EUR;2 EUR",
+        "phone": "+32 475 50 28 38",
+        "vending": "eggs;milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4007178,
+          51.0515852
+        ]
+      },
+      "id": "node/8540202065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8626121021",
+        "amenity": "vending_machine",
+        "covered": "yes",
+        "indoor": "no",
+        "mapillary": "1743551482521176",
+        "opening_hours": "24/7",
+        "operator": "Breykenshoeve",
+        "panoramax": "c6a9d8b0-c4ab-4db7-bb1e-1ab26d26db67",
+        "payment:coins": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "payment:notes": "no",
+        "payment:qr_code": "no",
+        "vending": "drinks;milk;eggs",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9790075,
+          51.2025554
+        ]
+      },
+      "id": "node/8626121021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8841471388",
+        "amenity": "vending_machine",
+        "vending": "eggs;milk;strawberries;vegetables"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5221251,
+          51.4733927
+        ]
+      },
+      "id": "node/8841471388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8850286838",
+        "amenity": "vending_machine",
+        "name": "Melkautomaat",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0200075,
+          51.0736593
+        ]
+      },
+      "id": "node/8850286838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9926456966",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "payment:cards": "yes",
+        "payment:coins": "yes",
+        "vending": "food;milk;eggs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2669751,
+          50.340147
+        ]
+      },
+      "id": "node/9926456966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927438944",
+        "amenity": "vending_machine",
+        "operator": "Hoeve de Drie Linden",
+        "vending": "drinks;food;milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3469355,
+          50.7883073
+        ]
+      },
+      "id": "node/9927438944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11035987000",
+        "amenity": "vending_machine",
+        "opening_hours": "24/7",
+        "operator": "O-tomat",
+        "vending": "bread;cheese;drinks;eggs;food;milk;sweets;water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2277882,
+          51.0413887
+        ]
+      },
+      "id": "node/11035987000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11036003185",
+        "amenity": "vending_machine",
+        "check_date": "2025-08-05",
+        "covered": "yes",
+        "currency:EUR": "yes",
+        "indoor": "yes",
+        "opening_hours": "24/7",
+        "operator": "O-tomat",
+        "vending": "bread;cheese;drinks;eggs;food;milk;sweets;water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2751492,
+          51.0585133
+        ]
+      },
+      "id": "node/11036003185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11076226335",
+        "amenity": "vending_machine",
+        "covered": "yes",
+        "drink:raw_milk": "retail",
+        "payment:coins": "only",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2547285,
+          50.811153
+        ]
+      },
+      "id": "node/11076226335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11116048160",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "indoor": "yes",
+        "opening_hours": "07:00-21:00",
+        "payment:cash": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2626397,
+          50.8276459
+        ]
+      },
+      "id": "node/11116048160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11211866862",
+        "amenity": "vending_machine",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "Het Elsthof",
+        "panoramax": "9bcbbda6-444f-425f-a467-4ea09115ca9f",
+        "panoramax:0": "c3331ec1-57db-471e-8b65-d08d19b627c6",
+        "panoramax:1": "0ec0ea0e-d1d5-4794-8843-9c5033abfe8b",
+        "panoramax:2": "299ea975-ce47-46b4-b9c2-79dcfb0b4a79",
+        "panoramax:3": "4a0c518a-2a49-4a45-84c6-12c936523c9c",
+        "panoramax:4": "12ed46d0-7749-4124-94c1-644d202d853b",
+        "panoramax:5": "fcacfaa0-2c4c-4dcc-b143-caea7232db91",
+        "panoramax:6": "8d728e84-8a7f-435b-8176-182841bec707",
+        "panoramax:7": "5e9cfd36-1bba-4ea1-89de-b81a4ff7b604",
+        "panoramax:8": "d96a12c2-b6e2-4667-ba1e-3fd7c52c7a62",
+        "panoramax:9": "ec833153-cec0-43fb-bc22-ab71a9057857",
+        "payment:coins": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "yes",
+        "payment:notes": "yes",
+        "payment:notes:denominations": "10 EUR;20 EUR;5 EUR",
+        "payment:qr_code": "no",
+        "phone": "+32 474 09 46 59",
+        "vending": "eggs;meat;milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3363352,
+          51.023361
+        ]
+      },
+      "id": "node/11211866862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11365865716",
+        "amenity": "vending_machine",
+        "indoor": "no",
+        "opening_hours": "24/7",
+        "operator": "Boerderij VAN DEN Eynde",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2876876,
+          50.9377588
+        ]
+      },
+      "id": "node/11365865716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11918030116",
+        "amenity": "vending_machine",
+        "operator": "De Blekerij",
+        "vending": "ice_cream;milk;eggs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8789829,
+          50.989685
+        ]
+      },
+      "id": "node/11918030116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12157874092",
+        "amenity": "vending_machine",
+        "opening_hours": "05:00-23:00;PH open",
+        "panoramax": "d2ba9858-dfd3-414a-9b7d-186ed4904278",
+        "panoramax:0": "156211ad-af06-407b-a50e-de454fd87b99",
+        "panoramax:1": "48335650-7762-4334-a20c-53b16ea356b6",
+        "panoramax:2": "1231d075-bdee-4c5b-930b-7450bccf7bd5",
+        "panoramax:3": "49d58c98-f711-44ba-a8b0-8c5b7b83ba36",
+        "panoramax:4": "d1ce6c03-d4f8-45a5-b3d7-1157bfab756a",
+        "payment:coins": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:notes": "no",
+        "payment:qr_code": "yes",
+        "phone": "+32 51 68 82 07",
+        "vending": "bread;cheese;drinks;food;meat;milk;strawberries;sweets;water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4632248,
+          51.0493429
+        ]
+      },
+      "id": "node/12157874092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12788180917",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9081718,
+          50.8475048
+        ]
+      },
+      "id": "node/12788180917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13164451155",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2540083,
+          51.0918716
+        ]
+      },
+      "id": "node/13164451155"
+    }
+  ]
+}

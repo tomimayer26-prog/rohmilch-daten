@@ -1,0 +1,997 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-01-07T10:20:30Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/579035705",
+        "landuse": "farmyard",
+        "name": "GAEC du Prarupt",
+        "payment:cash": "yes",
+        "produce": "milk;egg",
+        "shop": "farm",
+        "source": "survey;GrandNancy Orthophotographie 2016",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2486588,
+          48.6879698
+        ]
+      },
+      "id": "way/579035705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1233534823",
+        "building": "retail",
+        "name": "L'Épicier de la Ferme",
+        "organic": "no",
+        "produce": "meat; milk product; convenience",
+        "roof:shape": "gabled",
+        "shop": "farm",
+        "website": "https://epicier-delaferme.fr/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2478284,
+          47.0475983
+        ]
+      },
+      "id": "way/1233534823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1236542662",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "opening_hours": "24/7",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5517212,
+          44.1628795
+        ]
+      },
+      "id": "node/1236542662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1289189156",
+        "amenity": "vending_machine",
+        "building": "bungalow",
+        "currency:EUR": "yes",
+        "name": "Rétaillon",
+        "payment:debit_cards": "yes",
+        "vending": "food;drinks;bread;milk",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7321007,
+          43.6673426
+        ]
+      },
+      "id": "way/1289189156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1428095714",
+        "addr:city": "Sidiailles",
+        "addr:hamlet": "Le Carroir",
+        "addr:postcode": "18270",
+        "building": "yes",
+        "description": "Produits laitiers bio fabriqués à la ferme.",
+        "email": "gaecducarroir@outlook.fr",
+        "name": "Lait Meuh",
+        "opening_hours": "Mo-Tu,Th,Sa-Su 09:30-12:00,15:00-18:00; We,Fr 15:00-18:00",
+        "organic": "yes",
+        "phone": "+33 6 23 03 80 78",
+        "produce": "milk",
+        "shop": "farm",
+        "website": "https://www.laitmeuh.fr",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3235472,
+          46.4945341
+        ]
+      },
+      "id": "way/1428095714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1455226358",
+        "currency:XLT": "FLOR",
+        "email": "amandine.thil.lesperlette@gmail.com",
+        "name": "Chèvrerie d'Amandine",
+        "payment:cash:XLT-FLOR": "yes",
+        "phone": "+33 6 15 98 41 85",
+        "produce": "cheese;milk",
+        "shop": "farm",
+        "source": "knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.083639,
+          48.62558
+        ]
+      },
+      "id": "node/1455226358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1788301270",
+        "contact:email": "gaec-du-sillon@bbox.fr",
+        "contact:phone": "+33 6 26 84 56 47",
+        "currency:XLT": "FLOR",
+        "meat": "pork",
+        "name": "Ferme du Sillon",
+        "oil": "canola_oil;sunflower_oil",
+        "opening_hours": "Fr 15:00-18:00",
+        "organic": "only",
+        "payment:cash:XLT-FLOR": "yes",
+        "produce": "milk;cereal;meat;oil",
+        "shop": "farm",
+        "takeaway": "yes",
+        "website": "https://lesfermesvertes.fr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.760127,
+          48.6815622
+        ]
+      },
+      "id": "node/1788301270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1825998866",
+        "amenity": "vending_machine",
+        "payment:coins": "yes",
+        "source": "survey",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5747184,
+          45.9072585
+        ]
+      },
+      "id": "node/1825998866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2556663053",
+        "currency:XLT": "FLOR",
+        "name": "Ferme de Fontenelle",
+        "organic": "only",
+        "payment:cash:XLT-FLOR": "yes",
+        "produce": "milk;cheese",
+        "shop": "farm",
+        "website": "https://www.fontenellebio.fr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.017167,
+          48.114143
+        ]
+      },
+      "id": "node/2556663053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3929497028",
+        "amenity": "vending_machine",
+        "opening_hours": "24/7",
+        "payment:coins": "yes",
+        "shop": "farm",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.235338,
+          45.5436562
+        ]
+      },
+      "id": "node/3929497028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4997004667",
+        "contact:email": "fermedulieuneuf@orange.fr",
+        "contact:phone": "+33254762064",
+        "meat": "veau;vache;porc",
+        "name": "Ferme du Lieu Neuf",
+        "opening_hours": "Mo-Sa 16:30-19:00;Apr-Oct Mo-Sa 16:30-19:30",
+        "produce": "dairy;cheese;egg;milk;meat",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7698154,
+          47.3897452
+        ]
+      },
+      "id": "node/4997004667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5002753934",
+        "amenity": "vending_machine",
+        "fixme": "Vérifier que ça existe encore",
+        "opening_hours": "24/7",
+        "operator": "GAEC du Tremblay",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7528562,
+          48.5527287
+        ]
+      },
+      "id": "node/5002753934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5220441271",
+        "addr:city": "Reillon",
+        "addr:housenumber": "27",
+        "addr:postcode": "54450",
+        "addr:street": "Grande Rue",
+        "currency:XLT": "FLOR",
+        "name": "Les Fermes vertes – Jean-Paul André",
+        "opening_hours": "Th 17:00-19:00",
+        "operator": "Jean-Paul André",
+        "organic": "only",
+        "payment:cash:XLT-FLOR": "yes",
+        "payment:contactless:XLT-FLOR": "yes",
+        "phone": "+33 3 83 42 36 85",
+        "produce": "beef;cheese;milk;egg;vegetables",
+        "shop": "farm",
+        "website": "https://www.lesfermesvertes.fr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7392836,
+          48.5974323
+        ]
+      },
+      "id": "node/5220441271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5685830487",
+        "addr:city": "Les Hauts-d'Anjou",
+        "addr:place": "Contigné",
+        "addr:postcode": "49330",
+        "addr:street": "La Fosse Neuve",
+        "email": "pavecbenoit@gmail.com",
+        "name": "Les Brebis Anjouées",
+        "organic": "only",
+        "phone": "+33 6 51 16 48 66",
+        "produce": "sheep_milk;sheep_cheese",
+        "produce:fr": "ffromage de brebis;lait de brebis",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4599097,
+          47.7498952
+        ]
+      },
+      "id": "node/5685830487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5779209336",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "bottled",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3424126,
+          45.193236
+        ]
+      },
+      "id": "node/5779209336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7344480820",
+        "addr:housenumber": "6",
+        "currency:XLT": "FLOR",
+        "email": "fermedelapetiteseille@gmail.com",
+        "meat": "beef",
+        "name": "Ferme de la Petite Seille",
+        "organic": "only",
+        "payment:cash:XLT-FLOR": "yes",
+        "phone": "+33 6 74 71 53 77",
+        "produce": "milk;meat;cereal",
+        "shop": "farm",
+        "takeaway": "yes",
+        "website": "https://lesfermesvertes.fr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2926018,
+          48.8396266
+        ]
+      },
+      "id": "node/7344480820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7374323241",
+        "contact:email": "brouteusesdetoiles@gmail.com",
+        "contact:website": "https://paysgourmand.com/carte-des-producteurs-locaux/brouteuse-etoiles",
+        "name": "Les Brouteuses d'Etoiles",
+        "note": "Fromage de brebis;Yaourts de brebis",
+        "operator": "Hélène Costaz et julien boujonnier",
+        "produce": "cheese;milk",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.373101,
+          43.860615
+        ]
+      },
+      "id": "node/7374323241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7488396978",
+        "mobile": "+33 6 89 18 10 12",
+        "name": "EARL Paget des Grangettes",
+        "opening_hours": "Mo,We,Fr 17:00-19:00",
+        "produce": "milk",
+        "ref:FR:SIRET": "33283749100023",
+        "shop": "farm",
+        "start_date": "1985-06-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7487786,
+          46.5390008
+        ]
+      },
+      "id": "node/7488396978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8022024845",
+        "amenity": "vending_machine",
+        "check_date": "2025-08-10",
+        "drink:raw_milk": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8963961,
+          45.5604155
+        ]
+      },
+      "id": "node/8022024845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8286839645",
+        "amenity": "vending_machine",
+        "name": "En direct de la Ferme",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "operator": "Le verger de Cuvilly",
+        "vending": "drinks;food;eggs;milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7018256,
+          49.5494389
+        ]
+      },
+      "id": "node/8286839645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9426732005",
+        "name": "Ferme de l'Arclosan",
+        "opening_hours": "Mo-Su 18:00-19:30",
+        "produce": "milk",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2717107,
+          45.7528217
+        ]
+      },
+      "id": "node/9426732005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9576731842",
+        "amenity": "vending_machine",
+        "check_date": "2024-12-29",
+        "name": "Distributeur de Lait entier en Self Service",
+        "opening_hours": "24/7",
+        "operator": "Coopérative Agricole des Producteurs de Reblochons de la Vallée de Thônes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3146201,
+          45.8873666
+        ]
+      },
+      "id": "node/9576731842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9813034320",
+        "addr:city": "Dry",
+        "addr:housenumber": "306",
+        "addr:postcode": "45370",
+        "addr:street": "Rue du Val d'Ardoux",
+        "amenity": "vending_machine",
+        "self_service": "yes",
+        "vending": "raw_milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7226374,
+          47.7945695
+        ]
+      },
+      "id": "node/9813034320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9982057897",
+        "amenity": "vending_machine",
+        "self_service": "yes",
+        "vending": "raw_milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.681139,
+          47.819741
+        ]
+      },
+      "id": "node/9982057897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10011838468",
+        "addr:city": "Mendionde",
+        "email": "xixtroak@gmail.com",
+        "name": "Esnekiak",
+        "organic": "yes",
+        "produce": "milk;yoghurt;butter",
+        "shop": "farm",
+        "website": "https://www.xixtroak.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2986505,
+          43.3494637
+        ]
+      },
+      "id": "node/10011838468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10249501738",
+        "operator": "Grandjacques",
+        "produce": "cheese;milk",
+        "shop": "farm",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7224749,
+          45.8516226
+        ]
+      },
+      "id": "node/10249501738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10253013032",
+        "amenity": "vending_machine",
+        "brand": "La petite parapharmacie",
+        "brand:phone": "+33 1 74 37 26 66",
+        "brand:website": "https://www.lapetiteparapharmacie.com/",
+        "manufacturer": "RETinCO",
+        "operator": "Pharmacie de l’Arbre Vert",
+        "vending": "chemist;condoms;milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7545871,
+          48.6135549
+        ]
+      },
+      "id": "node/10253013032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10294635801",
+        "addr:city": "Merlevenez",
+        "addr:postcode": "56700",
+        "addr:street": "Saint Sauveur",
+        "email": "contact@laitdouceursdesaintsauveur.fr",
+        "facebook": "https://www.facebook.com/laitdouceursdesaintsauveur/",
+        "name": "Lait Douceurs de Saint-Sauveur",
+        "opening_hours": "We 10:00-12:00; Mo-Sa 15:30-18:30",
+        "phone": "+33 6 42 25 31 56",
+        "produce": "milk",
+        "shop": "farm",
+        "website": "https://www.laitdouceursdesaintsauveur.fr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2723742,
+          47.7194374
+        ]
+      },
+      "id": "node/10294635801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10563334181",
+        "contact:city": "Grignols",
+        "contact:email": "patrice.bonnamy123@orange.fr",
+        "contact:mobile": "+33 6 77 93 16 41",
+        "contact:phone": "+33 5 53 54 24 22",
+        "contact:postcode": "24110",
+        "contact:street": "Route de Mayac",
+        "contact:website": "https://www.ferme-bonnamy.fr/",
+        "opening_hours": "Fr 14:30-18:30",
+        "operator": "Ferme Bonnamy",
+        "produce": "goat_milk",
+        "product": "goat_cheese",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5192627,
+          45.0589524
+        ]
+      },
+      "id": "node/10563334181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10697438089",
+        "addr:city": "Arbona",
+        "addr:postcode": "64210",
+        "addr:street": "Harrimexaharreko bidea",
+        "name": "Ferme Agerrea",
+        "phone": "+33 7 82 29 18 01",
+        "produce": "milk",
+        "shop": "farm",
+        "website": "https://ferme-agerrea.jimdofree.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5424517,
+          43.4220056
+        ]
+      },
+      "id": "node/10697438089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10844168571",
+        "addr:city": "Lugo-di-Nazza",
+        "addr:postcode": "20240",
+        "addr:street": "Lieu dit Pratello",
+        "description": "Vente à la ferme de lait et fromage de chèvres ainsi que des œufs frais Bleu-Blanc-Cœur.",
+        "email": "gaecdepratello@gmail.com",
+        "name": "GAEC de Pratello",
+        "operator": "Matieu et Sandrine Zereni",
+        "phone": "+33614861949",
+        "produce": "goat milk;goat cheese;egg",
+        "ref:FR:SIRET": "79501722700013",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3642967,
+          42.0597687
+        ]
+      },
+      "id": "node/10844168571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11053291600",
+        "name": "Le Chevrou",
+        "phone": "+33 672206604",
+        "produce": "cheese;milk",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8862079,
+          45.1870284
+        ]
+      },
+      "id": "node/11053291600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11482285607",
+        "check_date": "2025-05-21",
+        "name": "Ferme de la Touche du Val",
+        "opening_hours": "Mo-Tu,Fr-Su off; We 16:30-19:00; Th 16:30-18:30",
+        "organic": "yes",
+        "produce": "milk",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5397781,
+          48.1215531
+        ]
+      },
+      "id": "node/11482285607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11642501530",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2738072,
+          48.0917004
+        ]
+      },
+      "id": "node/11642501530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11954364116",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "indoor": "yes",
+        "name": "Max de Casiers",
+        "payment:debit_cards": "yes",
+        "vending": "food;drinks;bread;milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8054339,
+          43.6319533
+        ]
+      },
+      "id": "node/11954364116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12135450246",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "vending": "food;drinks;milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.495239,
+          48.3017314
+        ]
+      },
+      "id": "node/12135450246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12141459193",
+        "addr:city": "Illkirch-Graffenstaden",
+        "addr:housenumber": "4",
+        "addr:street": "Rue Krafft",
+        "delivery": "only",
+        "name": "Point de livraison de paniers de légumes",
+        "opening_hours": "Th 18:30-19:30",
+        "operator": "Ferme de Truttenhausen",
+        "organic": "only",
+        "produce": "fruits;vegetables;bread;milk products",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7050033,
+          48.5228393
+        ]
+      },
+      "id": "node/12141459193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12160419223",
+        "name": "Le Jardin des Sables",
+        "opening_hours": "Tu-Fr 11:30-14:00,15:00-19:00;Sa 09:00-12:00,13:00-18:00",
+        "organic": "only",
+        "produce": "vegetables;fruits;wine;apple_juice;bread;cheese;milk",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3490823,
+          47.448385
+        ]
+      },
+      "id": "node/12160419223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12329768003",
+        "addr:city": "La Chapelle-Fleurigné",
+        "addr:place": "Le Tilleul",
+        "addr:postcode": "35133",
+        "contact:facebook": "https://www.facebook.com/latelierdutilleul/",
+        "contact:website": "https://latelierdutilleul.fr/",
+        "delivery": "yes",
+        "delivery:zone": "FR",
+        "description": "Ferme laitière avec création de savon artisanaux au lait de vache et à l'aloe vera",
+        "email": "latelierdutilleul35@gmail.com",
+        "name": "L'atelier du Tilleul",
+        "opening_hours": "We-Sa 16:00-18:00",
+        "organic": "only",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+33 6 72 68 05 89",
+        "produce": "milk, soap",
+        "shop": "farm",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0709253,
+          48.3215373
+        ]
+      },
+      "id": "node/12329768003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12593366110",
+        "amenity": "vending_machine",
+        "vending": "food;milk;eggs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1683309,
+          45.9216105
+        ]
+      },
+      "id": "node/12593366110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12626249862",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1495888,
+          42.9821848
+        ]
+      },
+      "id": "node/12626249862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12638046564",
+        "amenity": "vending_machine",
+        "payment:credit_cards": "yes",
+        "vending": "bread;milk;viennoiserie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6306561,
+          45.0829455
+        ]
+      },
+      "id": "node/12638046564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12744478445",
+        "amenity": "vending_machine",
+        "operator": "Gaec des chemins verts",
+        "vending": "food;eggs;milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9340961,
+          46.8036527
+        ]
+      },
+      "id": "node/12744478445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12872858265",
+        "amenity": "vending_machine",
+        "vending": "milk;cheese;butter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1777556,
+          48.8924462
+        ]
+      },
+      "id": "node/12872858265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13067654569",
+        "amenity": "vending_machine",
+        "operator": "Ferme De La Briqueterie",
+        "vending": "milk;food;eggs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8048246,
+          48.2735052
+        ]
+      },
+      "id": "node/13067654569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13119294785",
+        "amenity": "vending_machine",
+        "operator": "Ô casiers fermiers",
+        "vending": "meat;milk;fruits;fromage;beurre;huile;légumes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7226368,
+          48.3510221
+        ]
+      },
+      "id": "node/13119294785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13341023466",
+        "description": "Vente de produits laitiers.",
+        "name": "Gaec de la Chaume aux Gendres",
+        "organic": "yes",
+        "produce": "milk;cheese;yogurt",
+        "ref:FR:SIRET": "43500110200019",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7931801,
+          46.6385976
+        ]
+      },
+      "id": "node/13341023466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13371298263",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4309499,
+          50.3657423
+        ]
+      },
+      "id": "node/13371298263"
+    }
+  ]
+}

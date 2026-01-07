@@ -1,0 +1,3716 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-01-07T10:10:15Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/196778013",
+        "addr:city": "Ugovizza",
+        "addr:country": "IT",
+        "addr:housenumber": "24",
+        "addr:postcode": "33010",
+        "addr:street": "Via Pontebbana",
+        "building": "yes",
+        "contact:phone": "+39 0428 64977",
+        "height": "3 m",
+        "it:fvg:ctrn:code": "4AED",
+        "it:fvg:ctrn:revision": "000",
+        "name": "Cooperativa Agricoltori Valcanale",
+        "produce": "milk;cheese",
+        "shop": "farm",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4734508,
+          46.5103631
+        ]
+      },
+      "id": "way/196778013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/204289019",
+        "amenity": "vending_machine",
+        "building": "house",
+        "source": "Regione Liguria",
+        "vending": "milk",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9476787,
+          44.569953
+        ]
+      },
+      "id": "way/204289019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/240355326",
+        "amenity": "vending_machine",
+        "building": "roof",
+        "vending": "milk",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.227219,
+          45.8265483
+        ]
+      },
+      "id": "way/240355326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/282715082",
+        "amenity": "vending_machine",
+        "milk": "raw_milk",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9522582,
+          44.4139254
+        ]
+      },
+      "id": "node/282715082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/282715510",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9511256,
+          44.4012663
+        ]
+      },
+      "id": "node/282715510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/282715750",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8891068,
+          44.4131671
+        ]
+      },
+      "id": "node/282715750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/282715974",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.942165,
+          44.4059856
+        ]
+      },
+      "id": "node/282715974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/282786235",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3409005,
+          43.6840579
+        ]
+      },
+      "id": "node/282786235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/292264318",
+        "amenity": "vending_machine",
+        "name": "Latte",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6171403,
+          44.4404508
+        ]
+      },
+      "id": "node/292264318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/307148119",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4389327,
+          43.3977264
+        ]
+      },
+      "id": "node/307148119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/316127451",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7672107,
+          45.7654684
+        ]
+      },
+      "id": "node/316127451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/316643448",
+        "amenity": "vending_machine",
+        "payment:coins": "yes",
+        "payment:electronic_purses": "no",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1063648,
+          45.8067409
+        ]
+      },
+      "id": "node/316643448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317325117",
+        "amenity": "vending_machine",
+        "description": "raw milk",
+        "name": "Azienda Agricola Invernizzi",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1897153,
+          45.5619857
+        ]
+      },
+      "id": "node/317325117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/341210210",
+        "amenity": "vending_machine",
+        "check_date": "2023-11-01",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1815813,
+          45.426715
+        ]
+      },
+      "id": "node/341210210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/355113793",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.960231,
+          44.4072128
+        ]
+      },
+      "id": "node/355113793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/357155790",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "operator": "Azienda agricola il Ronco",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7786495,
+          45.8233272
+        ]
+      },
+      "id": "node/357155790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/384726728",
+        "amenity": "vending_machine",
+        "payment:account_cards": "yes",
+        "payment:coins": "yes",
+        "payment:electronic_purses": "no",
+        "payment:notes": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7132137,
+          45.8435531
+        ]
+      },
+      "id": "node/384726728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/389916057",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6815181,
+          44.3450794
+        ]
+      },
+      "id": "node/389916057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/389916060",
+        "amenity": "vending_machine",
+        "check_date": "2025-08-09",
+        "vending": "milk;eggs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7004594,
+          44.34979
+        ]
+      },
+      "id": "node/389916060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/420726367",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6408317,
+          45.667541
+        ]
+      },
+      "id": "node/420726367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/430779964",
+        "addr:city": "Vicenza",
+        "addr:housenumber": "205",
+        "addr:postcode": "36100",
+        "addr:street:en": "strada di Polegge",
+        "amenity": "vending_machine",
+        "check_date": "2021-01-07",
+        "name": "Distributore latticini",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.541711,
+          45.5899494
+        ]
+      },
+      "id": "node/430779964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/437236211",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8611794,
+          44.5707314
+        ]
+      },
+      "id": "node/437236211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/442552325",
+        "amenity": "vending_machine",
+        "check_date": "2022-07-19",
+        "milk": "raw_milk",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1245535,
+          42.4927124
+        ]
+      },
+      "id": "node/442552325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/567393934",
+        "amenity": "vending_machine",
+        "check_date": "2023-07-26",
+        "currency:EUR": "yes",
+        "operator": "Locatelli",
+        "payment:cards": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.691108,
+          45.686254
+        ]
+      },
+      "id": "node/567393934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/574310943",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.719639,
+          44.4472476
+        ]
+      },
+      "id": "node/574310943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/583252357",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3570616,
+          44.5785171
+        ]
+      },
+      "id": "node/583252357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/583252359",
+        "amenity": "vending_machine",
+        "check_date": "2024-04-02",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4009944,
+          44.7016078
+        ]
+      },
+      "id": "node/583252359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/612196446",
+        "amenity": "vending_machine",
+        "drink": "raw_milk",
+        "vending": "drinks;milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639234,
+          45.622842
+        ]
+      },
+      "id": "node/612196446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/647689386",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6835906,
+          45.7019934
+        ]
+      },
+      "id": "node/647689386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/650364792",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0434793,
+          45.8980177
+        ]
+      },
+      "id": "node/650364792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/672673837",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0865879,
+          41.9612028
+        ]
+      },
+      "id": "node/672673837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/690148026",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "note": "milk and milk products",
+        "operator": "Rinascita agricola",
+        "payment:account_cards": "yes",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8277299,
+          45.8149739
+        ]
+      },
+      "id": "node/690148026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/690677999",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8352742,
+          45.393632
+        ]
+      },
+      "id": "node/690677999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/690678003",
+        "amenity": "vending_machine",
+        "milk": "raw_milk",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8128774,
+          45.3920721
+        ]
+      },
+      "id": "node/690678003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/695662677",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "payment:account_cards": "yes",
+        "payment:coins": "yes",
+        "payment:notes": "no",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7895954,
+          45.8153514
+        ]
+      },
+      "id": "node/695662677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/699587342",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "payment:account_cards": "no",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8767055,
+          45.7666192
+        ]
+      },
+      "id": "node/699587342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/727685405",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "operator": "Azienda Agricola Carlesso Eugenio",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.834737,
+          45.7733294
+        ]
+      },
+      "id": "node/727685405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/728478574",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5970931,
+          44.9166494
+        ]
+      },
+      "id": "node/728478574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/729589992",
+        "amenity": "vending_machine",
+        "check_date": "2023-09-04",
+        "milk": "raw_milk",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0485272,
+          45.6563048
+        ]
+      },
+      "id": "node/729589992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/748839634",
+        "amenity": "vending_machine",
+        "operator": "Azienda Agricola \"La Motta\"",
+        "payment:account_cards": "yes",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8405505,
+          45.8427944
+        ]
+      },
+      "id": "node/748839634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/760847148",
+        "amenity": "vending_machine",
+        "milk": "raw_milk",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7948317,
+          45.0637791
+        ]
+      },
+      "id": "node/760847148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/786692647",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7786703,
+          45.6489932
+        ]
+      },
+      "id": "node/786692647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/786692660",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8007998,
+          45.6902929
+        ]
+      },
+      "id": "node/786692660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/795672931",
+        "amenity": "vending_machine",
+        "milk": "raw_milk",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5951142,
+          44.3773603
+        ]
+      },
+      "id": "node/795672931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/830143260",
+        "amenity": "vending_machine",
+        "building": "yes",
+        "name": "Distributore di latte crudo",
+        "payment:coins": "yes",
+        "vending": "milk",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4509657,
+          45.9647338
+        ]
+      },
+      "id": "way/830143260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/832964361",
+        "amenity": "vending_machine",
+        "milk": "raw",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8159479,
+          45.8369442
+        ]
+      },
+      "id": "node/832964361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/833290238",
+        "amenity": "vending_machine",
+        "check_date": "2021-07-27",
+        "operator": "Azienda Agricola Canepari Massimo",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7448118,
+          44.6093455
+        ]
+      },
+      "id": "node/833290238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/839769726",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "name": "Le Querce",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6498984,
+          43.9131877
+        ]
+      },
+      "id": "node/839769726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/841796027",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3147675,
+          44.8044584
+        ]
+      },
+      "id": "node/841796027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/854011635",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "name": "Distributore latte crudo",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3253282,
+          45.5586146
+        ]
+      },
+      "id": "node/854011635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1026458237",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0943971,
+          46.2123613
+        ]
+      },
+      "id": "node/1026458237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1035909942",
+        "amenity": "vending_machine",
+        "payment:coins": "yes",
+        "payment:notes": "no",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6579079,
+          44.3751824
+        ]
+      },
+      "id": "node/1035909942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1191197225",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9020959,
+          45.7091764
+        ]
+      },
+      "id": "node/1191197225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1282733419",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4004266,
+          45.0803317
+        ]
+      },
+      "id": "node/1282733419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1361279275",
+        "amenity": "vending_machine",
+        "milk": "raw_milk",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8668893,
+          45.5873262
+        ]
+      },
+      "id": "node/1361279275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1401124296",
+        "amenity": "vending_machine",
+        "name": "Distributore automatico di latte 24h/24",
+        "operator": "Caseificio \"La Murgia\"",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2319406,
+          45.5992294
+        ]
+      },
+      "id": "node/1401124296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1432162011",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8237138,
+          45.7574744
+        ]
+      },
+      "id": "node/1432162011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1458199515",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8864817,
+          45.3783731
+        ]
+      },
+      "id": "node/1458199515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1481623167",
+        "amenity": "vending_machine",
+        "name": "Distributore latte",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6111738,
+          41.7945882
+        ]
+      },
+      "id": "node/1481623167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1496673511",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.137753,
+          44.0338908
+        ]
+      },
+      "id": "node/1496673511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1618945960",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4192545,
+          45.6984728
+        ]
+      },
+      "id": "node/1618945960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1644324646",
+        "amenity": "vending_machine",
+        "check_date": "2024-08-20",
+        "currency:EUR": "yes",
+        "name": "Distributore Latte Ca' Bastian",
+        "operator": "Ca' Bastian",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0461945,
+          45.7722589
+        ]
+      },
+      "id": "node/1644324646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1656748474",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9877793,
+          45.7378893
+        ]
+      },
+      "id": "node/1656748474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1656749620",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9869751,
+          45.7242364
+        ]
+      },
+      "id": "node/1656749620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1692097012",
+        "amenity": "vending_machine",
+        "name": "Erogatore latte fresco",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9556559,
+          45.6891677
+        ]
+      },
+      "id": "node/1692097012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1693418335",
+        "amenity": "vending_machine",
+        "fixme": "Verificare se il distributore di latte è ancora presente",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4458966,
+          45.5448604
+        ]
+      },
+      "id": "node/1693418335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1716760126",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8191401,
+          44.4391247
+        ]
+      },
+      "id": "node/1716760126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1749412522",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "drink:raw_milk": "draught",
+        "name": "azienda agricola berno",
+        "payment:cash": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9096367,
+          45.7251246
+        ]
+      },
+      "id": "node/1749412522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1819823977",
+        "amenity": "vending_machine",
+        "operator": "Latte Milano",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2056606,
+          45.6922156
+        ]
+      },
+      "id": "node/1819823977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1855080481",
+        "amenity": "vending_machine",
+        "check_date": "2023-07-19",
+        "milk": "raw_milk",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6281585,
+          45.0488065
+        ]
+      },
+      "id": "node/1855080481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1883794239",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6946767,
+          45.7215038
+        ]
+      },
+      "id": "node/1883794239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1918419538",
+        "amenity": "vending_machine",
+        "check_date": "2023-12-10",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8865967,
+          45.6298026
+        ]
+      },
+      "id": "node/1918419538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1968283036",
+        "amenity": "vending_machine",
+        "drink:milk-raw": "yes",
+        "name": "distributore latte fresco",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7682617,
+          45.0140698
+        ]
+      },
+      "id": "node/1968283036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2029938173",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6392117,
+          44.691933
+        ]
+      },
+      "id": "node/2029938173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2321204296",
+        "amenity": "vending_machine",
+        "description": "Distributore latte crudo",
+        "drink:raw_milk": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3824949,
+          43.5290329
+        ]
+      },
+      "id": "node/2321204296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2374296503",
+        "amenity": "vending_machine",
+        "building": "yes",
+        "check_date": "2025-08-20",
+        "name": "Distributore Automatico Latte Crudo",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2383273,
+          46.0618986
+        ]
+      },
+      "id": "node/2374296503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2386316342",
+        "amenity": "vending_machine",
+        "check_date": "2024-08-02",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6527357,
+          45.3850914
+        ]
+      },
+      "id": "node/2386316342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2527780304",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7028567,
+          45.7981621
+        ]
+      },
+      "id": "node/2527780304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2572848114",
+        "addr:street": "Via del Campo Romano",
+        "amenity": "vending_machine",
+        "check_date": "2024-05-25",
+        "name": "distributore del latte",
+        "vending": "milk;butter;yoghurt;cheese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4082989,
+          45.7219669
+        ]
+      },
+      "id": "node/2572848114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2581285503",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9098092,
+          45.4661418
+        ]
+      },
+      "id": "node/2581285503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2590485045",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "name": "Distributore Automatico Latte Crudo",
+        "payment:account_cards": "yes",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8724244,
+          46.3270411
+        ]
+      },
+      "id": "node/2590485045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2634999890",
+        "amenity": "vending_machine",
+        "check_date": "2023-06-20",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7949029,
+          45.7767036
+        ]
+      },
+      "id": "node/2634999890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2691963700",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5556956,
+          45.6044077
+        ]
+      },
+      "id": "node/2691963700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2718125690",
+        "addr:city": "Rimini",
+        "addr:country": "IT",
+        "addr:housenumber": "17",
+        "addr:postcode": "47921",
+        "addr:street": "Via Santa Chiara",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "vending": "sweets;drinks;condoms;coffee;milk;water;chewing_gums"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5701138,
+          44.056845
+        ]
+      },
+      "id": "node/2718125690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2826160063",
+        "amenity": "vending_machine",
+        "payment:coins": "yes",
+        "payment:notes": "no",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7982505,
+          45.6612801
+        ]
+      },
+      "id": "node/2826160063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2962885398",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6141629,
+          44.448512
+        ]
+      },
+      "id": "node/2962885398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2993772042",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6010679,
+          44.8461984
+        ]
+      },
+      "id": "node/2993772042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3014576809",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6223804,
+          45.5434785
+        ]
+      },
+      "id": "node/3014576809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3068974052",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "vending": "milk;water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.603816,
+          45.7725136
+        ]
+      },
+      "id": "node/3068974052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3101833133",
+        "amenity": "vending_machine",
+        "name": "Latte fresco",
+        "payment:coins": "yes",
+        "payment:notes": "no",
+        "vending": "milk;yoghurt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9307609,
+          45.0870226
+        ]
+      },
+      "id": "node/3101833133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3126579848",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2155104,
+          45.6046366
+        ]
+      },
+      "id": "node/3126579848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3151807635",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1962538,
+          45.660664
+        ]
+      },
+      "id": "node/3151807635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3152496741",
+        "amenity": "vending_machine",
+        "check_date": "2022-07-26",
+        "currency:EUR": "yes",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5207334,
+          45.0677686
+        ]
+      },
+      "id": "node/3152496741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3269065861",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2072132,
+          45.2222843
+        ]
+      },
+      "id": "node/3269065861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3269065862",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1600577,
+          45.2014308
+        ]
+      },
+      "id": "node/3269065862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3309450336",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6160309,
+          45.5689384
+        ]
+      },
+      "id": "node/3309450336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3311978950",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2783427,
+          45.5843863
+        ]
+      },
+      "id": "node/3311978950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3315528324",
+        "amenity": "vending_machine",
+        "check_date": "2025-12-10",
+        "drink:raw_milk": "yes",
+        "operator": "Cascine in Piazza",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2433879,
+          45.5890435
+        ]
+      },
+      "id": "node/3315528324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3336542846",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "name": "distributore latte",
+        "vending": "milk",
+        "website": "http://www.latteriaselfservice.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8413341,
+          40.1240797
+        ]
+      },
+      "id": "node/3336542846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3336553807",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "name": "distributore latte/acqua",
+        "vending": "milk;water",
+        "website": "http://www.latteriaselfservice.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8343994,
+          40.1210068
+        ]
+      },
+      "id": "node/3336553807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3346237713",
+        "amenity": "vending_machine",
+        "level": "0",
+        "operator": "La Cocinella",
+        "vending": "condoms;milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.280747,
+          38.1955841
+        ]
+      },
+      "id": "node/3346237713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3354046467",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "drink": "raw_milk",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.654179,
+          45.7284945
+        ]
+      },
+      "id": "node/3354046467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3365385271",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5820062,
+          45.7181509
+        ]
+      },
+      "id": "node/3365385271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3505747744",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2492992,
+          45.7880533
+        ]
+      },
+      "id": "node/3505747744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3575053093",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0285527,
+          45.752828
+        ]
+      },
+      "id": "node/3575053093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3581332904",
+        "amenity": "vending_machine",
+        "description": "Distributore automatico di Acqua/Latte Fresco",
+        "vending": "water;milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.54523,
+          45.2941924
+        ]
+      },
+      "id": "node/3581332904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3665915873",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2638991,
+          38.1780827
+        ]
+      },
+      "id": "node/3665915873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3762229340",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8533885,
+          44.93996
+        ]
+      },
+      "id": "node/3762229340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3843299617",
+        "amenity": "vending_machine",
+        "milk": "raw_milk",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6615378,
+          45.3211458
+        ]
+      },
+      "id": "node/3843299617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3900125789",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8616425,
+          45.3480922
+        ]
+      },
+      "id": "node/3900125789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3906509719",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2160837,
+          45.5533926
+        ]
+      },
+      "id": "node/3906509719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3958801170",
+        "amenity": "vending_machine",
+        "vending": "food;milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2662891,
+          45.4162169
+        ]
+      },
+      "id": "node/3958801170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4108474889",
+        "amenity": "vending_machine",
+        "check_date": "2025-11-07",
+        "currency:EUR": "yes",
+        "milk": "raw_milk",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2105469,
+          45.5307765
+        ]
+      },
+      "id": "node/4108474889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4119101218",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8893777,
+          44.5070578
+        ]
+      },
+      "id": "node/4119101218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4119417992",
+        "amenity": "vending_machine",
+        "operator": "Maber s.s.a.",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4496409,
+          44.5453523
+        ]
+      },
+      "id": "node/4119417992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4266722737",
+        "amenity": "vending_machine",
+        "check_date": "2025-11-14",
+        "operator": "Latte Trento Scarl",
+        "vending": "milk;yogurt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4718457,
+          46.0547952
+        ]
+      },
+      "id": "node/4266722737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4314619928",
+        "amenity": "vending_machine",
+        "drink:water": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5907265,
+          45.7987512
+        ]
+      },
+      "id": "node/4314619928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4314629753",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6056816,
+          45.748519
+        ]
+      },
+      "id": "node/4314629753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4425421707",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "opening_hours": "08:00-19:00",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8554149,
+          44.6218546
+        ]
+      },
+      "id": "node/4425421707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4427494108",
+        "amenity": "vending_machine",
+        "operator": "Azienda Agricola Torre Luca",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9969588,
+          44.533905
+        ]
+      },
+      "id": "node/4427494108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4493404003",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "operator": "Fratelli Assanelli",
+        "payment:bancomat": "no",
+        "payment:coins": "yes",
+        "payment:notes": "no",
+        "ref": "6396",
+        "reusable_packaging:offer": "no",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6021219,
+          45.5252901
+        ]
+      },
+      "id": "node/4493404003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4546596707",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1318909,
+          45.7688412
+        ]
+      },
+      "id": "node/4546596707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4621414378",
+        "amenity": "vending_machine",
+        "check_date": "2025-07-31",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6137767,
+          44.1695254
+        ]
+      },
+      "id": "node/4621414378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4674555315",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5106643,
+          44.339618
+        ]
+      },
+      "id": "node/4674555315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4678166132",
+        "amenity": "vending_machine",
+        "check_date": "2024-05-04",
+        "indoor": "no",
+        "source": "survey",
+        "vending": "milk;yogurt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2971318,
+          45.6108649
+        ]
+      },
+      "id": "node/4678166132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4690646671",
+        "addr:city": "Parma",
+        "addr:country": "IT",
+        "addr:housenumber": "71/d",
+        "addr:postcode": "43121",
+        "addr:street": "Strada Giuseppe Garibaldi",
+        "amenity": "vending_machine",
+        "check_date": "2025-06-28",
+        "entrance": "main",
+        "level": "0",
+        "loc_ref": "0420",
+        "name": "Km0 dalle nostre campagne",
+        "opening_hours": "24/7",
+        "source": "survey",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3295075,
+          44.8073957
+        ]
+      },
+      "id": "node/4690646671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4704872018",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.306017,
+          45.6079862
+        ]
+      },
+      "id": "node/4704872018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4776656976",
+        "amenity": "vending_machine",
+        "source": "survey",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3085325,
+          45.6310186
+        ]
+      },
+      "id": "node/4776656976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4785839837",
+        "amenity": "vending_machine",
+        "contact:email": "dgallio@gmail.com",
+        "contact:phone": "+39 380 3919880",
+        "fixme": "survey the dispensed items",
+        "name": "Distributore automatico latte 24h",
+        "opening_hours": "24/7",
+        "operator": "Società Agricola Gallio",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6997658,
+          45.6270155
+        ]
+      },
+      "id": "node/4785839837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4786939422",
+        "amenity": "vending_machine",
+        "email": "dgallio@gmail.com",
+        "fixme": "survey the dispensed items",
+        "name": "Distributore automatico latte 24h",
+        "opening_hours": "24/7",
+        "operator": "Società Agricola Gallio",
+        "phone": "+39 380 3919880",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7305975,
+          45.6025544
+        ]
+      },
+      "id": "node/4786939422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4810827461",
+        "amenity": "vending_machine",
+        "check_date": "2024-01-20",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1585379,
+          45.6795676
+        ]
+      },
+      "id": "node/4810827461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4829549199",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5613925,
+          44.3527725
+        ]
+      },
+      "id": "node/4829549199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4924149348",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4275703,
+          44.4968253
+        ]
+      },
+      "id": "node/4924149348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5109297766",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.543993,
+          44.3433601
+        ]
+      },
+      "id": "node/5109297766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5192135080",
+        "amenity": "vending_machine",
+        "disused:shop": "yes",
+        "drink:raw_milk": "yes",
+        "name": "Distributore di latte crudo",
+        "payment:bancomat": "no",
+        "payment:coins": "yes",
+        "payment:notes": "no",
+        "reusable_packaging:offer": "no",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5167223,
+          45.608668
+        ]
+      },
+      "id": "node/5192135080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5291775746",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8423418,
+          45.5061716
+        ]
+      },
+      "id": "node/5291775746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5313699569",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "operator": "Cascina La Benedetta",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1092125,
+          45.5955765
+        ]
+      },
+      "id": "node/5313699569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5333476772",
+        "amenity": "vending_machine",
+        "payment:american_express": "no",
+        "payment:coins": "yes",
+        "payment:diners_club": "no",
+        "payment:discover_card": "no",
+        "payment:laser": "no",
+        "payment:maestro": "no",
+        "payment:mastercard": "no",
+        "payment:notes": "yes",
+        "payment:visa": "no",
+        "vending": "Latte crudo e latticini (Fresh Milk and milk derivates)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0360953,
+          44.9132996
+        ]
+      },
+      "id": "node/5333476772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5385155546",
+        "amenity": "vending_machine",
+        "check_date": "2024-04-02",
+        "currency:EUR": "yes",
+        "indoor": "yes",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "vending": "raw_milk;ice_cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.576427,
+          45.2320761
+        ]
+      },
+      "id": "node/5385155546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5459874604",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6328402,
+          45.0966692
+        ]
+      },
+      "id": "node/5459874604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5514202997",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.254044,
+          45.117436
+        ]
+      },
+      "id": "node/5514202997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5518525690",
+        "amenity": "vending_machine",
+        "operator": "Latterie Vicentine",
+        "shelter": "yes",
+        "vending": "milk; water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3067559,
+          45.6324993
+        ]
+      },
+      "id": "node/5518525690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5573983902",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "drink:raw_milk": "yes",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.00597,
+          44.5351992
+        ]
+      },
+      "id": "node/5573983902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5591598574",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "payment:coins": "yes",
+        "vending": "drinks;milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5091168,
+          45.7410346
+        ]
+      },
+      "id": "node/5591598574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5593756625",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "vending": "sweets;drinks;condoms;food;milk;coffee;water;chewing_gums"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1074522,
+          42.4123043
+        ]
+      },
+      "id": "node/5593756625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5638002199",
+        "amenity": "vending_machine",
+        "check_date": "2025-09-22",
+        "dairy": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3332017,
+          44.7869685
+        ]
+      },
+      "id": "node/5638002199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5658488716",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.301642,
+          44.1831724
+        ]
+      },
+      "id": "node/5658488716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5666024976",
+        "amenity": "vending_machine",
+        "check_date": "2025-07-14",
+        "name": "Acca 24",
+        "vending": "cigarettes;water;food;milk;drinks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1670062,
+          46.2166823
+        ]
+      },
+      "id": "node/5666024976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5749012316",
+        "amenity": "vending_machine",
+        "name": "Distributore Latte",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4487149,
+          45.743132
+        ]
+      },
+      "id": "node/5749012316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5884505945",
+        "amenity": "vending_machine",
+        "check_date": "2025-02-12",
+        "currency:EUR": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5138393,
+          45.0781464
+        ]
+      },
+      "id": "node/5884505945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5931088577",
+        "amenity": "vending_machine",
+        "name": "Distributore latte appena munto",
+        "operator": "Azienda Agricola Fratelli Fossati",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3710552,
+          45.5358697
+        ]
+      },
+      "id": "node/5931088577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6009776972",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7566765,
+          45.1354532
+        ]
+      },
+      "id": "node/6009776972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6058377071",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.893388,
+          45.361647
+        ]
+      },
+      "id": "node/6058377071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6058648658",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "vending": "drinks;sweets;food;milk;coffee;water;chewing_gums;cigarettes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4301783,
+          45.692829
+        ]
+      },
+      "id": "node/6058648658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6073923342",
+        "amenity": "vending_machine",
+        "check_date": "2025-12-28",
+        "currency:EUR": "yes",
+        "drink:milk": "yes",
+        "operator": "Azienda Agricola Scala Angelo",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "source": "https://www.milkmaps.com/index.php?z=BO&d=2157;local knowledge",
+        "vending": "milk;eggs;pasta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7224046,
+          44.3518697
+        ]
+      },
+      "id": "node/6073923342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6129227501",
+        "amenity": "vending_machine",
+        "check_date": "2022-01-13",
+        "name": "Fresco di natura",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5394377,
+          44.3837901
+        ]
+      },
+      "id": "node/6129227501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6289833455",
+        "amenity": "vending_machine",
+        "check_date": "2022-03-04",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7524632,
+          45.5189168
+        ]
+      },
+      "id": "node/6289833455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6328512672",
+        "amenity": "vending_machine",
+        "name": "Fresco di natura",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5476666,
+          44.3919651
+        ]
+      },
+      "id": "node/6328512672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6395355228",
+        "amenity": "vending_machine",
+        "check_date": "2023-06-28",
+        "name": "Distributore Automatico Latte",
+        "operator": "Cascina Biglia",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5415296,
+          45.1276883
+        ]
+      },
+      "id": "node/6395355228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6832217137",
+        "amenity": "vending_machine",
+        "name": "Fresco di natura",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5497017,
+          44.4123678
+        ]
+      },
+      "id": "node/6832217137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6934603921",
+        "amenity": "vending_machine",
+        "name": "Distributore di latte",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7949154,
+          45.0638575
+        ]
+      },
+      "id": "node/6934603921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7008813976",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "vending": "food;drinks;sweets;coffee;milk;water;chewing_gums"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2689612,
+          37.5670112
+        ]
+      },
+      "id": "node/7008813976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7252733378",
+        "amenity": "vending_machine",
+        "brand": "Latte della Val di Vara",
+        "opening_hours": "24/7",
+        "payment:coins": "yes",
+        "payment:credit_cards": "no",
+        "payment:notes": "no",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4102715,
+          44.2725063
+        ]
+      },
+      "id": "node/7252733378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7403454765",
+        "amenity": "vending_machine",
+        "covered": "no",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8222871,
+          45.5620527
+        ]
+      },
+      "id": "node/7403454765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7829371079",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "name": "Distributore di Latte",
+        "payment:cash": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3055321,
+          45.7783022
+        ]
+      },
+      "id": "node/7829371079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7878008011",
+        "amenity": "vending_machine",
+        "check_date": "2025-04-16",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8711834,
+          44.8519499
+        ]
+      },
+      "id": "node/7878008011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8018685640",
+        "amenity": "vending_machine",
+        "branch": "La Quadra",
+        "currency:EUR": "yes",
+        "operator": "La Quadra",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "phone:mobile": "+39 340 6815714",
+        "vending": "milk;cheese;dairy;yoghurt",
+        "website": "https://www.bortolottilaquadra.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8850576,
+          45.9162376
+        ]
+      },
+      "id": "node/8018685640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8293938438",
+        "addr:floor": "G",
+        "amenity": "vending_machine",
+        "check_date": "2024-12-10",
+        "currency:EUR": "yes",
+        "level": "0",
+        "opening_hours": "24/7",
+        "operator": "azienda agricola Latte di Campagna",
+        "payment:cards": "no",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "vending": "food;milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6466843,
+          44.7203698
+        ]
+      },
+      "id": "node/8293938438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8378783566",
+        "amenity": "vending_machine",
+        "vending": "milk;yogurt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6892811,
+          45.5937897
+        ]
+      },
+      "id": "node/8378783566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8714648950",
+        "amenity": "vending_machine",
+        "operator": "Fattorie Venete",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4283178,
+          45.7459899
+        ]
+      },
+      "id": "node/8714648950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8752998913",
+        "amenity": "vending_machine",
+        "check_date": "2023-09-28",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5863519,
+          45.2488926
+        ]
+      },
+      "id": "node/8752998913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8791685397",
+        "amenity": "vending_machine",
+        "name": "Latte fresco",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1055343,
+          45.5737376
+        ]
+      },
+      "id": "node/8791685397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9010925754",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "payment:bancomat": "no",
+        "payment:coins": "yes",
+        "payment:notes": "no",
+        "reusable_packaging:offer": "no",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8225218,
+          45.681477
+        ]
+      },
+      "id": "node/9010925754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9291491994",
+        "addr:city": "Trento",
+        "addr:country": "IT",
+        "addr:housenumber": "40",
+        "addr:postcode": "38121",
+        "addr:street": "Via delle Bettine",
+        "amenity": "vending_machine",
+        "name": "Distributore Automatico Latte Crudo",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1012707,
+          46.0937211
+        ]
+      },
+      "id": "node/9291491994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9305561162",
+        "amenity": "vending_machine",
+        "check_date": "2025-09-21",
+        "covered": "yes",
+        "drink:raw_milk": "yes",
+        "indoor": "no",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8579848,
+          44.6493721
+        ]
+      },
+      "id": "node/9305561162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9461133995",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8761751,
+          45.4241244
+        ]
+      },
+      "id": "node/9461133995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9875144389",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3622458,
+          44.790963
+        ]
+      },
+      "id": "node/9875144389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10067717623",
+        "amenity": "vending_machine",
+        "check_date": "2025-09-08",
+        "operator": "Azienda Agricola Biologica Bordona",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6939312,
+          44.3658325
+        ]
+      },
+      "id": "node/10067717623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10139276814",
+        "amenity": "vending_machine",
+        "operator": "Cascine in piazza",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2463825,
+          45.5210875
+        ]
+      },
+      "id": "node/10139276814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10269840474",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9373577,
+          44.5889894
+        ]
+      },
+      "id": "node/10269840474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10281203278",
+        "amenity": "vending_machine",
+        "vending": "drinks;milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9054481,
+          44.9194678
+        ]
+      },
+      "id": "node/10281203278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10665048780",
+        "alt_name": "Distributore Latte",
+        "amenity": "vending_machine",
+        "name": "Distributore di Latte Crudo Appena Munto",
+        "operator": "Fratelli Fossati",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3838803,
+          45.5481412
+        ]
+      },
+      "id": "node/10665048780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10686885520",
+        "addr:city": "Sant'Angelo di Piove di Sacco",
+        "addr:housenumber": "45",
+        "addr:street": "Via San Polo Basso",
+        "email": "mmagnasame@gmail.com",
+        "name": "Azienda Agricola Magnsame",
+        "phone": "+39 049 584 6239",
+        "produce": "milk; cheese; charcuterie",
+        "shop": "farm",
+        "url": "https://www.facebook.com/caseificiomagnasame/?locale=it_IT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9871336,
+          45.3342517
+        ]
+      },
+      "id": "node/10686885520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10721688704",
+        "amenity": "vending_machine",
+        "covered": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1169172,
+          46.1255748
+        ]
+      },
+      "id": "node/10721688704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10736934684",
+        "amenity": "vending_machine",
+        "description": "Porta la Sua bottiglia",
+        "description:en": "Bring your own bottle",
+        "description:it": "Porta la Sua bottiglia",
+        "name": "Latte crudo",
+        "name:en": "Raw milk",
+        "name:it": "Latte crudo",
+        "opening_hours": "24/7",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "payment:stored_value_card": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7070559,
+          45.7183952
+        ]
+      },
+      "id": "node/10736934684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10815370604",
+        "amenity": "vending_machine",
+        "level": "0",
+        "payment:coins": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "payment:notes": "no",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5802821,
+          45.7297683
+        ]
+      },
+      "id": "node/10815370604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10839251220",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3491973,
+          44.8005713
+        ]
+      },
+      "id": "node/10839251220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10873373219",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3834488,
+          44.6381508
+        ]
+      },
+      "id": "node/10873373219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11115675434",
+        "amenity": "vending_machine",
+        "operator": "Agriturismo fattoria Pratobuscante",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4538465,
+          45.9436611
+        ]
+      },
+      "id": "node/11115675434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11153491223",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7558361,
+          43.264181
+        ]
+      },
+      "id": "node/11153491223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11397726057",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.62259,
+          44.6835134
+        ]
+      },
+      "id": "node/11397726057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11503843019",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.638886,
+          44.6985381
+        ]
+      },
+      "id": "node/11503843019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11703655427",
+        "access": "yes",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7618247,
+          45.1029863
+        ]
+      },
+      "id": "node/11703655427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11750160017",
+        "amenity": "vending_machine",
+        "name": "ConSales h24",
+        "operator": "ConSales",
+        "vending": "condoms;food;water;sweets;weed;drinks;cigarettes;coffee;milk;feminine_hygiene"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3298726,
+          43.3207709
+        ]
+      },
+      "id": "node/11750160017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11750867216",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "operator": "Az. Agricola Brigné",
+        "payment:cash": "yes",
+        "vending": "milk;cheese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2089687,
+          44.1243271
+        ]
+      },
+      "id": "node/11750867216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11888732266",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1343693,
+          44.6623985
+        ]
+      },
+      "id": "node/11888732266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11911558528",
+        "amenity": "vending_machine",
+        "opening_hours": "24/7",
+        "payment:coins": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "payment:notes": "no",
+        "payment:qr_code": "no",
+        "vending": "food;milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6257698,
+          44.6945231
+        ]
+      },
+      "id": "node/11911558528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12025350885",
+        "amenity": "vending_machine",
+        "check_date": "2024-06-10",
+        "covered": "yes",
+        "currency:EUR": "yes",
+        "payment:cash": "yes",
+        "source": "local knowledge",
+        "vending": "milk;eggs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3526148,
+          45.4360066
+        ]
+      },
+      "id": "node/12025350885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12055424192",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3393882,
+          44.7986898
+        ]
+      },
+      "id": "node/12055424192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12070191893",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1071979,
+          45.5954574
+        ]
+      },
+      "id": "node/12070191893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12139546824",
+        "amenity": "vending_machine",
+        "opening_hours": "24/7",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8512945,
+          45.5871786
+        ]
+      },
+      "id": "node/12139546824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12361218966",
+        "amenity": "vending_machine",
+        "covered": "yes",
+        "operator:website": "https://www.cascinalaprimavera.it",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "vending": "food;milk;ice_cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.624387,
+          45.3325873
+        ]
+      },
+      "id": "node/12361218966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12473505001",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.82162,
+          45.4504175
+        ]
+      },
+      "id": "node/12473505001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12491803696",
+        "amenity": "vending_machine",
+        "vending": "raw_milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4597509,
+          44.5679523
+        ]
+      },
+      "id": "node/12491803696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12877895985",
+        "amenity": "vending_machine",
+        "operator": "Azienda agricola Fratelli Bariotto",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1743733,
+          45.695717
+        ]
+      },
+      "id": "node/12877895985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13092641376",
+        "amenity": "vending_machine",
+        "check_date": "2025-08-23",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0171804,
+          44.4935565
+        ]
+      },
+      "id": "node/13092641376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13430490969",
+        "amenity": "vending_machine",
+        "drink:latte": "yes",
+        "name": "Distributore di latte crudo",
+        "payment:cash": "yes",
+        "vending": "raw_milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6360765,
+          44.4792566
+        ]
+      },
+      "id": "node/13430490969"
+    }
+  ]
+}

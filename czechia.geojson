@@ -1,0 +1,640 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-01-07T10:37:50Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1029445037",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6765324,
+          49.6655428
+        ]
+      },
+      "id": "node/1029445037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1334624947",
+        "amenity": "vending_machine",
+        "note": "Mléko",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6102449,
+          49.0159206
+        ]
+      },
+      "id": "node/1334624947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1372754509",
+        "amenity": "vending_machine",
+        "name": "mlékomat Budeč",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9131332,
+          49.5350208
+        ]
+      },
+      "id": "node/1372754509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1596842096",
+        "amenity": "vending_machine",
+        "currency:CZK": "yes",
+        "source": "survey",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6935023,
+          49.2289185
+        ]
+      },
+      "id": "node/1596842096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1596847505",
+        "amenity": "vending_machine",
+        "check_date": "2023-07-23",
+        "source": "survey",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.661353,
+          49.228996
+        ]
+      },
+      "id": "node/1596847505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1596849427",
+        "amenity": "vending_machine",
+        "source": "survey",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6647895,
+          49.2256865
+        ]
+      },
+      "id": "node/1596849427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2209716860",
+        "amenity": "vending_machine",
+        "operator": "ZD Podlesí",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8015012,
+          49.2822068
+        ]
+      },
+      "id": "node/2209716860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3951898307",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.43367,
+          49.9011137
+        ]
+      },
+      "id": "node/3951898307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4309629073",
+        "amenity": "vending_machine",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4389222,
+          49.6491556
+        ]
+      },
+      "id": "node/4309629073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4398659661",
+        "amenity": "vending_machine",
+        "operator": "Vítězslav Škoda",
+        "payment:american_express": "no",
+        "payment:coins": "yes",
+        "payment:diners_club": "no",
+        "payment:discover_card": "no",
+        "payment:laser": "no",
+        "payment:maestro": "no",
+        "payment:mastercard": "no",
+        "payment:notes": "no",
+        "payment:visa": "no",
+        "phone": "+420 737 971 543",
+        "start_date": "2010-04",
+        "vending": "milk",
+        "website": "http://www.mlekozvrazkova.cz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2678221,
+          50.3714167
+        ]
+      },
+      "id": "node/4398659661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4681399466",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3164929,
+          49.8510263
+        ]
+      },
+      "id": "node/4681399466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4816459591",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6235926,
+          49.7437476
+        ]
+      },
+      "id": "node/4816459591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4911503775",
+        "amenity": "vending_machine",
+        "name": "mlékomat",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5713751,
+          49.8558957
+        ]
+      },
+      "id": "node/4911503775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5600377819",
+        "amenity": "vending_machine",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3625306,
+          49.6081476
+        ]
+      },
+      "id": "node/5600377819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5907097658",
+        "amenity": "vending_machine",
+        "covered": "yes",
+        "currency:CZK": "yes",
+        "payment:cash": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1766467,
+          49.4607627
+        ]
+      },
+      "id": "node/5907097658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6050584841",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6236085,
+          49.7438936
+        ]
+      },
+      "id": "node/6050584841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6402185488",
+        "amenity": "vending_machine",
+        "currency:CZK": "yes",
+        "description": "Prodejní automat čerstvě nadojeného mléka do vlastní nádoby / Fresh non-pasteurized milk vending machine (must have your own bottle)",
+        "operator": "Mlékomat - Rolnická společnost a.s.",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9294398,
+          49.712739
+        ]
+      },
+      "id": "node/6402185488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7255780941",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4831076,
+          49.9719258
+        ]
+      },
+      "id": "node/7255780941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9082404771",
+        "amenity": "vending_machine",
+        "currency:CZK": "yes",
+        "drink:raw_milk": "yes",
+        "operator": "Farma Hostovlice",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:contactless": "no",
+        "payment:credit_cards": "no",
+        "payment:cryptocurrencies": "no",
+        "payment:debit_cards": "no",
+        "payment:electronic_purses": "no",
+        "payment:notes": "no",
+        "phone": "732963318",
+        "reusable_packaging:offer": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4622878,
+          49.8608731
+        ]
+      },
+      "id": "node/9082404771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9094122798",
+        "amenity": "vending_machine",
+        "drink:raw_milk": "yes",
+        "payment:coins": "yes",
+        "payment:notes": "no",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8772642,
+          50.1395034
+        ]
+      },
+      "id": "node/9094122798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9842318912",
+        "amenity": "vending_machine",
+        "indoor": "no",
+        "opening_hours": "Mo-Su 07:00-18:30",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3822142,
+          49.7187817
+        ]
+      },
+      "id": "node/9842318912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11064305120",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4455115,
+          50.537499
+        ]
+      },
+      "id": "node/11064305120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11078102163",
+        "amenity": "vending_machine",
+        "name": "Fresh milk",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1991484,
+          49.3482477
+        ]
+      },
+      "id": "node/11078102163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11099553787",
+        "amenity": "vending_machine",
+        "covered": "yes",
+        "currency:CZK": "yes",
+        "operator": "Zemědělské družstvo Bělčice",
+        "payment:cash": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8741023,
+          49.4985403
+        ]
+      },
+      "id": "node/11099553787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11432989236",
+        "amenity": "vending_machine",
+        "name": "U mlsné kozy",
+        "payment:cash": "no",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
+        "shop": "convenience",
+        "vending": "milk",
+        "website": "https://www.farmamlsnakoza.cz/prodejni-automat/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5849722,
+          49.1175203
+        ]
+      },
+      "id": "node/11432989236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11851375693",
+        "amenity": "vending_machine",
+        "payment:coins": "yes",
+        "payment:credit_cards": "no",
+        "payment:cryptocurrencies": "no",
+        "payment:debit_cards": "no",
+        "payment:electronic_purses": "no",
+        "source": "survey;cuzk:ortophoto",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8768443,
+          49.4561803
+        ]
+      },
+      "id": "node/11851375693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11889604424",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9979593,
+          50.5205273
+        ]
+      },
+      "id": "node/11889604424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11889604425",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0334771,
+          50.5488984
+        ]
+      },
+      "id": "node/11889604425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12427950611",
+        "amenity": "vending_machine",
+        "payment:cards": "yes",
+        "vending": "drinks;food;sweets;milk;eggs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9553008,
+          50.2081261
+        ]
+      },
+      "id": "node/12427950611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12658069214",
+        "amenity": "vending_machine",
+        "currency:CZK": "only",
+        "payment:coins": "only",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.960022,
+          49.5701188
+        ]
+      },
+      "id": "node/12658069214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12769343641",
+        "amenity": "vending_machine",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3995937,
+          50.4670685
+        ]
+      },
+      "id": "node/12769343641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13049723013",
+        "access": "yes",
+        "amenity": "vending_machine",
+        "currency:CZK": "yes",
+        "facebook": "https://www.facebook.com/farmakejklicek/",
+        "operator": "Farma Kejklíček",
+        "payment:coins": "yes",
+        "vending": "milk",
+        "website": "https://www.farmakejklicek.cz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8095127,
+          50.2407896
+        ]
+      },
+      "id": "node/13049723013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13081634082",
+        "amenity": "vending_machine",
+        "brand": "Tmléko",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7614876,
+          49.0036439
+        ]
+      },
+      "id": "node/13081634082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13097850701",
+        "amenity": "vending_machine",
+        "fixme": "resurvey upřesnit polohu",
+        "vending": "milk",
+        "website": "https://www.agroprestavlky.cz/aktuality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7471922,
+          49.8542317
+        ]
+      },
+      "id": "node/13097850701"
+    }
+  ]
+}

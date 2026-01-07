@@ -1,0 +1,1058 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-01-07T10:26:38Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1449724585",
+        "amenity": "vending_machine",
+        "building": "roof",
+        "vending": "milk",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4929184,
+          46.0665484
+        ]
+      },
+      "id": "way/1449724585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2329153977",
+        "amenity": "vending_machine",
+        "destination": "milk automat",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9512093,
+          46.2726522
+        ]
+      },
+      "id": "node/2329153977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2934730982",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3899599,
+          46.3686749
+        ]
+      },
+      "id": "node/2934730982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4089654396",
+        "amenity": "vending_machine",
+        "bulk_purchase": "yes",
+        "name": "Mlekomat",
+        "payment:coins": "yes",
+        "payment:notes": "no",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4757317,
+          46.0740066
+        ]
+      },
+      "id": "node/4089654396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4121105708",
+        "amenity": "vending_machine",
+        "bulk_purchase": "yes",
+        "check_date": "2021-06-15",
+        "contact:email": "info@kmetija-jamsek.si",
+        "contact:phone": "+386 41 895 643;+386 31 237 739",
+        "name": "Mlekomat",
+        "operator": "Kmetija Jamšek, Moste pri Komendi",
+        "payment:coins": "yes",
+        "payment:notes": "no",
+        "vending": "milk",
+        "website": "https://www.kmetija-jamsek.si/mlekomati/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5444434,
+          46.0636569
+        ]
+      },
+      "id": "node/4121105708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4130169548",
+        "amenity": "vending_machine",
+        "bulk_purchase": "yes",
+        "check_date": "2023-03-16",
+        "name": "Mlekomat",
+        "payment:coins": "yes",
+        "payment:notes": "no",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4752371,
+          46.0413359
+        ]
+      },
+      "id": "node/4130169548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4130184052",
+        "amenity": "vending_machine",
+        "bulk_purchase": "yes",
+        "check_date": "2021-08-30",
+        "contact:email": "ininfo@kmetija-jamsek.si",
+        "contact:phone": "+386 41 895 643;+386 31 237 739",
+        "name": "mlekomat",
+        "operator": "Kmetija Jamšek, Moste pri Komendi",
+        "payment:coins": "yes",
+        "payment:notes": "no",
+        "vending": "milk",
+        "website": "https://www.kmetija-jamsek.si/mlekomati/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5256266,
+          46.0630203
+        ]
+      },
+      "id": "node/4130184052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4130187488",
+        "amenity": "vending_machine",
+        "bulk_purchase": "yes",
+        "name": "Mlekomat",
+        "payment:coins": "yes",
+        "payment:notes": "no",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4999501,
+          46.0395235
+        ]
+      },
+      "id": "node/4130187488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4225729741",
+        "amenity": "vending_machine",
+        "bulk_purchase": "yes",
+        "contact:phone": "+386 41 210 442",
+        "contact:phone2": "+386 41 894 367",
+        "name": "Mlekomat",
+        "operator": "Kmetija Dolinar, Razori 1, 1356 Dobrava",
+        "payment:coins": "yes",
+        "payment:notes": "no",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4696148,
+          46.0420812
+        ]
+      },
+      "id": "node/4225729741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231881961",
+        "amenity": "vending_machine",
+        "bulk_purchase": "yes",
+        "check_date": "2025-03-21",
+        "name": "Mlekomat",
+        "payment:coins": "yes",
+        "payment:notes": "no",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5941945,
+          46.138169
+        ]
+      },
+      "id": "node/4231881961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4330489532",
+        "amenity": "vending_machine",
+        "name": "Mlekomat",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4628399,
+          46.0796872
+        ]
+      },
+      "id": "node/4330489532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4502216496",
+        "amenity": "vending_machine",
+        "check_date": "2024-01-05",
+        "name": "BC Naklo",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3005734,
+          46.2828999
+        ]
+      },
+      "id": "node/4502216496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4723666268",
+        "amenity": "vending_machine",
+        "check_date": "2024-05-10",
+        "drink": "*",
+        "name": "Mlekomat glavna pošta",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3566745,
+          46.248773
+        ]
+      },
+      "id": "node/4723666268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4723993456",
+        "amenity": "vending_machine",
+        "drink": "*",
+        "name": "Mlekomat Merkator",
+        "operator": "Kmetija pri Brojanu",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2949516,
+          46.1734492
+        ]
+      },
+      "id": "node/4723993456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4732526926",
+        "amenity": "vending_machine",
+        "name": "mlekomat Kidričeva",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1582546,
+          46.2545359
+        ]
+      },
+      "id": "node/4732526926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4732535257",
+        "amenity": "vending_machine",
+        "name": "mlekomat Ulica Frankolovskih žrtev",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2760036,
+          46.2512605
+        ]
+      },
+      "id": "node/4732535257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4732541764",
+        "amenity": "vending_machine",
+        "name": "mlekomat Černelčeva cesta",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.59178,
+          45.906754
+        ]
+      },
+      "id": "node/4732541764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4732548225",
+        "amenity": "vending_machine",
+        "name": "mlekomat",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3179009,
+          46.2574955
+        ]
+      },
+      "id": "node/4732548225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4732745763",
+        "amenity": "vending_machine",
+        "name": "mlekomat",
+        "operator": "kmetija Meden",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7319379,
+          45.5354996
+        ]
+      },
+      "id": "node/4732745763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4732755825",
+        "amenity": "vending_machine",
+        "check_date": "2021-11-11",
+        "fixme": "resurvey",
+        "name": "mlekomat na cesti talcev",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3678871,
+          46.2366318
+        ]
+      },
+      "id": "node/4732755825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4732756963",
+        "amenity": "vending_machine",
+        "name": "mlekormat",
+        "operator": "splošne informacije",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4868857,
+          46.2516176
+        ]
+      },
+      "id": "node/4732756963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4732764338",
+        "amenity": "vending_machine",
+        "name": "mlekomat",
+        "operator": "splošne informacije",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1730699,
+          46.3438109
+        ]
+      },
+      "id": "node/4732764338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4743368530",
+        "amenity": "vending_machine",
+        "designation": "drink - milk",
+        "name": "Mlekomat kmetije Ule",
+        "operator": "Kmetija Ule",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9968859,
+          46.1319518
+        ]
+      },
+      "id": "node/4743368530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4747189625",
+        "amenity": "vending_machine",
+        "drink": "*",
+        "name": "Na kresu 26",
+        "operator": "Kmetija pr'Demšarji",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1671224,
+          46.2253482
+        ]
+      },
+      "id": "node/4747189625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4758422988",
+        "amenity": "vending_machine",
+        "name": "Mlekomat",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4187193,
+          46.2429409
+        ]
+      },
+      "id": "node/4758422988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4761297438",
+        "amenity": "vending_machine",
+        "name": "Mlekomat Kmetijska šole Grm in biotehniške gimnazije",
+        "operator": "Kmetijska šola Grm in biotehniška gimnazija",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1913022,
+          45.8323993
+        ]
+      },
+      "id": "node/4761297438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4761307599",
+        "amenity": "vending_machine",
+        "name": "Mlekomat Kmetijske šole Grm in biotehniške gimnazije",
+        "operator": "Kmetijska šola Grm in biotehniška gimnazija",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1690239,
+          45.8038285
+        ]
+      },
+      "id": "node/4761307599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4762048074",
+        "amenity": "vending_machine",
+        "name": "Mlekomat",
+        "operator": "Kmetija Novak",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3951168,
+          46.2126947
+        ]
+      },
+      "id": "node/4762048074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4765196521",
+        "amenity": "vending_machine",
+        "name": "Milkmachine",
+        "operator": "Farm pr'Bukovcu",
+        "vending": "milk;eggs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1099966,
+          46.0474313
+        ]
+      },
+      "id": "node/4765196521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5803990285",
+        "amenity": "vending_machine",
+        "check_date": "2025-10-01",
+        "currency:EUR": "yes",
+        "indoor": "no",
+        "name": "Mlekomat",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4879639,
+          46.0495315
+        ]
+      },
+      "id": "node/5803990285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6328335893",
+        "amenity": "vending_machine",
+        "check_date": "2023-07-22",
+        "operator": "Kmetija Jóžefovc",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.531629,
+          46.1028858
+        ]
+      },
+      "id": "node/6328335893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6387321576",
+        "amenity": "vending_machine",
+        "bulk_purchase": "no",
+        "name": "Mlekomat",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4757521,
+          46.0740144
+        ]
+      },
+      "id": "node/6387321576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6458209041",
+        "amenity": "vending_machine",
+        "name": "Mlekomat",
+        "opening_hours": "24/7",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.644879,
+          45.9623074
+        ]
+      },
+      "id": "node/6458209041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6458209042",
+        "amenity": "vending_machine",
+        "name": "Mlekomat",
+        "opening_hours": "24/7",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6401009,
+          45.9304897
+        ]
+      },
+      "id": "node/6458209042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6458282558",
+        "amenity": "vending_machine",
+        "covered": "yes",
+        "name": "Mlekomat",
+        "opening_hours": "24/7",
+        "payment:coins": "yes",
+        "vending": "raw milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6767164,
+          46.0447141
+        ]
+      },
+      "id": "node/6458282558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6913903734",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4844906,
+          45.94036
+        ]
+      },
+      "id": "node/6913903734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7475844274",
+        "amenity": "vending_machine",
+        "operator": "Kmetija Bečan",
+        "vending": "milk;yogurt;curd;cheese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.422943,
+          46.1232426
+        ]
+      },
+      "id": "node/7475844274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7979914285",
+        "amenity": "vending_machine",
+        "check_date": "2023-05-17",
+        "name": "MLEKOmat",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5089962,
+          46.051082
+        ]
+      },
+      "id": "node/7979914285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8996960807",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "operator": "Kmetija Žgajnar",
+        "payment:coins": "yes",
+        "source": "https://biodobrote.si/sl/prodajna-mesta",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6594808,
+          45.5368647
+        ]
+      },
+      "id": "node/8996960807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9084672244",
+        "amenity": "vending_machine",
+        "vending": "eggs;milk;pork_fat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2982281,
+          45.9673292
+        ]
+      },
+      "id": "node/9084672244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9161237805",
+        "amenity": "vending_machine",
+        "vending": "milk;yogurt;cheese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9047622,
+          45.887913
+        ]
+      },
+      "id": "node/9161237805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9270601809",
+        "amenity": "vending_machine",
+        "check_date": "2025-06-09",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2121276,
+          45.7736077
+        ]
+      },
+      "id": "node/9270601809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460478732",
+        "amenity": "vending_machine",
+        "vending": "eggs;milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4201976,
+          46.2496469
+        ]
+      },
+      "id": "node/9460478732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9867578882",
+        "amenity": "vending_machine",
+        "opening_hours": "24/7",
+        "payment:cash": "yes",
+        "vending": "milk;cheese;food;yogurt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1477647,
+          46.1065537
+        ]
+      },
+      "id": "node/9867578882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10207862477",
+        "amenity": "vending_machine",
+        "check_date": "2025-05-11",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4478622,
+          46.0820838
+        ]
+      },
+      "id": "node/10207862477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10605902991",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7024789,
+          46.2607175
+        ]
+      },
+      "id": "node/10605902991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10794925999",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0413962,
+          46.2991831
+        ]
+      },
+      "id": "node/10794925999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10821857469",
+        "amenity": "vending_machine",
+        "name": "Mlekomat Rotar",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4024252,
+          46.0220517
+        ]
+      },
+      "id": "node/10821857469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11816460428",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4129491,
+          46.0107295
+        ]
+      },
+      "id": "node/11816460428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11908520087",
+        "amenity": "vending_machine",
+        "name": "Mlekomat",
+        "opening_hours": "24/7",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6607446,
+          45.9569672
+        ]
+      },
+      "id": "node/11908520087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12479919766",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1855175,
+          46.3456656
+        ]
+      },
+      "id": "node/12479919766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12520929194",
+        "addr:city": "Logatec",
+        "addr:postcode": "1370",
+        "addr:street": "Stara cesta",
+        "amenity": "vending_machine",
+        "contact:youtube": "https://www.youtube.com/watch?v=NjXqvDfkypA",
+        "indoor": "yes",
+        "operator": "Kmetija Kranjc",
+        "phone": "+386 31 758 222",
+        "vending": "milk;cheese;cottage_cheese;sir;skuta;yogurt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2302835,
+          45.9186557
+        ]
+      },
+      "id": "node/12520929194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12522852334",
+        "amenity": "vending_machine",
+        "operator": "Kmetija Napotnik",
+        "vending": "milk;cheese;yoghurt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0326158,
+          46.3942554
+        ]
+      },
+      "id": "node/12522852334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12709613263",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5969227,
+          46.1428018
+        ]
+      },
+      "id": "node/12709613263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13193544522",
+        "amenity": "vending_machine",
+        "operator": "Kmetija Jamšek",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4840174,
+          46.0751152
+        ]
+      },
+      "id": "node/13193544522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13275545021",
+        "amenity": "vending_machine",
+        "check_date": "2021-08-14",
+        "image": "https://i.imgur.com/KoMXhwc.jpg",
+        "opening_hours": "24/7",
+        "operator": "Kmetija Mis",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4618873,
+          46.1147553
+        ]
+      },
+      "id": "node/13275545021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13409527191",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "indoor": "no",
+        "name": "Avtomatek z jogurtkom",
+        "opening_hours": "24/7",
+        "operator": "Pr' Vernk;Pr' Krč",
+        "payment:cards": "no",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "speech_output:sl": "yes",
+        "vending": "yoghurt;milk;food;cheese;dairy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5011166,
+          46.394295
+        ]
+      },
+      "id": "node/13409527191"
+    }
+  ]
+}

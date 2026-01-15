@@ -1,0 +1,6738 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-01-09T09:50:15Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/12689430",
+        "addr:city": "San Diego",
+        "addr:country": "US",
+        "addr:housenumber": "648",
+        "addr:postcode": "92173",
+        "addr:state": "CA",
+        "addr:street": "East San Ysidro Boulevard",
+        "amenity": "marketplace",
+        "name": "San Ysidro Tianguis Swap Meet",
+        "opening_hours": "Fr-Su 10:00-16:00",
+        "source": "SanGIS Addresses Public Domain (http://www.sangis.org/)",
+        "type": "multipolygon",
+        "website": "https://tianguissanysidro.com",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0335781,
+          32.5457613
+        ]
+      },
+      "id": "relation/12689430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28102865",
+        "addr:city": "Aromas",
+        "addr:housenumber": "1000",
+        "addr:postcode": "95004",
+        "addr:state": "CA",
+        "addr:street": "Highway 101",
+        "amenity": "marketplace",
+        "building": "barn",
+        "colour": "red",
+        "name": "The Red Barn Flea Market",
+        "opening_hours": "Su 07:00-16:00",
+        "phone": "+1 831-422-1271",
+        "start_date": "1943",
+        "website": "http://www.theredbarnfleamarket.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6323008,
+          36.8543564
+        ]
+      },
+      "id": "way/28102865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28464518",
+        "addr:city": "San Jose",
+        "addr:country": "US",
+        "addr:full": "1590 Berryessa Road",
+        "addr:housenumber": "1590",
+        "addr:postcode": "95133",
+        "addr:state": "CA",
+        "addr:street": "Berryessa Road",
+        "alt_name": "The Flea Market",
+        "amenity": "marketplace",
+        "landuse": "retail",
+        "name": "San Jose Flea Market",
+        "website": "https://www.sjfm.com/",
+        "wikidata": "Q7414449",
+        "wikipedia": "en:San Jose Flea Market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8768368,
+          37.367571
+        ]
+      },
+      "id": "way/28464518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/31808955",
+        "amenity": "marketplace",
+        "building_type": "commercial",
+        "name": "Farmers Outlet",
+        "sangis:OBJECTID": "4107",
+        "source": "SanGIS Footprints_Nonresidential_SD public domain (http://www.sangis.org/)",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0993534,
+          32.7901491
+        ]
+      },
+      "id": "way/31808955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/31840042",
+        "amenity": "marketplace",
+        "building": "education",
+        "sangis:OBJECTID": "14094",
+        "sangis:TYPE": "Education",
+        "source": "SanGIS Footprints_Nonresidential_SD public domain (http://www.sangis.org/)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2714544,
+          32.8383879
+        ]
+      },
+      "id": "way/31840042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/34994967",
+        "amenity": "marketplace",
+        "name": "Westside Farmer's Market",
+        "opening_hours": "Sa 09:00-13:00",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0563552,
+          36.9601361
+        ]
+      },
+      "id": "way/34994967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38059602",
+        "addr:city": "San Jose",
+        "addr:housenumber": "3630",
+        "addr:postcode": "95136",
+        "addr:state": "CA",
+        "addr:street": "Hillcap Avenue",
+        "amenity": "marketplace",
+        "charge:conditional": "0.50 USD @ We; 1.00 USD @ Th; 0.50 USD @ Fr; 1.50 USD @ Sa; 2.50 USD @ Su",
+        "fee": "yes",
+        "landuse": "retail",
+        "name": "Capitol Flea Market",
+        "opening_hours": "We 07:00-14:30; Th-Su 06:30-15:30; Fr 07:00-15:00",
+        "operator": "West Wind Public Markets",
+        "website": "https://www.westwindpm.com/locations/san-jose-ca",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8405181,
+          37.2801649
+        ]
+      },
+      "id": "way/38059602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/39018501",
+        "amenity": "marketplace",
+        "building": "retail",
+        "building:levels": "1",
+        "ele": "32.06",
+        "height": "6.18",
+        "layer": "2",
+        "name": "San Pedro Square Market Hall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.894967,
+          37.3363762
+        ]
+      },
+      "id": "way/39018501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/43968258",
+        "amenity": "marketplace",
+        "area": "yes",
+        "highway": "pedestrian",
+        "name": "Pico Farmer's Market",
+        "opening_hours": "Sa",
+        "surface": "compacted",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4678354,
+          34.0209181
+        ]
+      },
+      "id": "way/43968258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/44803360",
+        "addr:city": "San Jose",
+        "addr:housenumber": "1358",
+        "addr:postcode": "95128",
+        "addr:street": "South Winchester Boulevard",
+        "amenity": "marketplace",
+        "building": "yes",
+        "ele": "56.93",
+        "height": "4.09",
+        "name": "Tana Ethio Market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9495265,
+          37.2996939
+        ]
+      },
+      "id": "way/44803360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/61545548",
+        "amenity": "marketplace",
+        "attribution": "Fresno_County_GIS",
+        "name": "Sunnyside Flea Market",
+        "other_use": "C",
+        "primary_use": "THD",
+        "secondary_use": "000",
+        "source": "http://www.co.fresno.ca.us/%5Cdepartmentpage.aspx?id=16313",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7028509,
+          36.7563781
+        ]
+      },
+      "id": "way/61545548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/94333965",
+        "addr:city": "Escondido",
+        "addr:country": "US",
+        "addr:housenumber": "128",
+        "addr:postcode": "92025",
+        "addr:street": "East Grand Avenue",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "The Rustic Sparrow",
+        "source": "SanGIS Addresses Public Domain (http://www.sangis.org/)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0810116,
+          33.1222907
+        ]
+      },
+      "id": "way/94333965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/99584438",
+        "amenity": "marketplace",
+        "name": "Belmont Farmer's Market",
+        "opening_hours": "Su 09:00-13:00",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2732247,
+          37.5185111
+        ]
+      },
+      "id": "way/99584438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/103093928",
+        "addr:city": "Escondido",
+        "addr:country": "US",
+        "addr:housenumber": "635",
+        "addr:postcode": "92025",
+        "addr:street": "West Mission Avenue",
+        "amenity": "marketplace",
+        "name": "Escondido World Marketplace",
+        "old_name": "Escondido Swap Meet",
+        "source": "SanGIS Addresses Public Domain (http://www.sangis.org/)",
+        "website": "http://www.escondidowm.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0944648,
+          33.1251201
+        ]
+      },
+      "id": "way/103093928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/106607203",
+        "amenity": "marketplace",
+        "name": "UTC Farmers Market",
+        "opening_hours": "Th 15:00-19:00",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2239611,
+          32.8621125
+        ]
+      },
+      "id": "way/106607203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/114555289",
+        "amenity": "marketplace",
+        "name": "Ecology Center Farmer's Market",
+        "opening_hours": "Sa 10:00-15:00",
+        "website": "https://www.ecologycenter.org/bfm/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2717031,
+          37.8698389
+        ]
+      },
+      "id": "way/114555289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/123286911",
+        "addr:city": "Redlands",
+        "addr:housenumber": "330",
+        "addr:postcode": "92374",
+        "addr:state": "CA",
+        "addr:street": "3rd Street",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Redlands Public Market",
+        "opening_hours": "Su-Th 08:00-22:00; Fr-Sa 08:00-02:00",
+        "website": "https://www.redlandspublicmarket.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1840226,
+          34.0583096
+        ]
+      },
+      "id": "way/123286911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/132693067",
+        "addr:city": "Palmdale",
+        "addr:housenumber": "2616",
+        "addr:postcode": "93550",
+        "addr:state": "CA",
+        "addr:street": "East Palmdale Boulevard",
+        "amenity": "marketplace",
+        "building": "retail",
+        "lacounty:ain": "3018026038",
+        "lacounty:bld_id": "PLM21221",
+        "name": "Palmdale International Shopping Mall",
+        "start_date": "1981",
+        "website": "http://www.palmdalemall.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0832851,
+          34.5789982
+        ]
+      },
+      "id": "way/132693067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/132789281",
+        "addr:city": "Los Angeles",
+        "addr:housenumber": "6333",
+        "addr:postcode": "90036",
+        "addr:state": "CA",
+        "addr:street": "West 3rd Street",
+        "amenity": "marketplace",
+        "landuse": "retail",
+        "name": "Farmers Market",
+        "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su 10:00-19:00",
+        "website": "https://www.farmersmarketla.com/",
+        "wikidata": "Q5435793",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3602298,
+          34.0720135
+        ]
+      },
+      "id": "way/132789281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/143338610",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Esperanzas Tortilleria",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0964016,
+          33.1255776
+        ]
+      },
+      "id": "way/143338610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/160146695",
+        "amenity": "marketplace",
+        "name": "Westchester Farmers Market (Wednesdays)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4158172,
+          33.9574316
+        ]
+      },
+      "id": "way/160146695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/165361026",
+        "amenity": "marketplace",
+        "name": "Saturday Farmers Market",
+        "parking": "surface",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.041365,
+          34.2164464
+        ]
+      },
+      "id": "way/165361026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/166247705",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "The Vitamin Shoppe",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4033571,
+          38.4225382
+        ]
+      },
+      "id": "way/166247705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/166620586",
+        "amenity": "marketplace",
+        "landuse": "retail",
+        "name": "Santa Maria Certified Farmers' Market",
+        "opening_hours": "We 12:30-16:30",
+        "operator": "Central City CFM Association",
+        "website": "http://www.cafarmersmarkets.com/index.cfm?fuseaction=detail&id=2040",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.436306,
+          34.9521541
+        ]
+      },
+      "id": "way/166620586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/166620794",
+        "amenity": "marketplace",
+        "landuse": "retail",
+        "name": "Orcutt Certified Farmers' Market",
+        "opening_hours": "Tu 10:00-13:00",
+        "operator": "Central City CFM Association",
+        "website": "http://www.cafarmersmarkets.com/index.cfm?fuseaction=detail&id=1900",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.4185504,
+          34.8659138
+        ]
+      },
+      "id": "way/166620794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/194336662",
+        "amenity": "marketplace",
+        "name": "Santa Monica Farmers Market",
+        "opening_hours": "We Sa",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4982368,
+          34.0166333
+        ]
+      },
+      "id": "way/194336662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/197444905",
+        "addr:full": "610 Mesa View Drive",
+        "addr:housenumber": "610",
+        "addr:state": "CA",
+        "addr:street": "Mesa View Drive",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Mesa View Market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5871555,
+          35.0807236
+        ]
+      },
+      "id": "way/197444905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209967563",
+        "amenity": "marketplace",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1456973,
+          34.1436109
+        ]
+      },
+      "id": "way/209967563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/232201801",
+        "amenity": "marketplace",
+        "name": "Turlock Flea Market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8249543,
+          37.49362
+        ]
+      },
+      "id": "way/232201801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/239932194",
+        "amenity": "marketplace",
+        "name": "Bear Cupboards Market",
+        "source": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9107487,
+          34.2401444
+        ]
+      },
+      "id": "way/239932194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/245562479",
+        "amenity": "marketplace",
+        "name": "North Berkeley Farmer's Market",
+        "opening_hours": "Th 15:00-19:00",
+        "operator": "Ecology Center",
+        "website": "https://www.ecologycenter.org/bfm/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2692054,
+          37.8809096
+        ]
+      },
+      "id": "way/245562479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/249321589",
+        "addr:housenumber": "5618",
+        "addr:street": "Shafter Avenue",
+        "alt_name": "Rockridge Market Hall",
+        "amenity": "marketplace",
+        "building": "mixed_use",
+        "building:levels": "3",
+        "name": "Market Hall",
+        "website": "https://rockridgemarkethall.com/",
+        "wikidata": "Q14683827",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2522388,
+          37.8436343
+        ]
+      },
+      "id": "way/249321589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/257827433",
+        "amenity": "marketplace",
+        "area": "yes",
+        "check_date:opening_hours": "2021-04-15",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Downtown Farmer's Market Wed PM",
+        "opening_hours": "We 13:30-18:30",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0266328,
+          36.9720138
+        ]
+      },
+      "id": "way/257827433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/259300411",
+        "amenity": "marketplace",
+        "building": "yes",
+        "building:levels": "1",
+        "ele": "26.2",
+        "height": "3.2",
+        "lacounty:ain": "7529017903",
+        "lacounty:bld_id": "453732753481",
+        "roof:shape": "flat",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.355304,
+          33.8101428
+        ]
+      },
+      "id": "way/259300411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/259804434",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Fruitvale Public Market",
+        "note": "Suite 5: Bakery El Sol (510) 534-5397",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2240996,
+          37.776304
+        ]
+      },
+      "id": "way/259804434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/265640062",
+        "amenity": "marketplace",
+        "building": "no",
+        "name": "Loyalton Farmer's Market (Summer Weekends)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.241168,
+          39.6756039
+        ]
+      },
+      "id": "way/265640062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/311695975",
+        "addr:city": "Merced",
+        "addr:housenumber": "1978",
+        "addr:postcode": "95348",
+        "addr:street": "West Business Park Way",
+        "building": "commercial",
+        "name": "Fugndes Dairy",
+        "shop": "dairy",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5213349,
+          37.3312681
+        ]
+      },
+      "id": "way/311695975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/338746231",
+        "amenity": "marketplace",
+        "landuse": "retail",
+        "name": "San Pedro Square Market",
+        "website": "https://sanpedrosquaremarket.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8946432,
+          37.3364574
+        ]
+      },
+      "id": "way/338746231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/351574053",
+        "amenity": "marketplace",
+        "building": "retail",
+        "ele": "20.5",
+        "height": "8.0",
+        "lacounty:ain": "7306018032",
+        "lacounty:bld_id": "497197767027",
+        "name": "Del Amo Swap Meet",
+        "official_name": "Del Amo Plaza",
+        "start_date": "1966",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2123414,
+          33.8477346
+        ]
+      },
+      "id": "way/351574053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/354759211",
+        "addr:city": "Walnut Creek",
+        "addr:postcode": "94598",
+        "addr:state": "CA",
+        "addr:street": "North Wiget Lane & North Wiget Drive",
+        "amenity": "marketplace",
+        "name": "Diablo Valley Farmers' Market",
+        "opening_hours": "Sa 9:00-13:00",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0282216,
+          37.9279728
+        ]
+      },
+      "id": "way/354759211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/357558768",
+        "amenity": "marketplace",
+        "building": "commercial",
+        "building:levels": "1",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.345961,
+          33.2154576
+        ]
+      },
+      "id": "way/357558768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/357558769",
+        "amenity": "marketplace",
+        "building": "commercial",
+        "building:levels": "1",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3481663,
+          33.2139379
+        ]
+      },
+      "id": "way/357558769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/357560345",
+        "amenity": "marketplace",
+        "building": "commercial",
+        "building:levels": "1",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3413561,
+          33.2177026
+        ]
+      },
+      "id": "way/357560345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/362162006",
+        "amenity": "marketplace",
+        "check_date:opening_hours": "2024-07-14",
+        "name": "Clement St. Farmers Market",
+        "note": "Market happens in the street, which is blocked off.",
+        "opening_hours": "Su 09:00-14:00",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4612258,
+          37.7830983
+        ]
+      },
+      "id": "way/362162006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/367586034",
+        "amenity": "marketplace",
+        "name": "Alemany Farmers Market",
+        "website": "https://www.sf.gov/location--alemany-farmers-market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4100436,
+          37.7359725
+        ]
+      },
+      "id": "way/367586034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/368695781",
+        "addr:city": "Napa",
+        "addr:housenumber": "610",
+        "addr:state": "CA",
+        "addr:street": "1st Street",
+        "alt_name": "The Oxbow Market",
+        "amenity": "marketplace",
+        "name": "Oxbow Public market",
+        "phone": "+1-707-226-6529",
+        "website": "https://oxbowpublicmarket.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2816892,
+          38.3017078
+        ]
+      },
+      "id": "way/368695781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/369738933",
+        "amenity": "marketplace",
+        "building": "yes",
+        "description": "Country market, featuring self-grown produce and on-site baked pies.",
+        "name": "Ikedas Produce",
+        "opening_hours": "Mo-Th 09:00-19:00; Fr-Su 09:00-20:00",
+        "phone": "+1-530-885-4243",
+        "shop": "convenience",
+        "website": "https://www.ikedas.com/",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.0551059,
+          38.9280756
+        ]
+      },
+      "id": "way/369738933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/375637780",
+        "addr:housenumber": "11875",
+        "addr:street": "Dublin Boulevard",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Challenge Dairy Products",
+        "operator": "Challenge",
+        "shop": "dairy",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9377579,
+          37.700802
+        ]
+      },
+      "id": "way/375637780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/380023148",
+        "amenity": "marketplace",
+        "name": "Calabasas Saturday Farmers Market",
+        "opening_hours": "Sa 09:00-13:00",
+        "operator": "Calif Certified Farmers Markets (Raw Inspiration)",
+        "parking": "surface",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6386442,
+          34.1571844
+        ]
+      },
+      "id": "way/380023148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/380903024",
+        "amenity": "marketplace",
+        "email": "info@vccfm.org",
+        "layer": "-1",
+        "name": "Thursday Farmers Market",
+        "opening_hours": "Th 12:00-17:00",
+        "operator": "Ventura County Certified Farmer's Market",
+        "organic": "yes",
+        "phone": "+1 805-529-6266",
+        "website": "https://www.vccfm.org/thousand-oaks",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8835722,
+          34.1803665
+        ]
+      },
+      "id": "way/380903024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/381643990",
+        "amenity": "marketplace",
+        "name": "Warner Business Center Certified Wednesday Farmers Market",
+        "opening_hours": "We 10:00-14:00",
+        "operator": "Enriched Farms",
+        "parking": "surface",
+        "shop": "farm",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5935852,
+          34.1741011
+        ]
+      },
+      "id": "way/381643990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/385737288",
+        "amenity": "marketplace",
+        "name": "Canoga Saturday Farmers Market",
+        "opening_hours": "Sa 09:00-13:00",
+        "operator": "Coastal Pacific",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6015906,
+          34.2022082
+        ]
+      },
+      "id": "way/385737288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/385737310",
+        "amenity": "marketplace",
+        "amenity_1": "parking",
+        "name": "Encino Sunday Farmers Market",
+        "opening_hours": "Su 08:00-13:00",
+        "operator": "OneGeneration",
+        "parking": "surface",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5126288,
+          34.1855876
+        ]
+      },
+      "id": "way/385737310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/387057317",
+        "addr:city": "San Mateo",
+        "addr:housenumber": "1614",
+        "addr:postcode": "94402",
+        "addr:state": "CA",
+        "addr:street": "El Camino Real",
+        "amenity": "marketplace",
+        "name": "Pirooz Market",
+        "website": "https://www.piroozmarket.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3152214,
+          37.5528696
+        ]
+      },
+      "id": "way/387057317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/391796268",
+        "amenity": "marketplace",
+        "name": "West Wind Coliseum Swap Meet",
+        "parking": "yes",
+        "source": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2120563,
+          37.7607493
+        ]
+      },
+      "id": "way/391796268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/394235269",
+        "amenity": "marketplace",
+        "name": "Nipomo Swap Meet",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.490179,
+          35.0401296
+        ]
+      },
+      "id": "way/394235269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/397170451",
+        "amenity": "restaurant",
+        "building": "yes",
+        "ele": "99.9",
+        "height": "6.9",
+        "historic": "yes",
+        "lacounty:ain": "8575001006",
+        "lacounty:bld_id": "551109856054",
+        "name": "Driftwood Dairy",
+        "shop": "dairy",
+        "source": "Bing",
+        "start_date": "1929",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0348836,
+          34.0925003
+        ]
+      },
+      "id": "way/397170451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/403656578",
+        "addr:city": "Niland",
+        "addr:housenumber": "9592",
+        "addr:postcode": "92257",
+        "addr:state": "CA",
+        "addr:street": "Avenue A",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Bombay Market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7337214,
+          33.3526401
+        ]
+      },
+      "id": "way/403656578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/403659459",
+        "addr:city": "Desert Shores",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Alamo Market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0444518,
+          33.4032355
+        ]
+      },
+      "id": "way/403659459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/407324111",
+        "addr:housenumber": "3655",
+        "addr:postcode": "90007",
+        "addr:street": "South Grand Avenue",
+        "amenity": "marketplace",
+        "building": "retail",
+        "building:levels": "1",
+        "ele": "70.7",
+        "height": "11.6",
+        "lacounty:ain": "5122023028",
+        "lacounty:bld_id": "477328828791",
+        "name": "Mercado la Paloma",
+        "office": "yes",
+        "opening_hours": "Su-Th 09:00-21:00; Fr-Sa 09:00-22:00",
+        "start_date": "1966",
+        "website": "http://mercadolapaloma.com",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2783989,
+          34.0173511
+        ]
+      },
+      "id": "way/407324111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/428152658",
+        "addr:city": "Los Angeles",
+        "addr:housenumber": "742",
+        "addr:postcode": "90014",
+        "addr:state": "CA",
+        "addr:street": "Maple Avenue",
+        "alt_name": "Los Angeles Wholesale Flower Terminal",
+        "amenity": "marketplace",
+        "building": "retail",
+        "ele": "91.1",
+        "height": "15.5",
+        "lacounty:ain": "5145004034;5145004035;5145004033",
+        "lacounty:bld_id": "486005837554;486018837543;485848837471",
+        "name": "Southern California Flower Market",
+        "start_date": "1962",
+        "website": "http://www.socalflowermarket.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2498993,
+          34.0412933
+        ]
+      },
+      "id": "way/428152658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/428152740",
+        "addr:city": "Los Angeles",
+        "addr:housenumber": "754",
+        "addr:postcode": "90014",
+        "addr:state": "CA",
+        "addr:street": "Wall Street",
+        "alt_name": "American Florists’ Exchange Los Angeles Flower Market",
+        "amenity": "marketplace",
+        "building": "retail",
+        "ele": "86.0",
+        "height": "10.8",
+        "lacounty:ain": "5145005008;5145005011;5145005010;5145005009;5145005021;5145005022;5145005015;5145005015;5145005019",
+        "lacounty:bld_id": "486061837210;485938837106;485974837128;485987837144;486003837053;486028837031;486058837053;486076837066;486186837078",
+        "name": "The Original Los Angeles Flower Market",
+        "operator": "American Florists Exchange, Ltd.",
+        "website": "https://www.originallaflowermarket.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2495656,
+          34.0402884
+        ]
+      },
+      "id": "way/428152740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/431668730",
+        "addr:city": "Panorama City",
+        "addr:housenumber": "14650",
+        "addr:postcode": "91402",
+        "addr:state": "CA",
+        "addr:street": "Parthenia Street",
+        "air_conditioning": "yes",
+        "amenity": "marketplace",
+        "building": "retail",
+        "building:levels": "2",
+        "ele": "264.1",
+        "email": "info@indoorswap.com",
+        "height": "13.1",
+        "lacounty:ain": "2653017059",
+        "lacounty:bld_id": "424910905504",
+        "name": "Valley Indoor Swap Meet",
+        "opening_hours": "Mo-Su 10:00-18:00",
+        "phone": "+1-818-892-0183",
+        "start_date": "1964;1986",
+        "website": "https://www.indoorswap.com/panorama",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4525339,
+          34.2275305
+        ]
+      },
+      "id": "way/431668730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/433027169",
+        "amenity": "marketplace",
+        "building": "commercial",
+        "name": "Oxbow Public Market",
+        "website": "https://oxbowpublicmarket.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2816586,
+          38.3016781
+        ]
+      },
+      "id": "way/433027169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/439624433",
+        "amenity": "marketplace",
+        "name": "Thursday Evening Market",
+        "opening_hours": "Th 16:00-21:00",
+        "parking": "street_side",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1432853,
+          34.697688
+        ]
+      },
+      "id": "way/439624433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/450413697",
+        "amenity": "marketplace",
+        "ele": "26.1",
+        "height": "4.3",
+        "lacounty:ain": "6167022021",
+        "lacounty:bld_id": "496435787397",
+        "name": "intra Market",
+        "start_date": "1958",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2149484,
+          33.9036584
+        ]
+      },
+      "id": "way/450413697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/465951860",
+        "amenity": "marketplace",
+        "name": "Watsonville Farmer's Market Fri PM",
+        "opening_hours": "Fr 13:30-18:30",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7554952,
+          36.9099286
+        ]
+      },
+      "id": "way/465951860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/468923711",
+        "amenity": "marketplace",
+        "name": "flea market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2239394,
+          33.7064603
+        ]
+      },
+      "id": "way/468923711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/470594875",
+        "amenity": "marketplace",
+        "building": "yes",
+        "building:units": "1",
+        "height": "3.0",
+        "lacounty:ain": "8414008029",
+        "lacounty:bld_id": "573682860392",
+        "name": "Frank's Market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9603269,
+          34.1044266
+        ]
+      },
+      "id": "way/470594875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/471049209",
+        "building": "yes",
+        "building:units": "1",
+        "ele": "181.7",
+        "height": "4.8",
+        "lacounty:ain": "8430034028",
+        "lacounty:bld_id": "597383855311",
+        "name": "Alta Dena Dairy Drive Through",
+        "shop": "dairy",
+        "start_date": "1967",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8820492,
+          34.0904089
+        ]
+      },
+      "id": "way/471049209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/471050374",
+        "addr:city": "Covina",
+        "addr:housenumber": "159",
+        "addr:postcode": "91723",
+        "addr:state": "CA",
+        "addr:street": "East College Street",
+        "amenity": "marketplace",
+        "building": "yes",
+        "ele": "173.1",
+        "height": "4.7",
+        "lacounty:ain": "8445001039",
+        "lacounty:bld_id": "595394854294",
+        "name": "Claro's Italian Market",
+        "start_date": "1955",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.888616,
+          34.0876526
+        ]
+      },
+      "id": "way/471050374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/472939218",
+        "addr:housenumber": "48011",
+        "addr:street": "90th Street West",
+        "amenity": "marketplace",
+        "building": "retail",
+        "building:units": "1",
+        "description": "Antelope Acres Market is family owned and operated. A small grocery store with a deli, meat department, ice cream bar, gas and propane.",
+        "ele": "745.6",
+        "height": "6.0",
+        "lacounty:ain": "2127014017",
+        "lacounty:bld_id": "201423306980000",
+        "name": "Antelope Acres Market",
+        "phone": "+1-661-948-4190",
+        "website": "https://www.facebook.com/AntelopeAcresMarket/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2906814,
+          34.7549821
+        ]
+      },
+      "id": "way/472939218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/477417074",
+        "amenity": "marketplace",
+        "name": "Old Oakland Farmers' Market",
+        "opening_hours": "Fr 08:00-14:00",
+        "operator": "Urban Village Farmers' Market Association",
+        "website": "https://uvfm.org/old-oakland-fridays",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2745702,
+          37.8013697
+        ]
+      },
+      "id": "way/477417074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/484692481",
+        "amenity": "marketplace",
+        "level": "1",
+        "name": "Trung tâm Kim hoàn",
+        "name:en": "Jewelry Center",
+        "name:vi": "Trung tâm Kim hoàn",
+        "shop": "jewelry",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9687876,
+          33.7433432
+        ]
+      },
+      "id": "way/484692481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/484692482",
+        "amenity": "marketplace",
+        "level": "1",
+        "name": "Trung tâm Kim hoàn",
+        "name:en": "Jewelry Center",
+        "name:vi": "Trung tâm Kim hoàn",
+        "shop": "jewelry",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9684953,
+          33.7433505
+        ]
+      },
+      "id": "way/484692482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/498450306",
+        "amenity": "marketplace",
+        "note": "Geometry approximate.",
+        "website": "http://coarsegoldca.com/CGVevents.html",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7010791,
+          37.2617678
+        ]
+      },
+      "id": "way/498450306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/502327381",
+        "amenity": "marketplace",
+        "building": "retail",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4013554,
+          40.6866916
+        ]
+      },
+      "id": "way/502327381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/538091053",
+        "addr:city": "Irvine",
+        "addr:housenumber": "6432",
+        "addr:postcode": "92620",
+        "addr:state": "CA",
+        "addr:street": "Irvine Boulevard",
+        "amenity": "marketplace",
+        "building": "commercial",
+        "height": "6.6",
+        "name": "Poppi Seed Market",
+        "opening_hours": "Mo-Th 11:00-18:00; Fr-Sa 11:00-19:00; Su 11:00-17:00",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.739304,
+          33.698727
+        ]
+      },
+      "id": "way/538091053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/550998949",
+        "addr:city": "Castro Valley",
+        "addr:housenumber": "3295",
+        "addr:postcode": "94546",
+        "addr:state": "CA",
+        "addr:street": "Castro Valley Boulevard",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Castro Valley Marketplace",
+        "website": "https://castrovalleymarketplace.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0787079,
+          37.69521
+        ]
+      },
+      "id": "way/550998949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/552708130",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Fast and Easy Mart",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0185587,
+          37.9817065
+        ]
+      },
+      "id": "way/552708130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/564409560",
+        "amenity": "marketplace",
+        "indoor": "room",
+        "level": "0",
+        "name": "Retail Promenade",
+        "room": "shop",
+        "shop": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1681099,
+          32.70959
+        ]
+      },
+      "id": "way/564409560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/596905604",
+        "addr:city": "Spring Valley",
+        "addr:country": "US",
+        "addr:housenumber": "9612",
+        "addr:postcode": "91977",
+        "addr:state": "CA",
+        "addr:street": "Dale Avenue",
+        "amenity": "marketplace",
+        "name": "Kenwood Market",
+        "source": "SanGIS Addresses Public Domain (http://www.sangis.org/)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9902178,
+          32.7458434
+        ]
+      },
+      "id": "node/596905604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/597068631",
+        "addr:city": "National City",
+        "addr:country": "US",
+        "addr:housenumber": "3200",
+        "addr:postcode": "91950",
+        "addr:state": "CA",
+        "addr:street": "D Avenue",
+        "amenity": "marketplace",
+        "name": "National City Swap Meet",
+        "opening_hours": "Sa,Su 07:00-15:00",
+        "source": "SanGIS Addresses Public Domain (http://www.sangis.org/)",
+        "website": "http://www.nationalcityswapmeet.net"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0943881,
+          32.6561717
+        ]
+      },
+      "id": "node/597068631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/598414192",
+        "amenity": "marketplace",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0055656,
+          33.7308861
+        ]
+      },
+      "id": "way/598414192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/651868840",
+        "amenity": "marketplace",
+        "name": "Ecology Center Farmer's Market",
+        "note": "approximate outline",
+        "opening_hours": "Tu 14:00-18:30",
+        "website": "https://www.ecologycenter.org/fm/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2720787,
+          37.8477253
+        ]
+      },
+      "id": "way/651868840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/681004074",
+        "ID": "1292",
+        "Shape_area": "634037.188899",
+        "Shape_len": "3788.5982868",
+        "Zone": "C-2",
+        "amenity": "marketplace",
+        "name": "Santa Cruz Flea Market",
+        "note": "Flea Market on weekends",
+        "operator": "Goodwill Central Coast",
+        "upload_version": "5",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9761247,
+          36.9865151
+        ]
+      },
+      "id": "way/681004074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/681320314",
+        "amenity": "marketplace",
+        "name": "Foothill Rosemead Marketplace",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0749143,
+          34.1512936
+        ]
+      },
+      "id": "way/681320314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/683470860",
+        "amenity": "marketplace",
+        "name": "Sunday Market",
+        "opening_hours": "Su 10:00-14:00",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.823861,
+          34.1513606
+        ]
+      },
+      "id": "way/683470860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/688747551",
+        "addr:housenumber": "428",
+        "addr:street": "11th Street",
+        "amenity": "marketplace",
+        "barrier": "fence",
+        "name": "SoMa StrEat Food Park",
+        "note": "Outdoor area for food trucks.",
+        "opening_hours": "Mo-Fr 11:00-15:00,17:00-21:00; Sa 11:00-22:00, Su 11:00-17:00",
+        "website": "http://www.somastreatfoodpark.com",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4119088,
+          37.769836
+        ]
+      },
+      "id": "way/688747551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/691908330",
+        "addr:city": "Sebastopol",
+        "addr:housenumber": "6761",
+        "addr:state": "CA",
+        "addr:street": "Sebastopol Avenue",
+        "amenity": "marketplace",
+        "building": "retail",
+        "name": "Gravenstein Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8199153,
+          38.4022375
+        ]
+      },
+      "id": "way/691908330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/696538413",
+        "amenity": "marketplace",
+        "name": "Otay Ranch Farmers Market",
+        "opening_hours": "Tu 16:00-20:00",
+        "website": "https://www.otayranchtowncenter.com/en/visit/otay-ranch-market.html",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9684012,
+          32.6236708
+        ]
+      },
+      "id": "way/696538413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/696614060",
+        "amenity": "marketplace",
+        "contact:website": "http://www.urbanvillageonline.com/markets/montclair-village/",
+        "name": "Montclair Village Farmers’ Market",
+        "opening_hours": "Su 9:00-13:00",
+        "operator": "Urban Village Farmers' Market Association",
+        "shop": "farm",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2100506,
+          37.8264836
+        ]
+      },
+      "id": "way/696614060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/707120559",
+        "amenity": "marketplace",
+        "name": "Tuesday Market",
+        "opening_hours": "Tu 10:00-14:00",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5278388,
+          34.2398399
+        ]
+      },
+      "id": "way/707120559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/708312409",
+        "amenity": "marketplace",
+        "name": "Modesto Certified Farmer's Market",
+        "opening_hours": "Mar 14-Nov 21 Th 08:00-13:00; Mar 16-Dec 21 Sa 08:00-13:00; 2019 Nov 30 off \"for year 2019\"",
+        "website": "https://modestocfm.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.9928695,
+          37.6433411
+        ]
+      },
+      "id": "way/708312409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/725962362",
+        "amenity": "marketplace",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3131015,
+          38.5998239
+        ]
+      },
+      "id": "way/725962362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/733408563",
+        "amenity": "marketplace",
+        "name": "Maclin Open Air Markets",
+        "opening_hours": "Tu, Sa, Su 07:30-15:00",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6419725,
+          34.0178136
+        ]
+      },
+      "id": "way/733408563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/742694048",
+        "building": "yes",
+        "name": "Dejong's Cash and Carry Dairy",
+        "shop": "dairy",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2941961,
+          33.6282389
+        ]
+      },
+      "id": "way/742694048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/781407428",
+        "amenity": "marketplace",
+        "name": "Live Oak Farmer's Market Sun PM",
+        "opening_hours": "Su 11:00-16:30",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9849362,
+          36.9767237
+        ]
+      },
+      "id": "way/781407428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/796789614",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Quail Valley Market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2410514,
+          33.7015778
+        ]
+      },
+      "id": "way/796789614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/796789615",
+        "amenity": "marketplace",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2396962,
+          33.7012194
+        ]
+      },
+      "id": "way/796789615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/828425301",
+        "addr:street": "1937 Ashby",
+        "alt_name": "Ashby Flee Market",
+        "amenity": "marketplace",
+        "contact:facebook": "https://m.facebook.com/TheBerkeleyFleaMarket/",
+        "contact:instagram": "https://www.instagram.com/berkeleyfleamarket_/",
+        "name": "Berkeley Flea Market",
+        "opening_hours": "Sa, Su 09:00-16:00",
+        "phone": "+1-510-644-0744",
+        "website": "https://berkeleyfleamarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2703459,
+          37.8538557
+        ]
+      },
+      "id": "node/828425301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/841068085",
+        "amenity": "marketplace",
+        "name": "Bear Valley Springs Market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6097246,
+          35.1690574
+        ]
+      },
+      "id": "way/841068085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/847582815",
+        "addr:city": "Hiouchi",
+        "addr:housenumber": "2415",
+        "addr:postcode": "95531",
+        "addr:state": "CA",
+        "addr:street": "Redwood Highway",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Hiouchi Hamlet Market Deli Liquor",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0711709,
+          41.7931877
+        ]
+      },
+      "id": "way/847582815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/850639459",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Haven City Market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5740491,
+          34.1001547
+        ]
+      },
+      "id": "way/850639459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/857385426",
+        "addr:city": "Dixon",
+        "addr:housenumber": "6850",
+        "addr:postcode": "95620",
+        "addr:state": "CA",
+        "addr:street": "Sievers Road",
+        "amenity": "marketplace",
+        "name": "Pedrick Produce",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.804793,
+          38.4894554
+        ]
+      },
+      "id": "way/857385426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/885303281",
+        "addr:housenumber": "1385",
+        "building": "yes",
+        "shop": "dairy",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6752773,
+          34.1073556
+        ]
+      },
+      "id": "way/885303281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/893546341",
+        "addr:city": "San Fernando",
+        "addr:state": "CA",
+        "amenity": "marketplace",
+        "name": "San Fernando Swap Meet",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.423627,
+          34.2877925
+        ]
+      },
+      "id": "way/893546341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/904226187",
+        "access": "yes",
+        "addr:city": "Los Angeles",
+        "addr:housenumber": "317",
+        "addr:postcode": "90013",
+        "addr:state": "CA",
+        "addr:street": "South Broadway",
+        "amenity": "marketplace",
+        "email": "info@grandcentralmarket.com",
+        "level": "-1;0",
+        "name": "Grand Central Market",
+        "name:zh": "中央市场",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "phone": "+1 213-359-6007",
+        "website": "https://www.grandcentralmarket.com/",
+        "wikidata": "Q5890125",
+        "wikipedia": "en:Homer Laughlin Building",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2489965,
+          34.0508624
+        ]
+      },
+      "id": "way/904226187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/921881840",
+        "amenity": "marketplace",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0330685,
+          32.6611829
+        ]
+      },
+      "id": "way/921881840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/938470841",
+        "amenity": "marketplace",
+        "contact:facebook": "alamedapointantiquesfaire",
+        "contact:instagram": "AlamedaAntiquesFaire",
+        "name": "Alameda Point Antiques Faire",
+        "note": "Only open on the first sunday of each month",
+        "opening_hours": "month 1-12 Su 06:00-15:00",
+        "phone": "+1 510-522-7500",
+        "shop": "flea_market",
+        "website": "https://alamedapointantiquesfaire.com",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3172092,
+          37.7906408
+        ]
+      },
+      "id": "way/938470841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/943814794",
+        "amenity": "marketplace",
+        "name": "NoHo Saturday AM Farmers Market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3774245,
+          34.167491
+        ]
+      },
+      "id": "way/943814794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/959819175",
+        "addr:city": "Riverside",
+        "addr:housenumber": "3072",
+        "addr:postcode": "92507",
+        "addr:state": "CA",
+        "addr:street": "Cridge Street",
+        "amenity": "marketplace",
+        "building": "retail",
+        "height": "3.08",
+        "name": "Olympic Market",
+        "source": "esri/Riverside_CA_Buildings_v2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3740317,
+          33.9679555
+        ]
+      },
+      "id": "way/959819175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/992089177",
+        "addr:street": "California Ave",
+        "amenity": "marketplace",
+        "name": "California Avenue Farmer's Market",
+        "opening_hours": "Su 09:00-13:00",
+        "website": "https://uvfm.org/palo-alto-sundays"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.145151,
+          37.425915
+        ]
+      },
+      "id": "node/992089177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1007527208",
+        "amenity": "marketplace",
+        "building": "no",
+        "check_date:opening_hours": "2022-07-24",
+        "name": "Poway Farmer's Market",
+        "opening_hours": "Su-Fr off; Sa 08:00-13:00",
+        "website": "https://poway.org/456/Farmers-Market",
+        "wikidata": "Q109835637",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0361535,
+          32.969403
+        ]
+      },
+      "id": "way/1007527208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1009159648",
+        "amenity": "marketplace",
+        "contact:facebook": "https://www.facebook.com/OakFirstFridays/",
+        "contact:instagram": "https://www.instagram.com/oakfirstfridays/",
+        "email": "event@oaklandfirstfridays.org",
+        "name": "Oakland First Fridays",
+        "opening_hours": "Fr[1] 17:00-21:00",
+        "operator": "KONO Community Benefit District",
+        "website": "https://www.oaklandfirstfridays.org/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2684717,
+          37.8140309
+        ]
+      },
+      "id": "way/1009159648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1011848386",
+        "addr:city": "Orange",
+        "addr:housenumber": "131",
+        "addr:postcode": "92869",
+        "addr:state": "CA",
+        "addr:street": "South Hamlin Street",
+        "amenity": "marketplace",
+        "height": "4.88",
+        "name": "Rancho De Mendoza",
+        "source": "esri/Orange_County_CA_Buildings_v2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8027636,
+          33.7873226
+        ]
+      },
+      "id": "way/1011848386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1080170232",
+        "addr:city": "Long Beach",
+        "addr:housenumber": "130",
+        "addr:postcode": "90802",
+        "addr:state": "CA",
+        "addr:street": "Cherry Avenue",
+        "amenity": "marketplace",
+        "name": "Bixby Park Local Harvest Farmers Market",
+        "opening_hours": "Tu 15:00-19:00, Sa 10:00-15:00",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.166943,
+          33.7658286
+        ]
+      },
+      "id": "way/1080170232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1081831407",
+        "amenity": "marketplace",
+        "source": "microsoft/BuildingFootprints",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6526049,
+          35.6220955
+        ]
+      },
+      "id": "way/1081831407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1085582957",
+        "addr:city": "Oakland",
+        "addr:housenumber": "510",
+        "addr:street": "9th Street",
+        "amenity": "marketplace",
+        "historic": "yes",
+        "landuse": "retail",
+        "name": "Swan's Market",
+        "old_name": "Housewives Market;10th Street Market;Oakland Free Market;Sanitary Free Market",
+        "operator": "East Bay Asian Local Development Corporation",
+        "website": "https://swansmarket.com/",
+        "wheelchair": "yes",
+        "wikipedia": "en:10th Street Market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2749517,
+          37.8019484
+        ]
+      },
+      "id": "way/1085582957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1086264805",
+        "addr:city": "Bodega Bay",
+        "addr:housenumber": "2255",
+        "addr:postcode": "94923",
+        "addr:state": "CA",
+        "addr:street": "Coast Highway",
+        "amenity": "marketplace",
+        "name": "Bodega Bay Farmer's Market",
+        "opening_hours": "Su 10:00-14:00",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.050516,
+          38.3410898
+        ]
+      },
+      "id": "way/1086264805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1097621739",
+        "amenity": "marketplace",
+        "landuse": "wholesale",
+        "name": "Oakland Produce Market",
+        "wholesale": "food",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.274903,
+          37.79617
+        ]
+      },
+      "id": "way/1097621739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1108103084",
+        "amenity": "marketplace",
+        "name": "Kensington Farmer's Market",
+        "opening_hours": "Su 09:00-14:00",
+        "website": "https://www.kensingtonfarmersmarket.org/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2876282,
+          37.8994283
+        ]
+      },
+      "id": "way/1108103084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1120003077",
+        "addr:city": "South San Francisco",
+        "addr:housenumber": "131",
+        "addr:postcode": "94080",
+        "addr:street": "Terminal Court",
+        "amenity": "marketplace",
+        "name": "Golden Gate Produce Market",
+        "opening_hours": "Sa-Th 22:00-14:00",
+        "phone": "+1 650 583 4886",
+        "website": "https://www.goldengateproducemarket.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4085297,
+          37.6442472
+        ]
+      },
+      "id": "way/1120003077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1122524654",
+        "amenity": "marketplace",
+        "building": "yes",
+        "check_date": "2025-02-12",
+        "name": "London Fireplace Showroom",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5256035,
+          37.8814387
+        ]
+      },
+      "id": "way/1122524654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1133042427",
+        "amenity": "marketplace",
+        "contact:facebook": "alisoviejocfm",
+        "contact:instagram": "alisoviejocfm",
+        "name": "Aliso Viejo Farmers' Market",
+        "opening_hours": "Sa 10:00-14:00",
+        "website": "https://myoccfm.com/aliso-viejo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.725611,
+          33.5759175
+        ]
+      },
+      "id": "way/1133042427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1152744866",
+        "addr:city": "Riverside",
+        "addr:housenumber": "12261",
+        "addr:postcode": "92503",
+        "addr:state": "CA",
+        "addr:street": "Blackburn Road",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Victoria Grove Produce Market",
+        "opening_hours": "sunrise-sunset",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4492743,
+          33.861938
+        ]
+      },
+      "id": "way/1152744866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1189071442",
+        "addr:unit": "37",
+        "amenity": "marketplace",
+        "check_date": "2025-09-05",
+        "indoor": "room",
+        "level": "0",
+        "name": "Fog City Flea Trading Post",
+        "opening_hours": "Mo-Fr,Su 10:00-17:00; Sa 09:00-17:00",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3927207,
+          37.7949399
+        ]
+      },
+      "id": "way/1189071442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1190108807",
+        "addr:city": "Perris",
+        "addr:housenumber": "17679",
+        "addr:postcode": "92570",
+        "addr:state": "CA",
+        "addr:street": "Cajalco Road",
+        "amenity": "marketplace",
+        "building": "market",
+        "check_date:opening_hours": "2025-11-09",
+        "name": "Lake Mathews Market",
+        "opening_hours": "Mo-Sa 07:00-18:30",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3508416,
+          33.8348436
+        ]
+      },
+      "id": "way/1190108807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1190111244",
+        "addr:city": "Perris",
+        "addr:housenumber": "27215",
+        "addr:postcode": "92570",
+        "addr:state": "CA",
+        "addr:street": "CA-74",
+        "amenity": "marketplace",
+        "name": "74 Liquor & Market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2934532,
+          33.724886
+        ]
+      },
+      "id": "way/1190111244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1203378477",
+        "addr:city": "Old Hopland",
+        "addr:postcode": "95449",
+        "addr:state": "CA",
+        "addr:street": "Main Street",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Sanel Valley Market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1007994,
+          38.9750045
+        ]
+      },
+      "id": "way/1203378477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1208212561",
+        "addr:city": "San Fernando",
+        "addr:postcode": "91340",
+        "addr:state": "CA",
+        "addr:street": "San Fernando Road",
+        "amenity": "marketplace",
+        "building": "no",
+        "description": "The San Fernando Outdoor Market brings together local business owners and artisans throughout the area once a month from April to January.",
+        "name": "San Fernando Outdoor Market",
+        "opening_hours": "Sat[-1] 17:00-21:00; Feb-Mar off",
+        "pets": "yes",
+        "toilets": "yes",
+        "website": "https://www.myvalleypass.com/sf-outdoor-market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4415561,
+          34.2828337
+        ]
+      },
+      "id": "way/1208212561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1209187741",
+        "amenity": "marketplace",
+        "name": "Swap Meet",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0055939,
+          33.731782
+        ]
+      },
+      "id": "way/1209187741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1231853214",
+        "amenity": "marketplace",
+        "name": "Irvine Farmers Market",
+        "opening_hours": "Sa 08:00-12:00",
+        "website": "https://www.ocfarmbureau.org/schedule-locations"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8312696,
+          33.6332796
+        ]
+      },
+      "id": "node/1231853214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1231853217",
+        "amenity": "marketplace",
+        "name": "Irvine Farmers Market at Historic Park",
+        "opening_hours": "Tu 09:00-13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7857169,
+          33.730202
+        ]
+      },
+      "id": "node/1231853217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1248980190",
+        "amenity": "marketplace",
+        "name": "Woodland Hills Saturday 9-2 Farmers Market",
+        "opening_hours": "Sa 08:30-14:00",
+        "operator": "Calif Certified Farmers Markets (Raw Inspiration)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6141894,
+          34.1733282
+        ]
+      },
+      "id": "way/1248980190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1250613331",
+        "addr:city": "Oceano",
+        "addr:housenumber": "1909",
+        "addr:postcode": "93445",
+        "addr:state": "CA",
+        "addr:street": "Beach Street",
+        "amenity": "marketplace",
+        "name": "La Tapatia Markets & Deli",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6122386,
+          35.0989466
+        ]
+      },
+      "id": "way/1250613331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1259309224",
+        "amenity": "marketplace",
+        "name": "Milpitas Farmer's Market",
+        "opening_hours": "Su 08:00-13:00",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8970091,
+          37.4122136
+        ]
+      },
+      "id": "way/1259309224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1265751950",
+        "addr:city": "Wilshire Center",
+        "addr:housenumber": "4021",
+        "addr:postcode": "90004",
+        "addr:state": "CA",
+        "addr:street": "Beverly Boulevard",
+        "amenity": "marketplace",
+        "indoor": "room",
+        "name": "Milkman Market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.296717,
+          34.0764859
+        ]
+      },
+      "id": "way/1265751950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1280992264",
+        "addr:city": "Sebastopol",
+        "addr:housenumber": "2200",
+        "addr:postcode": "95407",
+        "addr:state": "CA",
+        "addr:street": "Gravenstein Highway South",
+        "amenity": "marketplace",
+        "building": "no",
+        "name": "Midgley Flea Market",
+        "opening_hours": "Su 06:30-15:00",
+        "website": "https://mfleamarket.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7997651,
+          38.3784088
+        ]
+      },
+      "id": "way/1280992264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1341988535",
+        "amenity": "marketplace",
+        "name": "el serranito Carniceria",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9821132,
+          33.7589345
+        ]
+      },
+      "id": "way/1341988535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1341988537",
+        "amenity": "marketplace",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9817883,
+          33.758936
+        ]
+      },
+      "id": "way/1341988537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1347161637",
+        "amenity": "marketplace",
+        "name": "The Mall at Old City Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5687089,
+          37.0071937
+        ]
+      },
+      "id": "node/1347161637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1355736808",
+        "addr:city": "Modesto",
+        "addr:housenumber": "3113",
+        "addr:postcode": "95358",
+        "addr:state": "CA",
+        "addr:street": "Crows Landing Road",
+        "amenity": "marketplace",
+        "name": "El Rematito Flea Market",
+        "opening_hours": "Fr-Su 06:00-18:00",
+        "phone": "+1-209-538-3363",
+        "website": "https://www.facebook.com/pages/category/Local-Business/El-Rematito-Crows-Landing-Flea-Market-119263121488118/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.9952568,
+          37.5886579
+        ]
+      },
+      "id": "way/1355736808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1355762555",
+        "amenity": "marketplace",
+        "building": "garages",
+        "opening_hours": "Fr-Su 06:00-18:00",
+        "operator": "El Rematito Flea Market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.9943839,
+          37.5886414
+        ]
+      },
+      "id": "way/1355762555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1355762556",
+        "amenity": "marketplace",
+        "building": "garages",
+        "opening_hours": "Fr-Su 06:00-18:00",
+        "operator": "El Rematito Flea Market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.9952122,
+          37.5886324
+        ]
+      },
+      "id": "way/1355762556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1355762557",
+        "amenity": "marketplace",
+        "building": "garages",
+        "opening_hours": "Fr-Su 06:00-18:00",
+        "operator": "El Rematito Flea Market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.9959497,
+          37.5886351
+        ]
+      },
+      "id": "way/1355762557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1355762558",
+        "amenity": "marketplace",
+        "building": "garages",
+        "opening_hours": "Fr-Su 06:00-18:00",
+        "operator": "El Rematito Flea Market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.9964812,
+          37.5888153
+        ]
+      },
+      "id": "way/1355762558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1355762559",
+        "amenity": "marketplace",
+        "building": "garages",
+        "opening_hours": "Fr-Su 06:00-18:00",
+        "operator": "El Rematito Flea Market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.9944368,
+          37.5893849
+        ]
+      },
+      "id": "way/1355762559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1355762560",
+        "amenity": "marketplace",
+        "building": "garages",
+        "opening_hours": "Fr-Su 06:00-18:00",
+        "operator": "El Rematito Flea Market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.995171,
+          37.5893894
+        ]
+      },
+      "id": "way/1355762560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1355762561",
+        "amenity": "marketplace",
+        "building": "garages",
+        "opening_hours": "Fr-Su 06:00-18:00",
+        "operator": "El Rematito Flea Market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.9959002,
+          37.5893938
+        ]
+      },
+      "id": "way/1355762561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1355762562",
+        "amenity": "marketplace",
+        "building": "garages",
+        "opening_hours": "Fr-Su 06:00-18:00",
+        "operator": "El Rematito Flea Market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.9964589,
+          37.5892367
+        ]
+      },
+      "id": "way/1355762562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1355762572",
+        "amenity": "marketplace",
+        "building": "yes",
+        "operator": "El Rematito Flea Market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.9958215,
+          37.5888991
+        ]
+      },
+      "id": "way/1355762572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1385641955",
+        "amenity": "marketplace",
+        "name": "Redlands Saturday AM Farmers Market",
+        "opening_hours": "Sa 09:00-13:00",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1809284,
+          34.0570361
+        ]
+      },
+      "id": "way/1385641955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1385645361",
+        "amenity": "marketplace",
+        "name": "Grove School Farmers Market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2149709,
+          34.0516783
+        ]
+      },
+      "id": "way/1385645361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1415835330",
+        "amenity": "marketplace",
+        "building": "retail",
+        "layer": "1",
+        "name": "El Mercado Los Cascabeles",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1338946,
+          36.2071514
+        ]
+      },
+      "id": "way/1415835330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1415929166",
+        "amenity": "marketplace",
+        "building": "no",
+        "name": "Burlingame Fresh Market",
+        "note": "Street closed for cars during opening hours",
+        "opening_hours": "Su 09:00-13:00",
+        "operator": "Burlingame Chamber of Commerce",
+        "website": "https://burlingamechamber.org/burlingame-events/burlingame-fresh-market/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3464137,
+          37.5778963
+        ]
+      },
+      "id": "way/1415929166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1426441705",
+        "amenity": "marketplace",
+        "name": "Crown Valley International Market",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6571401,
+          33.5586369
+        ]
+      },
+      "id": "way/1426441705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1431558139",
+        "amenity": "marketplace",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1955765,
+          32.7527961
+        ]
+      },
+      "id": "way/1431558139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1446640453",
+        "building": "yes",
+        "name": "Cottonwood Dairy",
+        "shop": "dairy",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0163083,
+          33.7878159
+        ]
+      },
+      "id": "way/1446640453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1447287728",
+        "addr:city": "San Jacinto",
+        "addr:housenumber": "1455",
+        "addr:postcode": "92582",
+        "addr:state": "CA",
+        "addr:street": "North Warren Road",
+        "air_conditioning": "yes",
+        "building": "yes",
+        "name": "Demler Farms - Eggs & Dairy",
+        "opening_hours": "Mo-Su 08:00-15:00",
+        "phone": "+1 951-654-8166",
+        "shop": "dairy",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0328957,
+          33.8090861
+        ]
+      },
+      "id": "way/1447287728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1447766298",
+        "amenity": "marketplace",
+        "name": "Bazaar Del Mundo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1977364,
+          32.7572281
+        ]
+      },
+      "id": "way/1447766298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1478520965",
+        "amenity": "marketplace",
+        "name": "Fort Mason Farmer's Market",
+        "source": "http://fortmason.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4315658,
+          37.8061667
+        ]
+      },
+      "id": "node/1478520965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1491645202",
+        "amenity": "marketplace",
+        "name": "Luggage Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2946983,
+          37.8359194
+        ]
+      },
+      "id": "node/1491645202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1583862294",
+        "amenity": "marketplace",
+        "name": "Mountain View Farmer's Market",
+        "opening_hours": "Su 09:00-13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0740609,
+          37.3933767
+        ]
+      },
+      "id": "node/1583862294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1598674116",
+        "addr:postcode": "94025",
+        "amenity": "marketplace",
+        "check_date": "2019–06–30",
+        "contact:facebook": "https://www.facebook.com/MenloParkFarmersMarket/",
+        "name": "Menlo Park Farmers Market",
+        "opening_hours": "Su 09:00-13:00",
+        "phone": "+1 831-688-8316",
+        "start_date": "1992",
+        "website": "https://www.localharvest.org/menlo-park-farmers-market-M3662"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.184289,
+          37.4508012
+        ]
+      },
+      "id": "node/1598674116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1619663214",
+        "amenity": "marketplace",
+        "name": "Coachella Indoor Swapmeet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1828782,
+          33.687794
+        ]
+      },
+      "id": "node/1619663214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1781278523",
+        "amenity": "marketplace",
+        "name": "Broadway Discount Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.4345899,
+          34.960796
+        ]
+      },
+      "id": "node/1781278523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1843383851",
+        "amenity": "marketplace",
+        "name": "Laney College Flea Market",
+        "opening_hours": "Su 07:30-16:00",
+        "shop": "flea_market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2631891,
+          37.7940769
+        ]
+      },
+      "id": "node/1843383851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1942065031",
+        "amenity": "marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7972847,
+          34.4035274
+        ]
+      },
+      "id": "node/1942065031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1942066656",
+        "amenity": "marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8241237,
+          34.4006274
+        ]
+      },
+      "id": "node/1942066656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2019847911",
+        "amenity": "marketplace",
+        "atm": "no",
+        "name": "El Cerrito Plaza Farmers' Market",
+        "opening_hours": "Tu 09:00-13:00; Sa 09:00-13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3002116,
+          37.8982731
+        ]
+      },
+      "id": "node/2019847911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2068028033",
+        "amenity": "marketplace",
+        "name": "Blossom Hill Cerified Farmer's Market",
+        "opening_hours": "Su 9:00 - 13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8604775,
+          37.2579732
+        ]
+      },
+      "id": "node/2068028033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2104662385",
+        "amenity": "marketplace",
+        "name": "Hillcrest Plaza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6238154,
+          39.1230588
+        ]
+      },
+      "id": "node/2104662385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2247860156",
+        "addr:city": "Hollywood",
+        "addr:housenumber": "1600",
+        "addr:postcode": "90028",
+        "addr:street": "Ivar Avenue",
+        "amenity": "marketplace",
+        "name": "Hollywood Farmers Market",
+        "note": "Sunday mornings only.",
+        "opening_hours": "Su 08:00-13:00",
+        "website": "https://hfm.la/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.328298,
+          34.0997432
+        ]
+      },
+      "id": "node/2247860156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2292891529",
+        "amenity": "marketplace",
+        "name": "Live Oak Farmer's Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9904011,
+          36.9637548
+        ]
+      },
+      "id": "node/2292891529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2342926896",
+        "addr:city": "Sacramento",
+        "addr:housename": "Country Club Plaza",
+        "addr:housenumber": "2400",
+        "addr:postcode": "95825",
+        "addr:street": "Butano Drive",
+        "amenity": "marketplace",
+        "name": "Farmers Market",
+        "note": "Open Saturdays, 8:00 AM - 12:00 PM (Noon) All Year Round!!!",
+        "shop": "farm",
+        "tag": "farmers market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3793004,
+          38.6082176
+        ]
+      },
+      "id": "node/2342926896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2390947266",
+        "addr:city": "Sacramento",
+        "addr:housenumber": "3500",
+        "addr:postcode": "95817",
+        "addr:street": "5th Avenue",
+        "amenity": "marketplace",
+        "name": "Farmers Market",
+        "note": "Satrudays, 9am - 1pm, May - October",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4697424,
+          38.5486929
+        ]
+      },
+      "id": "node/2390947266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2390970857",
+        "addr:city": "Sacramento",
+        "addr:housenumber": "2025",
+        "addr:postcode": "95825",
+        "addr:street": "Morse Avenue",
+        "amenity": "marketplace",
+        "name": "Farmers Market",
+        "opening_hours": "Apr-Oct Fr 09:30-13:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.392504,
+          38.6016845
+        ]
+      },
+      "id": "node/2390970857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2390977916",
+        "addr:city": "Sacramento",
+        "addr:housenumber": "1650",
+        "addr:postcode": "95815",
+        "addr:street": "Response Road",
+        "amenity": "marketplace",
+        "name": "Farmers Market",
+        "opening_hours": "Apr-Oct Mo 09:30-13:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4294016,
+          38.5965905
+        ]
+      },
+      "id": "node/2390977916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2406529085",
+        "addr:city": "Los Angeles",
+        "addr:housenumber": "201",
+        "addr:state": "CA",
+        "addr:street": "North Main Street",
+        "amenity": "marketplace",
+        "name": "Los Angeles Mall (closed forever)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2408525,
+          34.0542041
+        ]
+      },
+      "id": "node/2406529085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2494421337",
+        "amenity": "marketplace",
+        "name": "Boulder Creek Farmer's Market",
+        "opening_hours": "Sa 12:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.122504,
+          37.1240356
+        ]
+      },
+      "id": "node/2494421337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2612606593",
+        "addr:housename": "Pacific Western Sales",
+        "addr:housenumber": "833",
+        "addr:postcode": "95834",
+        "addr:street": "North Market Boulevard",
+        "amenity": "marketplace",
+        "check_date": "2014-01-09",
+        "name": "Northgate Cargo Control",
+        "payment:coins": "yes",
+        "website": "http://www.pacwesternsales.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.48114,
+          38.6479051
+        ]
+      },
+      "id": "node/2612606593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2713449215",
+        "amenity": "marketplace",
+        "name": "Associated Students Farmer's Market",
+        "note": "Every Thursday, from: 10:00am - 3:00pm in front of the Humanities building.",
+        "opening_hours": "Th 10:00-15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4805093,
+          37.7226102
+        ]
+      },
+      "id": "node/2713449215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714942366",
+        "amenity": "marketplace",
+        "name": "The Village Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4823518,
+          37.7233534
+        ]
+      },
+      "id": "node/2714942366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2744235303",
+        "amenity": "marketplace",
+        "name": "Grand Lake – Oakland Farmers Market",
+        "opening_hours": "Sa 9:00 - 14:00",
+        "operator": "Agricultural Institute of Marin",
+        "shop": "farm",
+        "website": "https://www.agriculturalinstitute.org/grand-lake-oakland/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2476338,
+          37.8105631
+        ]
+      },
+      "id": "node/2744235303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2973823951",
+        "name": "Doc Burnstein's Ice Cream",
+        "shop": "dairy",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.733472,
+          35.1788971
+        ]
+      },
+      "id": "node/2973823951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2993406188",
+        "amenity": "marketplace",
+        "email": "christy@sdfarmbureau.org",
+        "name": "City Heights Market",
+        "opening_hours": "Sa 9:00-13:00",
+        "phone": "+1-760-580-0116",
+        "shop": "farm",
+        "website": "http://www.sdfarmbureau.org/BuyLocal/Farmers-Markets.php/wb/#cityhts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1015151,
+          32.7478591
+        ]
+      },
+      "id": "node/2993406188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3129352932",
+        "amenity": "marketplace",
+        "name": "San Marcos Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1698468,
+          33.1446204
+        ]
+      },
+      "id": "node/3129352932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3301478960",
+        "amenity": "marketplace",
+        "name": "Curtis Park Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4830685,
+          38.5548944
+        ]
+      },
+      "id": "node/3301478960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3316151466",
+        "amenity": "marketplace",
+        "name": "Joshua Tree Fleamarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3171738,
+          34.1352738
+        ]
+      },
+      "id": "node/3316151466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3362770643",
+        "amenity": "marketplace",
+        "name": "Cherry Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1678896,
+          33.785056
+        ]
+      },
+      "id": "node/3362770643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3622806326",
+        "amenity": "marketplace",
+        "name": "Downtown San Jose Farmers’ Market",
+        "opening_hours": "Fr 10:00-14:00",
+        "operator": "Pacific Coast Farmers’ Market Association"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8932308,
+          37.3356512
+        ]
+      },
+      "id": "node/3622806326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3634866139",
+        "addr:city": "San Jose",
+        "addr:housenumber": "330",
+        "addr:postcode": "95112",
+        "addr:state": "CA",
+        "addr:street": "East Santa Clara Street",
+        "amenity": "marketplace",
+        "disused:self_service": "yes",
+        "disused:shop": "clothes;laundry",
+        "name": "Urban Kiosk",
+        "note": "15 retail spaces, not a food court",
+        "old_name": "4 You! Clothing;Wash & Dry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.88351,
+          37.3392883
+        ]
+      },
+      "id": "node/3634866139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3755316270",
+        "amenity": "marketplace",
+        "name": "Marina del Rey Farmers Market",
+        "opening_hours": "Sa 09:00-14:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4589084,
+          33.9793326
+        ]
+      },
+      "id": "node/3755316270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3810633923",
+        "amenity": "marketplace",
+        "name": "Jack London Square – Oakland Farmers Market",
+        "opening_hours": "Su 10:00-15:00",
+        "operator": "Pacific Coast Farmers' Market Association",
+        "shop": "farm",
+        "website": "https://www.pcfma.org/jacklondonsq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.274763,
+          37.7940844
+        ]
+      },
+      "id": "node/3810633923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3810636657",
+        "addr:city": "oakland",
+        "addr:housenumber": "5300",
+        "addr:postcode": "94618",
+        "addr:state": "CA",
+        "addr:street": "Claremont Avenue",
+        "amenity": "marketplace",
+        "name": "Temescal - Oakland Farmers Market",
+        "opening_hours": "Su 09:00-13:00",
+        "operator": "Urban Village",
+        "shop": "farm",
+        "website": "https://uvfm.org/temescal-sunday"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2594145,
+          37.8399089
+        ]
+      },
+      "id": "node/3810636657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3810637762",
+        "amenity": "marketplace",
+        "name": "Fruitvale - Oakland Farmers Market",
+        "opening_hours": "Sa 14:00-19:00",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2242054,
+          37.7756872
+        ]
+      },
+      "id": "node/3810637762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3846089957",
+        "addr:city": "Kenwood",
+        "addr:housenumber": "8910",
+        "addr:postcode": "95452",
+        "addr:state": "CA",
+        "addr:street": "Sonoma Highway",
+        "amenity": "marketplace",
+        "name": "Kenwood Village Market",
+        "opening_hours": "Mo-Sa 06:00-20:00; Su 06:00-21:00",
+        "phone": "+1-707-833-5053"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5518182,
+          38.4190235
+        ]
+      },
+      "id": "node/3846089957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3961399901",
+        "amenity": "marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6089202,
+          34.2007394
+        ]
+      },
+      "id": "node/3961399901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4238538992",
+        "addr:housenumber": "4010",
+        "addr:postcode": "92110",
+        "addr:street": "Twiggs Street",
+        "amenity": "marketplace",
+        "name": "Old Town Market",
+        "phone": "+1-619-220-0692"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1958324,
+          32.7537993
+        ]
+      },
+      "id": "node/4238538992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4385112352",
+        "amenity": "marketplace",
+        "name": "Jean Machine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1900798,
+          33.7719207
+        ]
+      },
+      "id": "node/4385112352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4385112353",
+        "amenity": "marketplace",
+        "name": "Clothing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1896856,
+          33.7719229
+        ]
+      },
+      "id": "node/4385112353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4526793032",
+        "amenity": "marketplace",
+        "name": "Palo Alto Farmer's Market",
+        "opening_hours": "Sa 8:00-12:00",
+        "website": "https://www.pafarmersmarket.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1590277,
+          37.4453603
+        ]
+      },
+      "id": "node/4526793032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4564425341",
+        "amenity": "marketplace",
+        "name": "Pupuseria Casa Del Alfarrero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9335154,
+          38.0269876
+        ]
+      },
+      "id": "node/4564425341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4569861297",
+        "addr:street": "Logan Street",
+        "amenity": "marketplace",
+        "building": "no",
+        "check_date": "2024-09-27",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.RlRlTbWDhA9v0pOxnAYA8wHaE8%26pid%3DApi&f=1&ipt=685c2ae230a6bcfd271a0d73799e1b833c17e8ef3f11a894f3005757fce9b3c2&ipo=images",
+        "name": "Echo Park Farmers' Market",
+        "opening_hours": "Fr 15:00-19:30",
+        "operator": "Sustainable Economic Enterprise of Los Angeles",
+        "phone": "+1-323-463-3171",
+        "website": "https://seela.org/markets-echo-park/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2585944,
+          34.0769108
+        ]
+      },
+      "id": "node/4569861297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4580741352",
+        "addr:postcode": "90026",
+        "amenity": "marketplace",
+        "check_date": "2024-09-30",
+        "contact:instagram": "https://www.instagram.com/silverlakefarmersmarket",
+        "name": "Silverlake Farmers Market",
+        "opening_hours": "Mo,We-Fr,Su off; Tu 01:30-19:00; Sa 08:00-13:30",
+        "phone": "+1-213-484-4002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.277379,
+          34.0905618
+        ]
+      },
+      "id": "node/4580741352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4618046867",
+        "addr:housenumber": "1416",
+        "addr:street": "Haight Street",
+        "amenity": "marketplace",
+        "building": "retail",
+        "check_date": "2024-11-16",
+        "level": "0",
+        "name": "Amal's Deli",
+        "opening_hours": "Mo-Th 10:30-24:00, Fr,Sa 10:30-02:00, Su 10:30-24:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4457035,
+          37.7702885
+        ]
+      },
+      "id": "node/4618046867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4628517640",
+        "amenity": "marketplace",
+        "name": "Tuong Phong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4166314,
+          37.7844939
+        ]
+      },
+      "id": "node/4628517640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4631688566",
+        "addr:housenumber": "500",
+        "addr:street": "Ellis Street",
+        "amenity": "marketplace",
+        "name": "Amigos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4146073,
+          37.7847633
+        ]
+      },
+      "id": "node/4631688566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4942533434",
+        "amenity": "marketplace",
+        "cuisine": "mexican",
+        "name": "Mexican Farmers Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8530037,
+          37.3055976
+        ]
+      },
+      "id": "node/4942533434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4972560087",
+        "addr:city": "Moraga",
+        "addr:housenumber": "576",
+        "addr:postcode": "94556",
+        "addr:state": "CA",
+        "addr:street": "Center Street",
+        "amenity": "marketplace",
+        "name": "Moraga Produce",
+        "phone": "+1-925-377-1000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1260378,
+          37.8570456
+        ]
+      },
+      "id": "node/4972560087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5060520491",
+        "addr:city": "San Diego",
+        "addr:housenumber": "2170",
+        "addr:postcode": "92154",
+        "addr:state": "CA",
+        "addr:street": "Coronado Avenue",
+        "amenity": "marketplace",
+        "name": "Coronado Swap Meet",
+        "opening_hours": "We,Sa,Su 06:00-14:00",
+        "website": "https://southbaydrivein.com/swapmeet/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0875091,
+          32.576618
+        ]
+      },
+      "id": "node/5060520491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5222351457",
+        "addr:housenumber": "1250",
+        "addr:street": "Price Street",
+        "amenity": "marketplace",
+        "name": "DE BU Fillipino Market",
+        "opening_hours": "Mo-Sa 10:00-18:00; Su 12:00-17:00",
+        "phone": "+1-805-773-8653"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6432965,
+          35.1449888
+        ]
+      },
+      "id": "node/5222351457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5272612559",
+        "addr:full": "822 13th Street",
+        "addr:housenumber": "822",
+        "addr:street": "13th Street",
+        "amenity": "marketplace",
+        "name": "Di Raimondos Italian Market",
+        "phone": "+1-805-238-1268"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6896104,
+          35.6276574
+        ]
+      },
+      "id": "node/5272612559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5446511508",
+        "addr:city": "Burlingame",
+        "addr:housenumber": "1199 #3",
+        "addr:postcode": "94010",
+        "addr:state": "CA",
+        "addr:street": "Broadway",
+        "amenity": "marketplace",
+        "name": "Istanbul Market",
+        "opening_hours": "Mo-Su 09:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3643813,
+          37.5862743
+        ]
+      },
+      "id": "node/5446511508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5469666744",
+        "addr:housenumber": "11540",
+        "addr:street": "South Street",
+        "amenity": "marketplace",
+        "building": "no",
+        "description": "Food Trucks",
+        "name": "Atomic Eats",
+        "opening_hours": "We 17:30-20:30",
+        "website": "https://www.facebook.com/pages/Atomic-Eats/205755962814066"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0910634,
+          33.8572565
+        ]
+      },
+      "id": "node/5469666744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5469671513",
+        "amenity": "marketplace",
+        "building": "no",
+        "description": "farmer market with some fast food vendors",
+        "name": "Cerritos Certified Farmers Market",
+        "opening_hours": "Sa 8:00-12:00",
+        "phone": "+1-562-916-1254",
+        "website": "http://www.cerritos.us/RESIDENTS/recreation/events/farmers_market.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0623149,
+          33.8677925
+        ]
+      },
+      "id": "node/5469671513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5471193112",
+        "amenity": "marketplace",
+        "description": "No animals allowed except service dogs",
+        "name": "Southland Farmers' Market",
+        "opening_hours": "Su 09:00-14:00",
+        "payment:ebt": "yes",
+        "phone": "+1-310-455-0181"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1495983,
+          34.1476179
+        ]
+      },
+      "id": "node/5471193112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5613333166",
+        "amenity": "marketplace",
+        "name": "Fida Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4196272,
+          37.7660549
+        ]
+      },
+      "id": "node/5613333166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5696143243",
+        "amenity": "marketplace",
+        "name": "Bay Area Night Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9995697,
+          37.524974
+        ]
+      },
+      "id": "node/5696143243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5797651172",
+        "amenity": "marketplace",
+        "name": "La Joya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1642922,
+          41.9332881
+        ]
+      },
+      "id": "node/5797651172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5816784366",
+        "alt_name": "San Pablo Area Revitalization Collaborative",
+        "amenity": "marketplace",
+        "name": "SPARC-it-Place!",
+        "website": "https://www.sparcitplace.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2784791,
+          37.8254904
+        ]
+      },
+      "id": "node/5816784366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5831142586",
+        "addr:city": "San Diego",
+        "addr:postcode": "92101",
+        "addr:street": "Tuna Wharf",
+        "amenity": "marketplace",
+        "name": "Fish Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.175625,
+          32.7122312
+        ]
+      },
+      "id": "node/5831142586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5847708580",
+        "amenity": "marketplace",
+        "name": "Mountain Marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9410299,
+          40.7335903
+        ]
+      },
+      "id": "node/5847708580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5861466486",
+        "addr:housenumber": "7300",
+        "addr:postcode": "92037",
+        "addr:street": "Girard Avenue",
+        "amenity": "marketplace",
+        "name": "Open Aire Farmer’s Market",
+        "opening_hours": "Su 09:00-13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2716141,
+          32.8376649
+        ]
+      },
+      "id": "node/5861466486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6056298711",
+        "amenity": "marketplace",
+        "check_date": "2024-12-22",
+        "level": "1",
+        "name": "The Well",
+        "vending": "cosmetics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5872971,
+          38.6929
+        ]
+      },
+      "id": "node/6056298711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6215022320",
+        "amenity": "marketplace",
+        "name": "Claro's Italian Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8886172,
+          34.0875424
+        ]
+      },
+      "id": "node/6215022320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6422834065",
+        "amenity": "marketplace",
+        "name": "Bristol Warner Marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.885975,
+          33.7178859
+        ]
+      },
+      "id": "node/6422834065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6488926473",
+        "addr:city": "Los Angeles",
+        "addr:housenumber": "777",
+        "addr:postcode": "90021",
+        "addr:state": "CA",
+        "addr:street": "South Alameda Street",
+        "amenity": "marketplace",
+        "name": "Smorgasburg",
+        "note": "Parking entrance at Alameda/Center",
+        "opening_hours": "Su 10:00-16:00",
+        "website": "https://la.smorgasburg.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2418146,
+          34.034717
+        ]
+      },
+      "id": "node/6488926473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6521383065",
+        "amenity": "marketplace",
+        "name": "Taylor Street Night Market",
+        "opening_hours": "May-Aug: Th 17:00-21:00",
+        "operator": "SJMade",
+        "website": "https://www.mvblfeast.com/taylorstreetmarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.892725,
+          37.3539309
+        ]
+      },
+      "id": "node/6521383065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6521383066",
+        "amenity": "marketplace",
+        "name": "Japantown Certified Farmer’s Market",
+        "opening_hours": "May-Oct Su 08:00-12:00",
+        "operator": "Japantown Business Association",
+        "website": "https://www.japantownsanjose.org/sunday-farmers-market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8929717,
+          37.3538371
+        ]
+      },
+      "id": "node/6521383066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6597620445",
+        "amenity": "marketplace",
+        "name": "Farmers Market",
+        "opening_hours": "Sa 09:00-12:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.2082865,
+          39.1483853
+        ]
+      },
+      "id": "node/6597620445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6761019986",
+        "amenity": "marketplace",
+        "name": "California Market Center",
+        "website": "https://www.californiamarketcenter.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25544,
+          34.0406186
+        ]
+      },
+      "id": "node/6761019986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6894156804",
+        "addr:city": "Topanga",
+        "addr:housenumber": "120",
+        "addr:postcode": "90290",
+        "addr:state": "CA",
+        "addr:street": "South Topanga Canyon Boulevard",
+        "addr:unit": "110",
+        "amenity": "marketplace",
+        "name": "Canyon Gourmet",
+        "opening_hours": "Mo-Su 10:00-19:00",
+        "website": "https://www.canyongourmet.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6034542,
+          34.089521
+        ]
+      },
+      "id": "node/6894156804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6901071714",
+        "amenity": "marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2124128,
+          32.7520802
+        ]
+      },
+      "id": "node/6901071714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6923605960",
+        "addr:unit": "212",
+        "alt_name": "San Francisco Wholesale Produce Market",
+        "amenity": "marketplace",
+        "name": "The SF Market",
+        "opening_hours": "Mo-Fr 03:00-09:00 || Mo-Fr 03:00+ open \"some businesses\" || Sa 03:00+ open \"some businesses\"",
+        "website": "https://www.thesfmarket.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3949507,
+          37.7411787
+        ]
+      },
+      "id": "node/6923605960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6959323280",
+        "addr:city": "Danville",
+        "addr:housenumber": "206",
+        "addr:postcode": "94526",
+        "addr:state": "CA",
+        "addr:street": "Railroad Avenue",
+        "amenity": "marketplace",
+        "building": "no",
+        "name": "Danville Farmers' Market",
+        "opening_hours": "Sa 09:00-13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.00043,
+          37.8204968
+        ]
+      },
+      "id": "node/6959323280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6970032907",
+        "addr:housenumber": "2820",
+        "addr:street": "Historic Decatur Road",
+        "amenity": "marketplace",
+        "check_date": "2022-05-11",
+        "name": "Liberty Public Market",
+        "opening_hours": "Mo-Su 10:30-21:00; Dec 25 off; Dec 31 11:00-17:00; Jan 1 11:00-19:00; Nov Th[4] off; Jul 4 off",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "website": "https://bluebridgehospitality.com/libertypublicmarket/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2112403,
+          32.7401964
+        ]
+      },
+      "id": "node/6970032907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6993884746",
+        "amenity": "marketplace",
+        "check_date": "2023-04-02",
+        "internet_access": "no",
+        "name": "Farmer's Market",
+        "opening_hours": "Su 09:00-14:00",
+        "source": "survey;local knowledge",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1493307,
+          32.7494379
+        ]
+      },
+      "id": "node/6993884746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7121798609",
+        "addr:city": "San Jose",
+        "addr:housenumber": "211",
+        "addr:postcode": "95112",
+        "addr:state": "CA",
+        "addr:street": "South 9th Street",
+        "amenity": "marketplace",
+        "branch": "San Jose State University",
+        "building": "student_union",
+        "check_date": "2025-09-20",
+        "name": "Paseo Market",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "website": "https://new.dineoncampus.com/sjsu/campus-map/paseo-market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.881477,
+          37.3363187
+        ]
+      },
+      "id": "node/7121798609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7450878939",
+        "amenity": "marketplace",
+        "name": "Quail Valley Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2410049,
+          33.7016434
+        ]
+      },
+      "id": "node/7450878939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7455528319",
+        "amenity": "marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1770632,
+          33.6840202
+        ]
+      },
+      "id": "node/7455528319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7455528320",
+        "amenity": "marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1770485,
+          33.6838192
+        ]
+      },
+      "id": "node/7455528320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7484930538",
+        "amenity": "marketplace",
+        "name": "Joshua Tree Open Air Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3074886,
+          34.1398288
+        ]
+      },
+      "id": "node/7484930538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529576208",
+        "amenity": "marketplace",
+        "name": "Quail Valley Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2410068,
+          33.7015682
+        ]
+      },
+      "id": "node/7529576208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7698076086",
+        "amenity": "marketplace",
+        "name": "Made Local Marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7147416,
+          38.4402877
+        ]
+      },
+      "id": "node/7698076086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7698979069",
+        "amenity": "marketplace",
+        "name": "Bill's Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7306959,
+          38.4693398
+        ]
+      },
+      "id": "node/7698979069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7972230359",
+        "amenity": "marketplace",
+        "name": "San Miguel Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6573936,
+          36.6596017
+        ]
+      },
+      "id": "node/7972230359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8014712089",
+        "amenity": "marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5365473,
+          34.2309452
+        ]
+      },
+      "id": "node/8014712089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8048823882",
+        "amenity": "marketplace",
+        "name": "Swapmeet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2877712,
+          33.8424113
+        ]
+      },
+      "id": "node/8048823882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8048823883",
+        "amenity": "marketplace",
+        "name": "Alpine Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2877619,
+          33.8422426
+        ]
+      },
+      "id": "node/8048823883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8382278869",
+        "amenity": "marketplace",
+        "building": "no",
+        "name": "Motor Avenue Farmers Market",
+        "opening_hours": "Su 09:00-14:00",
+        "website": "https://www.motoravenuemarket.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4113021,
+          34.0289456
+        ]
+      },
+      "id": "node/8382278869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8406712242",
+        "amenity": "marketplace",
+        "check_date": "2025-07-16",
+        "contact:facebook": "https://www.facebook.com/pages/Olvera-Street/122321044457734",
+        "contact:instagram": "https://instagram.com/olverastreetofficial/",
+        "email": "osmaf.info@gmail.com",
+        "name": "Olvera Street Mexican Marketplace",
+        "website": "https://www.olveraevents.com/about-osmaf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2378858,
+          34.0575542
+        ]
+      },
+      "id": "node/8406712242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8596747660",
+        "addr:city": "Los Angeles",
+        "addr:housenumber": "4013",
+        "addr:postcode": "90004",
+        "addr:state": "CA",
+        "addr:street": "Beverly Boulevard",
+        "amenity": "marketplace",
+        "name": "Beverly Mart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2961899,
+          34.0764902
+        ]
+      },
+      "id": "node/8596747660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8741196624",
+        "amenity": "marketplace",
+        "name": "Soledad Farmers Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3279163,
+          36.4268232
+        ]
+      },
+      "id": "node/8741196624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8775177246",
+        "amenity": "marketplace",
+        "name": "Hispanic Market, Grocery Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4440284,
+          36.5066763
+        ]
+      },
+      "id": "node/8775177246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8775430959",
+        "amenity": "marketplace",
+        "name": "Farmers Food Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4431896,
+          36.5062208
+        ]
+      },
+      "id": "node/8775430959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8794119307",
+        "amenity": "marketplace",
+        "name": "Rancho San Miguel Markets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2459327,
+          36.3300142
+        ]
+      },
+      "id": "node/8794119307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8870738756",
+        "amenity": "marketplace",
+        "name": "Stonestown Farmers Market",
+        "opening_hours": "Su 09:00-13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4790236,
+          37.7302007
+        ]
+      },
+      "id": "node/8870738756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8899424422",
+        "addr:city": "San Diego",
+        "addr:housenumber": "3500",
+        "addr:postcode": "92110",
+        "addr:state": "CA",
+        "addr:street": "Sports Arena Boulevard",
+        "amenity": "marketplace",
+        "name": "Kobey's Swap Meet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2137644,
+          32.7568766
+        ]
+      },
+      "id": "node/8899424422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8899424502",
+        "amenity": "marketplace",
+        "name": "Santee Swapmeet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9582061,
+          32.8474475
+        ]
+      },
+      "id": "node/8899424502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9054926287",
+        "amenity": "marketplace",
+        "name": "Saet Byul Asian Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4478911,
+          33.9201214
+        ]
+      },
+      "id": "node/9054926287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9130489297",
+        "amenity": "marketplace",
+        "building": "no",
+        "check_date:opening_hours": "2024-05-09",
+        "name": "Culver City Farmers' Market",
+        "opening_hours": "Tu 14:00-19:00",
+        "website": "https://www.culvercityfarmersmarket.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3943995,
+          34.0246277
+        ]
+      },
+      "id": "node/9130489297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9225732600",
+        "addr:city": "Fresno",
+        "addr:housenumber": "4905",
+        "addr:postcode": "93727",
+        "addr:state": "CA",
+        "addr:street": "East Kings Canyon Road",
+        "addr:unit": "106",
+        "amenity": "marketplace",
+        "building": "retail",
+        "contact:facebook": "V-Nai-Mini-Mall-414417261956884",
+        "name": "V-Nai Mini Mall",
+        "opening_hours": "Mo-Sa 10:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7310465,
+          36.7374477
+        ]
+      },
+      "id": "node/9225732600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9328044909",
+        "amenity": "marketplace",
+        "name": "Al's Market 7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9263588,
+          33.8725389
+        ]
+      },
+      "id": "node/9328044909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503737727",
+        "amenity": "marketplace",
+        "name": "Marconi's River Park Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4329202,
+          38.5731657
+        ]
+      },
+      "id": "node/9503737727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9550208949",
+        "addr:city": "McArthur",
+        "addr:housenumber": "44160",
+        "addr:postcode": "96056",
+        "addr:state": "CA",
+        "addr:street": "Ca-299",
+        "addr:unit": "5",
+        "amenity": "marketplace",
+        "building": "public",
+        "name": "McArthur Mart",
+        "opening_hours": "Mo-Th 05:30-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4026005,
+          41.0501559
+        ]
+      },
+      "id": "node/9550208949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9550208953",
+        "amenity": "marketplace",
+        "name": "The Bulldog Bite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3994398,
+          41.046958
+        ]
+      },
+      "id": "node/9550208953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9559516415",
+        "amenity": "marketplace",
+        "name": "West LA Farmers Market",
+        "opening_hours": "Su 09:00-14:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4505626,
+          34.0455828
+        ]
+      },
+      "id": "node/9559516415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9736077947",
+        "amenity": "marketplace",
+        "name": "Quality Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9116609,
+          33.8280054
+        ]
+      },
+      "id": "node/9736077947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9738075040",
+        "amenity": "marketplace",
+        "name": "La Barata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2438231,
+          36.3210805
+        ]
+      },
+      "id": "node/9738075040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9738075044",
+        "amenity": "marketplace",
+        "name": "Economic Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2436816,
+          36.3209312
+        ]
+      },
+      "id": "node/9738075044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9791517979",
+        "amenity": "marketplace",
+        "name": "Juquilita Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6504547,
+          36.6982816
+        ]
+      },
+      "id": "node/9791517979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9791518015",
+        "amenity": "marketplace",
+        "name": "Steve's Filipino Asian Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6518764,
+          36.7007859
+        ]
+      },
+      "id": "node/9791518015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9892079806",
+        "addr:city": "San Jose",
+        "addr:housenumber": "3986",
+        "addr:postcode": "95124",
+        "addr:street": "South Bascom Avenue",
+        "amenity": "marketplace",
+        "name": "Pars Kosher Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9475622,
+          37.2583521
+        ]
+      },
+      "id": "node/9892079806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9906973046",
+        "amenity": "marketplace",
+        "name": "626 Night Market Mini",
+        "note": "Only certain weekends",
+        "opening_hours": "\"it's seasonal and is only a bunch of stalls that are set up occasionally\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4957024,
+          34.0180401
+        ]
+      },
+      "id": "node/9906973046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9907266305",
+        "amenity": "marketplace",
+        "name": "Fusion Cash and Carry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.947445,
+          37.7717036
+        ]
+      },
+      "id": "node/9907266305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10120011709",
+        "amenity": "marketplace",
+        "name": "San Miguel Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8330788,
+          35.3140326
+        ]
+      },
+      "id": "node/10120011709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10124701049",
+        "amenity": "marketplace",
+        "name": "Santa Monica Airport Antique Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4453134,
+          34.0177747
+        ]
+      },
+      "id": "node/10124701049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10170519453",
+        "amenity": "marketplace",
+        "name": "India Sweets and Spices"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4413867,
+          33.9230152
+        ]
+      },
+      "id": "node/10170519453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10170524179",
+        "amenity": "marketplace",
+        "name": "Tienda Tzuluma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4400509,
+          33.9237585
+        ]
+      },
+      "id": "node/10170524179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10181219315",
+        "amenity": "marketplace",
+        "name": "Brentwood Farmers Market",
+        "opening_hours": "Su 09:00-14:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.47503,
+          34.0504995
+        ]
+      },
+      "id": "node/10181219315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10205352044",
+        "amenity": "marketplace",
+        "name": "Village Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.659242,
+          35.3073361
+        ]
+      },
+      "id": "node/10205352044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10218891993",
+        "addr:city": "San Jose",
+        "addr:housenumber": "1698",
+        "addr:postcode": "95131",
+        "addr:state": "CA",
+        "addr:street": "Hostetter Road",
+        "amenity": "marketplace",
+        "name": "World Ginseng & Health Products",
+        "opening_hours": "Mo-Sa 10:00-18:00",
+        "phone": "+1-408-441-8898",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.883962,
+          37.3866407
+        ]
+      },
+      "id": "node/10218891993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10226810205",
+        "amenity": "marketplace",
+        "name": "Super Seafood Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4844741,
+          33.9143905
+        ]
+      },
+      "id": "node/10226810205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10261525788",
+        "amenity": "marketplace",
+        "name": "Stonestown Farmers Market",
+        "opening_hours": "Su 09:00-13:00",
+        "start_date": "2009",
+        "website": "https://www.agriculturalinstitute.org/stonestown",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4799993,
+          37.7301174
+        ]
+      },
+      "id": "node/10261525788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10292342264",
+        "amenity": "marketplace",
+        "name": "Lao Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3887068,
+          40.5717601
+        ]
+      },
+      "id": "node/10292342264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10651024023",
+        "amenity": "marketplace",
+        "name": "Ferry Plaza Farmers Market",
+        "opening_hours": "Tu 10:00-14:00; Th 10:00-14:00; Sa 08:00-14:00",
+        "website": "https://foodwise.org/markets/ferry-plaza-farmers-market/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3923704,
+          37.7952753
+        ]
+      },
+      "id": "node/10651024023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10655776640",
+        "addr:city": "Cupertino",
+        "addr:housenumber": "21250",
+        "addr:postcode": "95014",
+        "addr:state": "CA",
+        "addr:street": "Stevens Creek Boulevard",
+        "amenity": "marketplace",
+        "description": "Farmer's market every Sunday, year around.  In Parking lot B, under solar panel canopy",
+        "name": "De Anza College Farmers' Market",
+        "opening_hours": "Su 09:00-13:00",
+        "website": "https://www.wcfma.org/cupertino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.04251,
+          37.3203594
+        ]
+      },
+      "id": "node/10655776640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10655777211",
+        "addr:city": "San Jose",
+        "addr:housenumber": "1376",
+        "addr:postcode": "95132",
+        "addr:state": "CA",
+        "addr:street": "Piedmont Road",
+        "amenity": "marketplace",
+        "name": "Berryessa Farmers' Market",
+        "opening_hours": "Apr 01-Nov 18 Sa 09:00-13:00",
+        "website": "https://www.pcfma.org/berryessa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8477815,
+          37.4026102
+        ]
+      },
+      "id": "node/10655777211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10797501088",
+        "amenity": "marketplace",
+        "name": "Yuen Hop Company & Asian Food Products"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2709782,
+          37.7996185
+        ]
+      },
+      "id": "node/10797501088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10894495098",
+        "amenity": "marketplace",
+        "check_date": "2023-05-13",
+        "name": "Scotts Valley Farmers Market",
+        "opening_hours": "May Sa[1]-Nov Sa[3] Sa 09:00-13:00",
+        "website": "https://santacruzfarmersmarket.org/markets/scotts-valley/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0110981,
+          37.0550209
+        ]
+      },
+      "id": "node/10894495098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10913702256",
+        "amenity": "marketplace",
+        "name": "La Tiendita De Lunahuaná"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8858299,
+          38.0082869
+        ]
+      },
+      "id": "node/10913702256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10925657805",
+        "amenity": "marketplace",
+        "name": "Westwood Village Farmers Market",
+        "opening_hours": "Th 12:00-17:00",
+        "website": "https://thewestwoodvillage.com/events/westwood-village-farmers-market/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4464374,
+          34.061758
+        ]
+      },
+      "id": "node/10925657805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10942519290",
+        "amenity": "marketplace",
+        "name": "Shasta Produce Oakland Facility"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2749543,
+          37.7962177
+        ]
+      },
+      "id": "node/10942519290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10942519291",
+        "amenity": "marketplace",
+        "name": "Fujii Melon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2752358,
+          37.7957915
+        ]
+      },
+      "id": "node/10942519291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10942519292",
+        "amenity": "marketplace",
+        "name": "RCI Produce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2755261,
+          37.7955912
+        ]
+      },
+      "id": "node/10942519292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10942519293",
+        "amenity": "marketplace",
+        "name": "Ocean Produce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.275473,
+          37.7954002
+        ]
+      },
+      "id": "node/10942519293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10942519294",
+        "amenity": "marketplace",
+        "name": "All Seasons Produce Inc."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2748614,
+          37.7956494
+        ]
+      },
+      "id": "node/10942519294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10942519295",
+        "amenity": "marketplace",
+        "name": "Pear Tree Produce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2744886,
+          37.795505
+        ]
+      },
+      "id": "node/10942519295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10942519296",
+        "amenity": "marketplace",
+        "name": "Cali Fresh Produce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2746124,
+          37.7960628
+        ]
+      },
+      "id": "node/10942519296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10942519297",
+        "amenity": "marketplace",
+        "name": "G & N Produce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2743073,
+          37.7959685
+        ]
+      },
+      "id": "node/10942519297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10942519298",
+        "amenity": "marketplace",
+        "name": "Farmers Produce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2740642,
+          37.7961757
+        ]
+      },
+      "id": "node/10942519298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10942519299",
+        "amenity": "marketplace",
+        "name": "S & Y Wholesale Produce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2745475,
+          37.7969129
+        ]
+      },
+      "id": "node/10942519299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10942519300",
+        "amenity": "marketplace",
+        "name": "Golden State Fresh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2746772,
+          37.7966951
+        ]
+      },
+      "id": "node/10942519300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10943532937",
+        "addr:city": "Fremont",
+        "addr:housenumber": "4930",
+        "addr:postcode": "94555",
+        "addr:state": "CA",
+        "addr:street": "Paseo Padre Parkway",
+        "amenity": "marketplace",
+        "name": "Namaste India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0526437,
+          37.56713
+        ]
+      },
+      "id": "node/10943532937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10943559707",
+        "addr:city": "Union City",
+        "addr:housenumber": "29266",
+        "addr:postcode": "94587",
+        "addr:state": "CA",
+        "addr:street": "Union City Boulevard",
+        "amenity": "marketplace",
+        "name": "Spice House",
+        "website": "https://shopspicehouse.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0829205,
+          37.6090509
+        ]
+      },
+      "id": "node/10943559707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11013168406",
+        "amenity": "marketplace",
+        "name": "Lake Forest Farmer's Market",
+        "opening_hours": "We 16:00-20:00; Th-Tu off",
+        "organic": "yes",
+        "website": "https://www.lakeforestca.gov/en/departments/community-services/lake-forest-certified-farmers-market",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6578992,
+          33.6632806
+        ]
+      },
+      "id": "node/11013168406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11020560267",
+        "amenity": "marketplace",
+        "dog": "no",
+        "name": "Laguna Hills Farmer's Market",
+        "opening_hours": "Fr 09:00-13:00 \"Rain or shine\"",
+        "operator": "Orange County Farm Bureau",
+        "organic": "yes",
+        "website": "https://www.ocfarmbureau.org/shop-at-farmer-s-markets",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7095099,
+          33.6123916
+        ]
+      },
+      "id": "node/11020560267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11157745543",
+        "amenity": "marketplace",
+        "name": "Hudson Good's & Greens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.281553,
+          38.301578
+        ]
+      },
+      "id": "node/11157745543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11269658286",
+        "addr:housenumber": "332",
+        "addr:street": "Pine Street",
+        "amenity": "marketplace",
+        "check_date": "2023-10-17",
+        "name": "Mellow Mercado",
+        "note": "Pop-up multi-vendor marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4015253,
+          37.7921582
+        ]
+      },
+      "id": "node/11269658286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11345417100",
+        "amenity": "marketplace",
+        "building": "no",
+        "name": "Mar Vista Farmers' Market",
+        "opening_hours": "Su 09:00-14:00",
+        "website": "https://www.marvistafarmersmarket.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4309913,
+          34.0045841
+        ]
+      },
+      "id": "node/11345417100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11572090850",
+        "addr:city": "Tulare",
+        "addr:country": "US",
+        "addr:housenumber": "4560",
+        "addr:postcode": "93274",
+        "addr:state": "CA",
+        "addr:street": "South K Street",
+        "name": "California Animal Products",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "John Candeias",
+        "payment:amex": "yes",
+        "payment:cash": "yes",
+        "payment:checks": "yes",
+        "payment:discover_card": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+1-559-688-4848",
+        "shop": "dairy",
+        "website": "https://californiaanimalproducts.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.3346197,
+          36.1640607
+        ]
+      },
+      "id": "node/11572090850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11654865040",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Winter Sister Farm",
+        "opening_hours": "tu 14:00-18:00, Sa 10:00-14:00",
+        "shop": "farm",
+        "website": "https://www.wintersisterfarm.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8004477,
+          38.3884874
+        ]
+      },
+      "id": "node/11654865040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11694828615",
+        "amenity": "marketplace",
+        "name": "Uptown Market",
+        "operator": "Black Cultural Zone and Block, Inc.",
+        "website": "https://www.blockcommunityhub.com/uptown-market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2686666,
+          37.8090511
+        ]
+      },
+      "id": "node/11694828615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11742191287",
+        "amenity": "marketplace",
+        "name": "Micro-Market Spaces",
+        "operator": "Sanctuary for Sustainable Artistry, Inc.",
+        "website": "https://www.sanctuaryfsa.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2734159,
+          37.8015951
+        ]
+      },
+      "id": "node/11742191287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11757296435",
+        "addr:housenumber": "5075",
+        "addr:postcode": "90027",
+        "addr:street": "Hollywood Boulevard",
+        "amenity": "marketplace",
+        "check_date": "2024-10-03",
+        "cuisine": "Meat;Deli",
+        "delivery": "yes",
+        "description": "Meat, Deli, Grocery, Fish, We cook meat or fish by pounds a small supermarket",
+        "name": "Nairi Market",
+        "opening_hours": "Mo 08:00-18:00; Tu-Sa 08:00-19:00; Su 08:00-17:00",
+        "phone": "+1 323-666-9966",
+        "website": "https://m.yelp.com/biz_redir?url=http%3A%2F%2Fnairimarket.mobile-webview1.com&cachebuster=1727990527&website_link_type=website&src_bizid=goLMgI32aesov_2OzaNERg&s=d661b2bf48c027f29952b8717c58c0de36068ecfe01e2cac5516c81e7675d34d",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3003442,
+          34.1019792
+        ]
+      },
+      "id": "node/11757296435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11810529407",
+        "addr:housenumber": "419",
+        "addr:street": "2nd Street",
+        "amenity": "marketplace",
+        "name": "Saba Grocers",
+        "website": "https://sabagrocers.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2757595,
+          37.7956436
+        ]
+      },
+      "id": "node/11810529407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11840624261",
+        "amenity": "marketplace",
+        "name": "El Gran Chaparral",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6904798,
+          34.0779593
+        ]
+      },
+      "id": "node/11840624261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11918627087",
+        "amenity": "marketplace",
+        "name": "West Oakland Farmers' Market",
+        "opening_hours": "Su 10:00-14:00",
+        "operator": "Urban Village Farmers' Market Association",
+        "shop": "farm",
+        "website": "https://www.westoaklandfarmersmarket.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2919127,
+          37.8144378
+        ]
+      },
+      "id": "node/11918627087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11971191448",
+        "amenity": "marketplace",
+        "name": "Prescott Night Market",
+        "opening_hours": "Jun-Oct Th 16:00-20:00",
+        "website": "https://www.westoaklandfarmersmarket.org/nightmarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2924621,
+          37.8144672
+        ]
+      },
+      "id": "node/11971191448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11988998884",
+        "amenity": "marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.179995,
+          33.7904565
+        ]
+      },
+      "id": "node/11988998884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12140956460",
+        "amenity": "marketplace",
+        "name": "Friant Trading Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7152416,
+          36.9835049
+        ]
+      },
+      "id": "node/12140956460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12147212608",
+        "amenity": "marketplace",
+        "name": "Davis Farmer's Market",
+        "opening_hours": "Sa 08:00-13:00; We 15:00-18:00; May-Sep We 16:00-20:00",
+        "website": "https://www.davisfarmersmarket.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7440979,
+          38.5447817
+        ]
+      },
+      "id": "node/12147212608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12180673281",
+        "amenity": "marketplace",
+        "name": "Iron Door General Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.2298822,
+          37.8393284
+        ]
+      },
+      "id": "node/12180673281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12387291334",
+        "amenity": "marketplace",
+        "description": "Afghan food market",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1431496,
+          33.5380865
+        ]
+      },
+      "id": "node/12387291334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12405680772",
+        "addr:housenumber": "8521",
+        "addr:postcode": "95826",
+        "addr:street": "Folsom Boulevard",
+        "amenity": "marketplace",
+        "check_date": "2024-12-08",
+        "name": "Folsom Blvd Fle Market",
+        "opening_hours": "Mo-Fr off; Sa-Su 07:00-16:00",
+        "phone": "+1 916-383-0880",
+        "website": "http://folsomflea.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.389765,
+          38.5489515
+        ]
+      },
+      "id": "node/12405680772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12530023760",
+        "addr:city": "San Jose",
+        "addr:housenumber": "494",
+        "addr:postcode": "95126",
+        "addr:state": "CA",
+        "addr:street": "Auzerais Avenue",
+        "amenity": "marketplace",
+        "building": "retail",
+        "image": "https://www.mapillary.com/app/?pKey=932541431049799&focus=photo",
+        "name": "Mi Rancho Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8969738,
+          37.3244971
+        ]
+      },
+      "id": "node/12530023760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12556901787",
+        "addr:city": "San Jose",
+        "addr:housenumber": "1062",
+        "addr:postcode": "95116",
+        "addr:state": "CA",
+        "addr:street": "East Santa Clara Street",
+        "amenity": "marketplace",
+        "building": "retail",
+        "name": "Don Mateo Foods"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8694044,
+          37.3460921
+        ]
+      },
+      "id": "node/12556901787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12597087615",
+        "name": "Pico Drive-In Dairy",
+        "shop": "dairy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0812082,
+          34.0082036
+        ]
+      },
+      "id": "node/12597087615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12634678302",
+        "addr:housenumber": "6377",
+        "addr:postcode": "91977",
+        "addr:street": "Quarry Road",
+        "amenity": "marketplace",
+        "name": "Spring Valley Swap Meet",
+        "opening_hours": "Sa-Su 07:00-15:00",
+        "website": "https://www.springvalleyswapmeet.net"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0076145,
+          32.7028295
+        ]
+      },
+      "id": "node/12634678302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12739709154",
+        "amenity": "marketplace",
+        "description": "Kims",
+        "name": "Kim’s Aisian Food Mart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7412885,
+          38.5458022
+        ]
+      },
+      "id": "node/12739709154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12832972904",
+        "addr:city": "Needles",
+        "addr:housenumber": "2100",
+        "addr:postcode": "92363",
+        "addr:state": "CA",
+        "addr:street": "Needles Highway",
+        "amenity": "marketplace",
+        "name": "Colorado River Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6191287,
+          34.8487445
+        ]
+      },
+      "id": "node/12832972904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12976266032",
+        "addr:city": "Santa Rosa",
+        "addr:postcode": "95405",
+        "addr:state": "CA",
+        "addr:street": "Farmer's Lane",
+        "amenity": "marketplace",
+        "name": "Santa Rosa Community Farmers Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6893299,
+          38.4341134
+        ]
+      },
+      "id": "node/12976266032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13072815001",
+        "addr:housenumber": "17835",
+        "addr:postcode": "91748",
+        "addr:street": "Gale Avenue",
+        "amenity": "marketplace",
+        "opening_hours": "Su 10:00-17:00; Sa 09:00-18:00; We 15:00-21:00",
+        "website": "https://www.frankandsonshow.net"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9149171,
+          33.9958381
+        ]
+      },
+      "id": "node/13072815001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13076350673",
+        "amenity": "marketplace",
+        "building": "retail",
+        "name": "Tokyo Central"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.782272,
+          33.7083476
+        ]
+      },
+      "id": "node/13076350673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13113988398",
+        "amenity": "marketplace",
+        "name": "Etna Farmer's Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8965129,
+          41.4635578
+        ]
+      },
+      "id": "node/13113988398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13304579992",
+        "addr:city": "Silverado",
+        "addr:housenumber": "28192",
+        "addr:postcode": "92676",
+        "addr:state": "CA",
+        "addr:street": "Silverado Canyon Road",
+        "amenity": "marketplace",
+        "check_date": "2025-11-14",
+        "check_date:currency:XBT": "2025-11-14",
+        "contact:instagram": "https://www.instagram.com/silveradocanyonmarket/",
+        "contact:yelp": "https://www.yelp.com/biz/silverado-canyon-market-silverado-3",
+        "currency:XBT": "yes",
+        "name": "Canyon Market",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "payment:lightning": "yes",
+        "payment:lightning:operator": "square",
+        "payment:lightning_contactless": "no",
+        "payment:onchain": "no",
+        "phone": "+1 714 649 9056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.639176,
+          33.747339
+        ]
+      },
+      "id": "node/13304579992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13370965931",
+        "amenity": "marketplace",
+        "name": "Local Market & Deli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4478097,
+          33.959604
+        ]
+      },
+      "id": "node/13370965931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13380402142",
+        "addr:city": "Goleta",
+        "addr:housenumber": "123",
+        "addr:postcode": "93117",
+        "addr:state": "CA",
+        "addr:street": "Aero Camino",
+        "contact:yelp": "https://www.yelp.com/biz/gold-coast-dairy-goleta",
+        "name": "Gold Coast Dairy",
+        "phone": "+1-805-562-1260",
+        "shop": "dairy",
+        "website": "https://www.facebook.com/pages/Gold-Coast-Dairy/143699375662133"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8490923,
+          34.4336388
+        ]
+      },
+      "id": "node/13380402142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13392305577",
+        "addr:city": "Cupertino",
+        "addr:housenumber": "10445",
+        "addr:state": "CA",
+        "addr:street": "Miller Avenue",
+        "amenity": "marketplace",
+        "name": "Creekside Farmers' Market",
+        "opening_hours": "Fr 08:00-12:00",
+        "operator": "Pacific Coast Farmers' Market Association"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.015253,
+          37.3165507
+        ]
+      },
+      "id": "node/13392305577"
+    }
+  ]
+}
